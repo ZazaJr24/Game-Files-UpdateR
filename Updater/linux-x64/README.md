@@ -286,12 +286,6 @@ dotnet run --project .\TidesUpdater\TidesUpdater.csproj -- `
   --github-branch "main"
 ```
 
-Beispiel mit Token direkt als Parameter:
-
-```powershell
-dotnet run --project .\TidesUpdater\TidesUpdater.csproj -- --api-key "dein-api-key" --auto-extract --github-upload --github-owner "dein-user" --github-repo "dein-repo" --github-branch "main" --github-token "github_pat_dein_token"
-```
-
 Der PAT braucht für das Ziel-Repository mindestens:
 
 ```text
@@ -312,42 +306,6 @@ Wenn der GitHub-Upload fehlschlägt, bleibt der lokale Extract trotzdem erhalten
 5. Programm starten.
 6. API mit `/API/test` prüfen.
 7. Clients können Keys und Manifeste über `/API/keys/<appId>` und `/API/manifests/<appId>` abrufen.
-
-## Build
-
-Debug-Build:
-
-```powershell
-dotnet build C:\Users\marco\RiderProjects\TidesUpdater\TidesUpdater.sln
-```
-
-Release-Build:
-
-```powershell
-dotnet build C:\Users\marco\RiderProjects\TidesUpdater\TidesUpdater.sln -c Release
-```
-
-## Publish-Beispiel
-
-Windows x64 als Single-File:
-
-```powershell
-dotnet publish C:\Users\marco\RiderProjects\TidesUpdater\TidesUpdater\TidesUpdater.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -o C:\Users\marco\RiderProjects\TidesUpdater\publish\win-x64
-```
-
-Linux x64 als Single-File:
-
-```powershell
-dotnet publish C:\Users\marco\RiderProjects\TidesUpdater\TidesUpdater\TidesUpdater.csproj -c Release -r linux-x64 --self-contained true -p:PublishSingleFile=true -o C:\Users\marco\RiderProjects\TidesUpdater\publish\linux-x64
-```
-
-Lege neben die veröffentlichte EXE bzw. Binary bei Bedarf diese Ordner:
-
-```text
-settings.json
-API
-serversettings
-```
 
 ## Fehlerbilder
 
