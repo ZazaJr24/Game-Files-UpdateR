@@ -1,0 +1,11 @@
+{
+  "ServerPort": 8080,
+  "ApiKey": "NOAPISERVICE",
+  "AutomaticExtractionEnabled": true,
+  "AutomaticExtractionIntervalMinutes": 10,
+  "GitHubUploadEnabled": true,
+  "GitHubOwner": "ZazaJr24",
+  "GitHubRepo": "Game-Files-UpdateR",
+  "GitHubBranch": "upload",
+  "GitHubToken": ""
+}
