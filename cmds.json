@@ -1222,7 +1222,7 @@
   },
   "Hatsune Miku Project DIVA Mega Mix+": {
     "game": "Hatsune Miku Project DIVA Mega Mix+",
-    "manifest_folder": "Manifests/Hatsune Miku Project DIVA Mega Mix+ Manifests and Keys",
+    "manifest_folder": "Manifests/1761390",
     "key_file": "1761390.key",
     "depots": [
       {
@@ -1285,7 +1285,7 @@
   },
   "Hogwarts Legacy": {
     "game": "Hogwarts Legacy",
-    "manifest_folder": "Manifests/Hogwarts Legacy Manifests and Keys",
+    "manifest_folder": "Manifests/990080",
     "key_file": "990080.key",
     "depots": [
       {
@@ -1944,6 +1944,18 @@
         "is_latest": true,
         "manifest_folder": "Manifests/F1® Manager 2024_B_17356935"
       }
+    ],
+    "manifest_folder": "Manifests/2591280",
+    "key_file": "2591280.key",
+    "depots": [
+      {
+        "app": "2591280",
+        "depot": "2591281",
+        "manifest": "5180313629266358202",
+        "mf": "2591281_5180313629266358202.manifest",
+        "key": "2591280.key",
+        "label": "Base Game"
+      }
     ]
   },
   "PRAGMATA": {
@@ -2251,7 +2263,7 @@
   },
   "DEATH STRANDING 2 ON THE BEACH": {
     "game": "DEATH STRANDING 2 ON THE BEACH",
-    "manifest_folder": "Manifests/DEATH STRANDING 2 ON THE BEACH Manifests and Keys",
+    "manifest_folder": "Manifests/3280350",
     "key_file": "3280350.key",
     "depots": [
       {
@@ -2305,18 +2317,18 @@
   },
   "Persona 4 Golden Manifests And Keys": {
     "game": "Persona 4 Golden Manifests And Keys",
-    "manifest_folder": "Manifests/Persona 4 Golden Manifests And Keys",
-    "key_file": "1113001.key",
+    "manifest_folder": "Manifests/1113000",
+    "key_file": "1113000.key",
     "depots": [
       {
-        "app": "1113001",
+        "app": "1113000",
         "depot": "1113001",
         "manifest": "4737529339202475845",
         "mf": "1113001_4737529339202475845.manifest",
         "label": "Base Game"
       },
       {
-        "app": "1113001",
+        "app": "1113000",
         "depot": "1113002",
         "manifest": "2520901896865483548",
         "mf": "1113002_2520901896865483548.manifest",
