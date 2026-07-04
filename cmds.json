@@ -7613,30 +7613,18 @@
   },
   "Warhammer Age of Sigmar: Realms of Ruin": {
     "game": "Warhammer Age of Sigmar: Realms of Ruin",
-    "manifest_folder": "Manifests/1844380",
-    "key_file": "1844380.key",
+    "manifest_folder": "Manifests/1770380",
+    "key_file": "1770380.key",
     "depots": [
       {
-        "app": "1844380",
-        "depot": "1844381",
-        "manifest": "6369046589173515865",
-        "mf": "1844381_6369046589173515865.manifest",
+        "app": "1770380",
+        "depot": "1770381",
+        "manifest": "1882861819283052166",
+        "mf": "1770381_1882861819283052166.manifest",
         "label": "Base Game",
-        "key": "1844380.key",
-        "size": "15748504249",
-        "max_size": "15748504249",
-        "steam_manifest_size": "15748504249",
-        "buildid": "16842927",
-        "target_buildid": "16842927"
+        "key": "1770380.key"
       }
-    ],
-    "size_bytes": "15748504249",
-    "size_gb": 15.75,
-    "build_id": "16842927",
-    "buildid": "16842927",
-    "build_name": "B_16842927",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Yakuza: Like a Dragon": {
     "game": "Yakuza: Like a Dragon",
