@@ -8616,5 +8616,28 @@
     "build_name": "B_23692242",
     "build_id_source": "steamcmd:public",
     "build_id_exact": true
+  },
+  "Like a Dragon: Gaiden - The Man Who Erased His Name": {
+    "game": "Like a Dragon: Gaiden - The Man Who Erased His Name",
+    "manifest_folder": "Manifests/2272740",
+    "key_file": "2272740.key",
+    "depots": [
+      {
+        "app": "2272740",
+        "depot": "2272741",
+        "manifest": "7901077624317050938",
+        "mf": "2272741_7901077624317050938.manifest",
+        "label": "Base Game",
+        "key": "2272740.key"
+      },
+      {
+        "app": "2272740",
+        "depot": "2272743",
+        "manifest": "60765676354692865",
+        "mf": "2272743_60765676354692865.manifest",
+        "label": "Pack 1",
+        "key": "2272740.key"
+      }
+    ]
   }
 }
