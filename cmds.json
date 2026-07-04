@@ -1683,24 +1683,36 @@
       {
         "app": "3357650",
         "depot": "3357651",
-        "manifest": "2417499809052404547",
-        "mf": "3357651_2417499809052404547.manifest",
+        "manifest": "6330832861176696160",
+        "mf": "3357651_6330832861176696160.manifest",
         "label": "Base Game",
-        "key": "3357650.key",
-        "size": "36816287661",
-        "max_size": "36816287661",
-        "size_bytes": "36816287661",
-        "steam_manifest_size": "36816287661"
+        "key": "3357650.key"
+      },
+      {
+        "app": "3357650",
+        "depot": "3357652",
+        "manifest": "5639705324720691310",
+        "mf": "3357652_5639705324720691310.manifest",
+        "label": "Pack 1",
+        "key": "3357650.key"
+      },
+      {
+        "app": "3357650",
+        "depot": "3859920",
+        "manifest": "4731286747379700304",
+        "mf": "3859920_4731286747379700304.manifest",
+        "label": "Pack 2",
+        "key": "3357650.key"
+      },
+      {
+        "app": "3357650",
+        "depot": "3859930",
+        "manifest": "6714427611547107917",
+        "mf": "3859930_6714427611547107917.manifest",
+        "label": "Pack 3",
+        "key": "3357650.key"
       }
-    ],
-    "build_id": "22357085",
-    "buildid": "22357085",
-    "build_name": "B_22357085",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "36816287661",
-    "size_gb": 36.82,
-    "appid": "3357650"
+    ]
   },
   "Atomic Heart": {
     "game": "Atomic Heart",
