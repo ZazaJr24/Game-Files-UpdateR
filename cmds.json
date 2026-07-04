@@ -2553,11 +2553,7 @@
         "manifest": "8462395231943270878",
         "mf": "2054971_8462395231943270878.manifest",
         "label": "Base Game",
-        "key": "2054970.key",
-        "size": "70665316526",
-        "max_size": "70665316526",
-        "size_bytes": "70662446742",
-        "steam_manifest_size": "70665316526"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2565,11 +2561,7 @@
         "manifest": "7689270644606926785",
         "mf": "2054972_7689270644606926785.manifest",
         "label": "Pack 1",
-        "key": "2054970.key",
-        "size": "70663661176",
-        "max_size": "70663661176",
-        "size_bytes": "70662446846",
-        "steam_manifest_size": "70663661176"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2577,11 +2569,7 @@
         "manifest": "7636835853827378901",
         "mf": "2054973_7636835853827378901.manifest",
         "label": "Pack 2",
-        "key": "2054970.key",
-        "size": "913167402",
-        "max_size": "913167402",
-        "size_bytes": "728286000",
-        "steam_manifest_size": "913167402"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2589,11 +2577,7 @@
         "manifest": "570957168529914683",
         "mf": "2054974_570957168529914683.manifest",
         "label": "Pack 3",
-        "key": "2054970.key",
-        "size": "903889136",
-        "max_size": "903889136",
-        "size_bytes": "735774354",
-        "steam_manifest_size": "903889136"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2601,12 +2585,7 @@
         "manifest": "3326500289311024291",
         "mf": "2581000_3326500289311024291.manifest",
         "label": "Dragon's Dogma 2: Superior Weapons Quartet - A Boon in Early Battles",
-        "key": "2054970.key",
-        "size": "551",
-        "max_size": "551",
-        "size_bytes": "551",
-        "steam_manifest_size": "551",
-        "steam_name": "Dragon's Dogma 2: Superior Weapons Quartet - A Boon in Early Battles"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2614,12 +2593,7 @@
         "manifest": "6723973524008089229",
         "mf": "2593170_6723973524008089229.manifest",
         "label": "Dragon's Dogma 2: Ring of Assurance - Adventurer's Safeguard",
-        "key": "2054970.key",
-        "size": "551",
-        "max_size": "551",
-        "size_bytes": "551",
-        "steam_manifest_size": "551",
-        "steam_name": "Dragon's Dogma 2: Ring of Assurance - Adventurer's Safeguard"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2627,12 +2601,7 @@
         "manifest": "2634842059355884280",
         "mf": "2593180_2634842059355884280.manifest",
         "label": "Dragon's Dogma 2: Explorer's Camping Kit - Camping Gear",
-        "key": "2054970.key",
-        "size": "14609",
-        "max_size": "14609",
-        "size_bytes": "14609",
-        "steam_manifest_size": "14609",
-        "steam_name": "Dragon's Dogma 2: Explorer's Camping Kit - Camping Gear"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2640,12 +2609,7 @@
         "manifest": "7277756736244661036",
         "mf": "2593190_7277756736244661036.manifest",
         "label": "Dragon's Dogma 2: Dragon's Dogma Music & Sound Collection - Custom Sounds",
-        "key": "2054970.key",
-        "size": "198079070",
-        "max_size": "198079070",
-        "size_bytes": "198079070",
-        "steam_manifest_size": "198079070",
-        "steam_name": "Dragon's Dogma 2: Dragon's Dogma Music & Sound Collection - Custom Sounds"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2653,12 +2617,7 @@
         "manifest": "3869936518091417960",
         "mf": "2593200_3869936518091417960.manifest",
         "label": "Dragon's Dogma 2: Harpysnare Smoke Beacons - Harpy Lure Item",
-        "key": "2054970.key",
-        "size": "5301",
-        "max_size": "5301",
-        "size_bytes": "5301",
-        "steam_manifest_size": "5301",
-        "steam_name": "Dragon's Dogma 2: Harpysnare Smoke Beacons - Harpy Lure Item"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2666,12 +2625,7 @@
         "manifest": "5414532205501697728",
         "mf": "2593210_5414532205501697728.manifest",
         "label": "Dragon's Dogma 2: Heartfelt Pendant - A Thoughtful Gift",
-        "key": "2054970.key",
-        "size": "8751",
-        "max_size": "8751",
-        "size_bytes": "8751",
-        "steam_manifest_size": "8751",
-        "steam_name": "Dragon's Dogma 2: Heartfelt Pendant - A Thoughtful Gift"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2679,12 +2633,7 @@
         "manifest": "7455982328362794134",
         "mf": "2593220_7455982328362794134.manifest",
         "label": "Dragon's Dogma 2: Ambivalent Rift Incense - Change Pawn Inclinations",
-        "key": "2054970.key",
-        "size": "5787",
-        "max_size": "5787",
-        "size_bytes": "5787",
-        "steam_manifest_size": "5787",
-        "steam_name": "Dragon's Dogma 2: Ambivalent Rift Incense - Change Pawn Inclinations"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2692,12 +2641,7 @@
         "manifest": "7251928774923524569",
         "mf": "2593230_7251928774923524569.manifest",
         "label": "Dragon's Dogma 2: Makeshift Gaol Key - Escape from gaol!",
-        "key": "2054970.key",
-        "size": "4289",
-        "max_size": "4289",
-        "size_bytes": "4289",
-        "steam_manifest_size": "4289",
-        "steam_name": "Dragon's Dogma 2: Makeshift Gaol Key - Escape from gaol!"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2705,12 +2649,7 @@
         "manifest": "315069544162243504",
         "mf": "2593240_315069544162243504.manifest",
         "label": "Dragon's Dogma 2: Art of Metamorphosis - Character Editor",
-        "key": "2054970.key",
-        "size": "5219",
-        "max_size": "5219",
-        "size_bytes": "5219",
-        "steam_manifest_size": "5219",
-        "steam_name": "Dragon's Dogma 2: Art of Metamorphosis - Character Editor"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2718,12 +2657,7 @@
         "manifest": "967135362921279442",
         "mf": "2593250_967135362921279442.manifest",
         "label": "Dragon's Dogma 2: 1500 Rift Crystals - Points to Spend Beyond the Rift (A)",
-        "key": "2054970.key",
-        "size": "556",
-        "max_size": "556",
-        "size_bytes": "556",
-        "steam_manifest_size": "556",
-        "steam_name": "Dragon's Dogma 2: 1500 Rift Crystals - Points to Spend Beyond the Rift (A)"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2731,12 +2665,7 @@
         "manifest": "69183187290100698",
         "mf": "2593260_69183187290100698.manifest",
         "label": "Dragon's Dogma 2: Wakestone - Restore the dead to life! (A)",
-        "key": "2054970.key",
-        "size": "4770",
-        "max_size": "4770",
-        "size_bytes": "4770",
-        "steam_manifest_size": "4770",
-        "steam_name": "Dragon's Dogma 2: Wakestone - Restore the dead to life! (A)"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2744,12 +2673,7 @@
         "manifest": "2207132955792828001",
         "mf": "2593270_2207132955792828001.manifest",
         "label": "Dragon's Dogma 2: Portcrystal - Warp Location Marker",
-        "key": "2054970.key",
-        "size": "4829",
-        "max_size": "4829",
-        "size_bytes": "4829",
-        "steam_manifest_size": "4829",
-        "steam_name": "Dragon's Dogma 2: Portcrystal - Warp Location Marker"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2757,12 +2681,7 @@
         "manifest": "5885578699773604089",
         "mf": "2694820_5885578699773604089.manifest",
         "label": "Dragon's Dogma 2: Wakestone - Restore the dead to life! (B)",
-        "key": "2054970.key",
-        "size": "4762",
-        "max_size": "4762",
-        "size_bytes": "4762",
-        "steam_manifest_size": "4762",
-        "steam_name": "Dragon's Dogma 2: Wakestone - Restore the dead to life! (B)"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2770,12 +2689,7 @@
         "manifest": "1601933322779527921",
         "mf": "2694830_1601933322779527921.manifest",
         "label": "Dragon's Dogma 2: Wakestone - Restore the dead to life! (C)",
-        "key": "2054970.key",
-        "size": "4762",
-        "max_size": "4762",
-        "size_bytes": "4762",
-        "steam_manifest_size": "4762",
-        "steam_name": "Dragon's Dogma 2: Wakestone - Restore the dead to life! (C)"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2783,12 +2697,15 @@
         "manifest": "211900286292596559",
         "mf": "2694840_211900286292596559.manifest",
         "label": "Dragon's Dogma 2: Wakestone - Restore the dead to life! (D)",
-        "key": "2054970.key",
-        "size": "4759",
-        "max_size": "4759",
-        "size_bytes": "4759",
-        "steam_manifest_size": "4759",
-        "steam_name": "Dragon's Dogma 2: Wakestone - Restore the dead to life! (D)"
+        "key": "2054970.key"
+      },
+      {
+        "app": "2054970",
+        "depot": "2694850",
+        "manifest": "8403226506099305605",
+        "mf": "2694850_8403226506099305605.manifest",
+        "label": "Pack 19",
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2796,12 +2713,7 @@
         "manifest": "760063107766921264",
         "mf": "2757060_760063107766921264.manifest",
         "label": "Dragon's Dogma 2: 500 Rift Crystals - Points to Spend Beyond the Rift (A)",
-        "key": "2054970.key",
-        "size": "556",
-        "max_size": "556",
-        "size_bytes": "556",
-        "steam_manifest_size": "556",
-        "steam_name": "Dragon's Dogma 2: 500 Rift Crystals - Points to Spend Beyond the Rift (A)"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2809,12 +2721,7 @@
         "manifest": "5169243754881054003",
         "mf": "2757080_5169243754881054003.manifest",
         "label": "Dragon's Dogma 2: 500 Rift Crystals - Points to Spend Beyond the Rift (B)",
-        "key": "2054970.key",
-        "size": "556",
-        "max_size": "556",
-        "size_bytes": "556",
-        "steam_manifest_size": "556",
-        "steam_name": "Dragon's Dogma 2: 500 Rift Crystals - Points to Spend Beyond the Rift (B)"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2822,12 +2729,23 @@
         "manifest": "3444076000364683673",
         "mf": "2757090_3444076000364683673.manifest",
         "label": "Dragon's Dogma 2: 500 Rift Crystals - Points to Spend Beyond the Rift (C)",
-        "key": "2054970.key",
-        "size": "557",
-        "max_size": "557",
-        "size_bytes": "557",
-        "steam_manifest_size": "557",
-        "steam_name": "Dragon's Dogma 2: 500 Rift Crystals - Points to Spend Beyond the Rift (C)"
+        "key": "2054970.key"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757100",
+        "manifest": "3589438684669064439",
+        "mf": "2757100_3589438684669064439.manifest",
+        "label": "Pack 23",
+        "key": "2054970.key"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757110",
+        "manifest": "6993325223339298221",
+        "mf": "2757110_6993325223339298221.manifest",
+        "label": "Pack 24",
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2835,12 +2753,7 @@
         "manifest": "1463489043546813420",
         "mf": "2757120_1463489043546813420.manifest",
         "label": "Dragon's Dogma 2: 1500 Rift Crystals - Points to Spend Beyond the Rift (B)",
-        "key": "2054970.key",
-        "size": "555",
-        "max_size": "555",
-        "size_bytes": "555",
-        "steam_manifest_size": "555",
-        "steam_name": "Dragon's Dogma 2: 1500 Rift Crystals - Points to Spend Beyond the Rift (B)"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2848,12 +2761,7 @@
         "manifest": "771876390790049210",
         "mf": "2757130_771876390790049210.manifest",
         "label": "Dragon's Dogma 2: 1500 Rift Crystals - Points to Spend Beyond the Rift (C)",
-        "key": "2054970.key",
-        "size": "556",
-        "max_size": "556",
-        "size_bytes": "556",
-        "steam_manifest_size": "556",
-        "steam_name": "Dragon's Dogma 2: 1500 Rift Crystals - Points to Spend Beyond the Rift (C)"
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2861,12 +2769,23 @@
         "manifest": "1033236542373376685",
         "mf": "2757140_1033236542373376685.manifest",
         "label": "Dragon's Dogma 2: 1500 Rift Crystals - Points to Spend Beyond the Rift (D)",
-        "key": "2054970.key",
-        "size": "555",
-        "max_size": "555",
-        "size_bytes": "555",
-        "steam_manifest_size": "555",
-        "steam_name": "Dragon's Dogma 2: 1500 Rift Crystals - Points to Spend Beyond the Rift (D)"
+        "key": "2054970.key"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757150",
+        "manifest": "4434377146123567945",
+        "mf": "2757150_4434377146123567945.manifest",
+        "label": "Pack 28",
+        "key": "2054970.key"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757160",
+        "manifest": "3279848405850203304",
+        "mf": "2757160_3279848405850203304.manifest",
+        "label": "Pack 29",
+        "key": "2054970.key"
       },
       {
         "app": "2054970",
@@ -2874,22 +2793,41 @@
         "manifest": "3459631589371686775",
         "mf": "2757170_3459631589371686775.manifest",
         "label": "Dragon's Dogma 2: 2500 Rift Crystals - Points to Spend Beyond the Rift (A)",
-        "key": "2054970.key",
-        "size": "558",
-        "max_size": "558",
-        "size_bytes": "558",
-        "steam_manifest_size": "558",
-        "steam_name": "Dragon's Dogma 2: 2500 Rift Crystals - Points to Spend Beyond the Rift (A)"
+        "key": "2054970.key"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757180",
+        "manifest": "5271075382477428458",
+        "mf": "2757180_5271075382477428458.manifest",
+        "label": "Pack 31",
+        "key": "2054970.key"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757190",
+        "manifest": "7353387220959454102",
+        "mf": "2757190_7353387220959454102.manifest",
+        "label": "Pack 32",
+        "key": "2054970.key"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757200",
+        "manifest": "7794411242485950378",
+        "mf": "2757200_7794411242485950378.manifest",
+        "label": "Pack 33",
+        "key": "2054970.key"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757210",
+        "manifest": "6663042780467633977",
+        "mf": "2757210_6663042780467633977.manifest",
+        "label": "Pack 34",
+        "key": "2054970.key"
       }
-    ],
-    "build_id": "17948110",
-    "buildid": "17948110",
-    "build_name": "B_17948110",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "143344186699",
-    "size_gb": 143.34,
-    "appid": "2054970"
+    ]
   },
   "EA SPORTS FC\u2122 24": {
     "game": "EA SPORTS FC\u2122 24",
