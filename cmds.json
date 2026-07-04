@@ -1821,11 +1821,7 @@
         "manifest": "2990234554016452841",
         "mf": "3764201_2990234554016452841.manifest",
         "label": "Base Game",
-        "key": "3764200.key",
-        "size": "79384590628",
-        "max_size": "79384590628",
-        "size_bytes": "79384590628",
-        "steam_manifest_size": "79384590628"
+        "key": "3764200.key"
       },
       {
         "app": "3764200",
@@ -1833,35 +1829,23 @@
         "manifest": "1782915813675562857",
         "mf": "3764202_1782915813675562857.manifest",
         "label": "Pack 1",
-        "key": "3764200.key",
-        "size": "80923787406",
-        "max_size": "80923787406",
-        "size_bytes": "80923787406",
-        "steam_manifest_size": "80923787406"
+        "key": "3764200.key"
       },
       {
         "app": "3764200",
         "depot": "3764203",
-        "manifest": "8536000884170430262",
-        "mf": "3764203_8536000884170430262.manifest",
+        "manifest": "1507402407513694495",
+        "mf": "3764203_1507402407513694495.manifest",
         "label": "Pack 2",
-        "key": "3764200.key",
-        "size": "3948877451",
-        "max_size": "3948877451",
-        "size_bytes": "3948877451",
-        "steam_manifest_size": "3948877451"
+        "key": "3764200.key"
       },
       {
         "app": "3764200",
         "depot": "3764204",
-        "manifest": "4620117277159272498",
-        "mf": "3764204_4620117277159272498.manifest",
+        "manifest": "49224221358980643",
+        "mf": "3764204_49224221358980643.manifest",
         "label": "Pack 3",
-        "key": "3764200.key",
-        "size": "5377047901",
-        "max_size": "5377047901",
-        "size_bytes": "5377047901",
-        "steam_manifest_size": "5377047901"
+        "key": "3764200.key"
       },
       {
         "app": "3764200",
@@ -1869,12 +1853,7 @@
         "manifest": "4436866528626191669",
         "mf": "3764205_4436866528626191669.manifest",
         "label": "Resident Evil Requiem - Grace's Costume: Apocalypse",
-        "key": "3764200.key",
-        "size": "154141549",
-        "max_size": "154141549",
-        "size_bytes": "154141549",
-        "steam_manifest_size": "154141549",
-        "steam_name": "Resident Evil Requiem - Grace's Costume: Apocalypse"
+        "key": "3764200.key"
       },
       {
         "app": "3764200",
@@ -1882,12 +1861,7 @@
         "manifest": "136565968785594279",
         "mf": "3764206_136565968785594279.manifest",
         "label": "Resident Evil Requiem - Deluxe Kit",
-        "key": "3764200.key",
-        "size": "988550892",
-        "max_size": "988550892",
-        "size_bytes": "988550892",
-        "steam_manifest_size": "988550892",
-        "steam_name": "Resident Evil Requiem - Deluxe Kit"
+        "key": "3764200.key"
       },
       {
         "app": "3764200",
@@ -1895,12 +1869,7 @@
         "manifest": "9181787779883827112",
         "mf": "3990800_9181787779883827112.manifest",
         "label": "Resident Evil Requiem - Grace's Costume: Apocalypse",
-        "key": "3764200.key",
-        "size": "154141549",
-        "max_size": "154141549",
-        "size_bytes": "154141549",
-        "steam_manifest_size": "154141549",
-        "steam_name": "Resident Evil Requiem - Grace's Costume: Apocalypse"
+        "key": "3764200.key"
       },
       {
         "app": "3764200",
@@ -1908,22 +1877,9 @@
         "manifest": "509708311968316285",
         "mf": "3990820_509708311968316285.manifest",
         "label": "Resident Evil Requiem - Deluxe Kit",
-        "key": "3764200.key",
-        "size": "989393708",
-        "max_size": "989393708",
-        "size_bytes": "989393708",
-        "steam_manifest_size": "989393708",
-        "steam_name": "Resident Evil Requiem - Deluxe Kit"
+        "key": "3764200.key"
       }
-    ],
-    "size_bytes": "171920531084",
-    "size_gb": 171.92,
-    "build_id": "22898177",
-    "buildid": "22898177",
-    "build_name": "B_22898177",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true,
-    "appid": "3764200"
+    ]
   },
   "SONIC X SHADOW GENERATIONS": {
     "game": "SONIC X SHADOW GENERATIONS",
