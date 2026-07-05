@@ -748,21 +748,9 @@
         "manifest": "3466130684209996467",
         "mf": "1244461_3466130684209996467.manifest",
         "label": "Base Game",
-        "key": "1244460.key",
-        "size": "11559505609",
-        "max_size": "11559505609",
-        "size_bytes": "11559505609",
-        "steam_manifest_size": "11559505609"
+        "key": "1244460.key"
       }
-    ],
-    "build_id": "18857191",
-    "buildid": "18857191",
-    "build_name": "B_18857191",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "11559505609",
-    "size_gb": 11.56,
-    "appid": "1244460"
+    ]
   },
   "Monster Hunter Wilds": {
     "game": "Monster Hunter Wilds",
