@@ -566,11 +566,7 @@
         "manifest": "4276490724741861191",
         "mf": "2246341_4276490724741861191.manifest",
         "label": "Base Game",
-        "key": "2246340.key",
-        "size": "127412491124",
-        "max_size": "127412491124",
-        "size_bytes": "127412491124",
-        "steam_manifest_size": "127412491124"
+        "key": "2246340.key"
       },
       {
         "app": "2246340",
@@ -578,22 +574,9 @@
         "manifest": "5891069512660502042",
         "mf": "3308900_5891069512660502042.manifest",
         "label": "Monster Hunter Wilds - High Resolution Texture Pack",
-        "key": "2246340.key",
-        "size": "32114948232",
-        "max_size": "32114948232",
-        "size_bytes": "32114948232",
-        "steam_manifest_size": "32114948232",
-        "steam_name": "Monster Hunter Wilds - High Resolution Texture Pack"
+        "key": "2246340.key"
       }
-    ],
-    "build_id": "22195748",
-    "buildid": "22195748",
-    "build_name": "B_22195748",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "159527439356",
-    "size_gb": 159.53,
-    "appid": "2246340"
+    ]
   },
   "Mortal Kombat 1": {
     "game": "Mortal Kombat 1",
