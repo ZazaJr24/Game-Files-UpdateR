@@ -848,21 +848,9 @@
         "manifest": "2773324310090316887",
         "mf": "1237321_2773324310090316887.manifest",
         "label": "Base Game",
-        "key": "1237320.key",
-        "size": "41507797579",
-        "max_size": "41507797579",
-        "size_bytes": "41507797579",
-        "steam_manifest_size": "41507797579"
+        "key": "1237320.key"
       }
-    ],
-    "build_id": "16857613",
-    "buildid": "16857613",
-    "build_name": "B_16857613",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "41507797579",
-    "size_gb": 41.51,
-    "appid": "1237320"
+    ]
   },
   "Star Wars Outlaws": {
     "game": "Star Wars Outlaws",
