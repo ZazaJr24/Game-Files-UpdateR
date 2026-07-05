@@ -8868,5 +8868,20 @@
         "key": "312660.key"
       }
     ]
+  },
+  "DRAGON QUEST VII Reimagined": {
+    "game": "DRAGON QUEST VII Reimagined",
+    "manifest_folder": "Manifests/2499860",
+    "key_file": "2499860.key",
+    "depots": [
+      {
+        "app": "2499860",
+        "depot": "2499861",
+        "manifest": "3434241301911522834",
+        "mf": "2499861_3434241301911522834.manifest",
+        "label": "Base Game",
+        "key": "2499860.key"
+      }
+    ]
   }
 }
