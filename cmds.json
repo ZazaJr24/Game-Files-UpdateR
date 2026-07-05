@@ -526,11 +526,7 @@
         "manifest": "5198899101792588169",
         "mf": "990081_5198899101792588169.manifest",
         "label": "Base Game",
-        "key": "990080.key",
-        "size": "74056715310",
-        "max_size": "74056715310",
-        "size_bytes": "74056715310",
-        "steam_manifest_size": "74056715310"
+        "key": "990080.key"
       },
       {
         "app": "990080",
@@ -538,11 +534,7 @@
         "manifest": "7167310505439807086",
         "mf": "990082_7167310505439807086.manifest",
         "label": "Pack 1",
-        "key": "990080.key",
-        "size": "2387459529",
-        "max_size": "2387459529",
-        "size_bytes": "2387459529",
-        "steam_manifest_size": "2387459529"
+        "key": "990080.key"
       },
       {
         "app": "990080",
@@ -550,12 +542,7 @@
         "manifest": "6256883361539505915",
         "mf": "990083_6256883361539505915.manifest",
         "label": "French",
-        "key": "990080.key",
-        "size": "2604059518",
-        "max_size": "2604059518",
-        "size_bytes": "2604059518",
-        "steam_manifest_size": "2604059518",
-        "steam_name": "French"
+        "key": "990080.key"
       },
       {
         "app": "990080",
@@ -563,12 +550,7 @@
         "manifest": "4878463996609114776",
         "mf": "990084_4878463996609114776.manifest",
         "label": "German",
-        "key": "990080.key",
-        "size": "2596060157",
-        "max_size": "2596060157",
-        "size_bytes": "2596060157",
-        "steam_manifest_size": "2596060157",
-        "steam_name": "German"
+        "key": "990080.key"
       },
       {
         "app": "990080",
@@ -576,12 +558,7 @@
         "manifest": "109909038347739340",
         "mf": "990085_109909038347739340.manifest",
         "label": "Spanish - Spain",
-        "key": "990080.key",
-        "size": "2696411711",
-        "max_size": "2696411711",
-        "size_bytes": "2696411711",
-        "steam_manifest_size": "2696411711",
-        "steam_name": "Spanish - Spain"
+        "key": "990080.key"
       },
       {
         "app": "990080",
@@ -589,12 +566,7 @@
         "manifest": "7173744932268868207",
         "mf": "990086_7173744932268868207.manifest",
         "label": "Spanish - Latin America",
-        "key": "990080.key",
-        "size": "2703373362",
-        "max_size": "2703373362",
-        "size_bytes": "2703373362",
-        "steam_manifest_size": "2703373362",
-        "steam_name": "Spanish - Latin America"
+        "key": "990080.key"
       },
       {
         "app": "990080",
@@ -602,12 +574,7 @@
         "manifest": "4408608444924365738",
         "mf": "990087_4408608444924365738.manifest",
         "label": "Italian",
-        "key": "990080.key",
-        "size": "2685733859",
-        "max_size": "2685733859",
-        "size_bytes": "2685733859",
-        "steam_manifest_size": "2685733859",
-        "steam_name": "Italian"
+        "key": "990080.key"
       },
       {
         "app": "990080",
@@ -615,12 +582,7 @@
         "manifest": "4209668305361446309",
         "mf": "990088_4209668305361446309.manifest",
         "label": "Japanese",
-        "key": "990080.key",
-        "size": "2615298633",
-        "max_size": "2615298633",
-        "size_bytes": "2615298633",
-        "steam_manifest_size": "2615298633",
-        "steam_name": "Japanese"
+        "key": "990080.key"
       },
       {
         "app": "990080",
@@ -628,22 +590,9 @@
         "manifest": "7833413172600852139",
         "mf": "990089_7833413172600852139.manifest",
         "label": "Portuguese - Brazil",
-        "key": "990080.key",
-        "size": "2572002907",
-        "max_size": "2572002907",
-        "size_bytes": "2572002907",
-        "steam_manifest_size": "2572002907",
-        "steam_name": "Portuguese - Brazil"
+        "key": "990080.key"
       }
-    ],
-    "build_id": "20773316",
-    "buildid": "20773316",
-    "build_name": "B_20773316",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "94917114986",
-    "size_gb": 94.92,
-    "appid": "990080"
+    ]
   },
   "Jurassic World Evolution 2": {
     "game": "Jurassic World Evolution 2",
