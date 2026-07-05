@@ -5437,51 +5437,28 @@
       {
         "app": "3472040",
         "depot": "3472041",
-        "manifest": "1925123203326264577",
-        "mf": "3472041_1925123203326264577.manifest",
+        "manifest": "3156160223810416824",
+        "mf": "3472041_3156160223810416824.manifest",
         "label": "Base Game",
-        "key": "3472040.key",
-        "size": "77333478490",
-        "max_size": "77333478490",
-        "size_bytes": "77333478490",
-        "steam_manifest_size": "77333478490",
-        "buildid": "23050766",
-        "target_buildid": "23050766"
+        "key": "3472040.key"
       },
       {
         "app": "3472040",
         "depot": "3472042",
-        "manifest": "5079480980657798487",
-        "mf": "3472042_5079480980657798487.manifest",
+        "manifest": "2206684017820456722",
+        "mf": "3472042_2206684017820456722.manifest",
         "label": "High Resolution Textures",
-        "key": "3472040.key",
-        "size": "28772780796",
-        "max_size": "28772780796",
-        "size_bytes": "28772780796",
-        "steam_manifest_size": "28772780796",
-        "buildid": "23050766",
-        "target_buildid": "23050766",
-        "steam_name": "High Resolution Textures"
+        "key": "3472040.key"
       },
       {
         "app": "3472040",
         "depot": "3472043",
-        "manifest": "2777645125693417938",
-        "mf": "3472043_2777645125693417938.manifest",
+        "manifest": "5973095512566609725",
+        "mf": "3472043_5973095512566609725.manifest",
         "label": "High Resolution Textures",
-        "key": "3472040.key",
-        "buildid": "23050766",
-        "target_buildid": "23050766",
-        "steam_name": "High Resolution Textures"
+        "key": "3472040.key"
       }
-    ],
-    "size_bytes": "106106259286",
-    "size_gb": 106.11,
-    "build_id": "23050766",
-    "buildid": "23050766",
-    "build_name": "B_23050766",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Persona 4 Golden": {
     "game": "Persona 4 Golden",
