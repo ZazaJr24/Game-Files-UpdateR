@@ -323,11 +323,7 @@
         "manifest": "7759922098115499616",
         "mf": "3551341_7759922098115499616.manifest",
         "label": "Base Game",
-        "key": "3551340.key",
-        "size": "10",
-        "max_size": "10",
-        "size_bytes": "10",
-        "steam_manifest_size": "10"
+        "key": "3551340.key"
       },
       {
         "app": "3551340",
@@ -335,11 +331,7 @@
         "manifest": "4286155556537576831",
         "mf": "3551342_4286155556537576831.manifest",
         "label": "Pack 1",
-        "key": "3551340.key",
-        "size": "8104639338",
-        "max_size": "8104639338",
-        "size_bytes": "8104639338",
-        "steam_manifest_size": "8104639338"
+        "key": "3551340.key"
       },
       {
         "app": "3551340",
@@ -347,21 +339,9 @@
         "manifest": "6975117889499650380",
         "mf": "3551343_6975117889499650380.manifest",
         "label": "Pack 2",
-        "key": "3551340.key",
-        "size": "8192058431",
-        "max_size": "8192058431",
-        "size_bytes": "8192058431",
-        "steam_manifest_size": "8192058431"
+        "key": "3551340.key"
       }
-    ],
-    "build_id": "23260417",
-    "buildid": "23260417",
-    "build_name": "B_23260417",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true,
-    "size_bytes": "16296697779",
-    "size_gb": 16.3,
-    "appid": "3551340"
+    ]
   },
   "GRID Legends": {
     "game": "GRID Legends",
