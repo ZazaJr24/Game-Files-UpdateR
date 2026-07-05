@@ -4813,21 +4813,9 @@
         "manifest": "2743460449861281862",
         "mf": "1570011_2743460449861281862.manifest",
         "label": "Base Game",
-        "key": "1570010.key",
-        "size": "2932311324",
-        "max_size": "2932311324",
-        "size_bytes": "2932311324",
-        "steam_manifest_size": "2932311324"
+        "key": "1570010.key"
       }
-    ],
-    "build_id": "20269132",
-    "buildid": "20269132",
-    "build_name": "B_20269132",
-    "build_id_source": "manual",
-    "build_id_exact": true,
-    "appid": "1570010",
-    "size_bytes": "2932311324",
-    "size_gb": 2.93
+    ]
   },
   "EA SPORTS FC\u2122 26": {
     "game": "EA SPORTS FC\u2122 26",
