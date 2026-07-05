@@ -5935,22 +5935,9 @@
         "manifest": "1417753434076416786",
         "mf": "2679461_1417753434076416786.manifest",
         "label": "Base Game",
-        "key": "2679460.key",
-        "size": "86198620200",
-        "max_size": "86198620200",
-        "size_bytes": "86198620200",
-        "steam_manifest_size": "86198620200",
-        "buildid": "18330018",
-        "target_buildid": "18330018"
+        "key": "2679460.key"
       }
-    ],
-    "size_bytes": "86198620200",
-    "size_gb": 86.2,
-    "build_id": "18330018",
-    "buildid": "18330018",
-    "build_name": "B_18330018",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "NBA 2K26": {
     "game": "NBA 2K26",
