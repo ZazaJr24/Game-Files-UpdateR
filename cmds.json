@@ -7653,22 +7653,9 @@
         "manifest": "362222618243114503",
         "mf": "3483511_362222618243114503.manifest",
         "label": "Base Game",
-        "key": "3483510.key",
-        "size": "18542425439",
-        "max_size": "18542425439",
-        "size_bytes": "18542425439",
-        "steam_manifest_size": "18542425439",
-        "buildid": "22415024",
-        "target_buildid": "22415024"
+        "key": "3483510.key"
       }
-    ],
-    "size_bytes": "18542425439",
-    "size_gb": 18.54,
-    "build_id": "22415024",
-    "buildid": "22415024",
-    "build_name": "B_22415024",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Like a Dragon: Ishin!": {
     "game": "Like a Dragon: Ishin!",
