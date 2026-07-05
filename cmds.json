@@ -1385,26 +1385,8 @@
   },
   "F1\u00ae Manager 2024": {
     "game": "F1\u00ae Manager 2024",
-    "builds": [
-      {
-        "label": "version 1.10",
-        "type": "B",
-        "number": "17356935",
-        "size": 14.0,
-        "is_latest": true,
-        "manifest_folder": "Manifests/F1\u00ae Manager 2024_B_17356935",
-        "build_id": "17356935",
-        "buildid": "17356935",
-        "appid": "2591280"
-      }
-    ],
-    "build_id": "17356935",
-    "buildid": "17356935",
-    "build_name": "B_17356935",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true,
-    "appid": "2591280",
-    "steam_appid": "2591280",
+    "manifest_folder": "Manifests/2591280",
+    "key_file": "2591280.key",
     "depots": [
       {
         "app": "2591280",
@@ -1412,17 +1394,9 @@
         "manifest": "5180313629266358202",
         "mf": "2591281_5180313629266358202.manifest",
         "label": "Base Game",
-        "key": "2591280.key",
-        "size": "18776311184",
-        "max_size": "18776311184",
-        "size_bytes": "18776311184",
-        "steam_manifest_size": "18776311184"
+        "key": "2591280.key"
       }
-    ],
-    "manifest_folder": "Manifests/2591280",
-    "key_file": "2591280.key",
-    "size_bytes": "18776311184",
-    "size_gb": 18.78
+    ]
   },
   "PRAGMATA": {
     "game": "PRAGMATA",
