@@ -3701,13 +3701,7 @@
         "manifest": "4844659092145754092",
         "mf": "2624871_4844659092145754092.manifest",
         "label": "Base Game",
-        "key": "2624870.key",
-        "size": "28373913990",
-        "max_size": "28373913990",
-        "size_bytes": "28373913990",
-        "steam_manifest_size": "28373913990",
-        "buildid": "22706033",
-        "target_buildid": "22706033"
+        "key": "2624870.key"
       },
       {
         "app": "2624870",
@@ -3715,24 +3709,9 @@
         "manifest": "7067755487449646506",
         "mf": "3977740_7067755487449646506.manifest",
         "label": "Life is Strange: Reunion - DLC - BTS Documentary Video",
-        "key": "2624870.key",
-        "size": "452580240",
-        "max_size": "452580240",
-        "size_bytes": "452580240",
-        "steam_manifest_size": "452580240",
-        "buildid": "22706033",
-        "target_buildid": "22706033",
-        "steam_name": "Life is Strange: Reunion - DLC - BTS Documentary Video"
+        "key": "2624870.key"
       }
-    ],
-    "size_bytes": "28826494230",
-    "size_gb": 28.83,
-    "appid": "2624870",
-    "build_id": "22706033",
-    "buildid": "22706033",
-    "build_name": "B_22706033",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Like a Dragon: Infinite Wealth": {
     "game": "Like a Dragon: Infinite Wealth",
