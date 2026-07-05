@@ -803,11 +803,7 @@
         "manifest": "8552604172369068290",
         "mf": "1971872_8552604172369068290.manifest",
         "label": "Base Game",
-        "key": "1971870.key",
-        "size": "610379640",
-        "max_size": "610379640",
-        "size_bytes": "610379640",
-        "steam_manifest_size": "610379640"
+        "key": "1971870.key"
       },
       {
         "app": "1971870",
@@ -815,11 +811,7 @@
         "manifest": "5676539294652549514",
         "mf": "1971873_5676539294652549514.manifest",
         "label": "Pack 1",
-        "key": "1971870.key",
-        "size": "138",
-        "max_size": "138",
-        "size_bytes": "138",
-        "steam_manifest_size": "138"
+        "key": "1971870.key"
       },
       {
         "app": "1971870",
@@ -827,11 +819,7 @@
         "manifest": "512005367846038723",
         "mf": "1971874_512005367846038723.manifest",
         "label": "Pack 2",
-        "key": "1971870.key",
-        "size": "115808390426",
-        "max_size": "115808390426",
-        "size_bytes": "115808390426",
-        "steam_manifest_size": "115808390426"
+        "key": "1971870.key"
       },
       {
         "app": "1971870",
@@ -839,11 +827,7 @@
         "manifest": "2741683106529194428",
         "mf": "1971875_2741683106529194428.manifest",
         "label": "Pack 3",
-        "key": "1971870.key",
-        "size": "26956820650",
-        "max_size": "26956820650",
-        "size_bytes": "26956820650",
-        "steam_manifest_size": "26956820650"
+        "key": "1971870.key"
       },
       {
         "app": "1971870",
@@ -851,12 +835,7 @@
         "manifest": "4363176120155839027",
         "mf": "2615191_4363176120155839027.manifest",
         "label": "MK1: 4k Cinematic Pack",
-        "key": "1971870.key",
-        "size": "49960734622",
-        "max_size": "49960734622",
-        "size_bytes": "49960734622",
-        "steam_manifest_size": "49960734622",
-        "steam_name": "MK1: 4k Cinematic Pack"
+        "key": "1971870.key"
       },
       {
         "app": "1971870",
@@ -864,12 +843,7 @@
         "manifest": "9095445288428088123",
         "mf": "3168021_9095445288428088123.manifest",
         "label": "MK1: Khaos Reigns 4k Cinematic Pack",
-        "key": "1971870.key",
-        "size": "15143527296",
-        "max_size": "15143527296",
-        "size_bytes": "15143527296",
-        "steam_manifest_size": "15143527296",
-        "steam_name": "MK1: Khaos Reigns 4k Cinematic Pack"
+        "key": "1971870.key"
       },
       {
         "app": "1971870",
@@ -877,22 +851,9 @@
         "manifest": "9120506324946519517",
         "mf": "3233541_9120506324946519517.manifest",
         "label": "MK1: Khaos Reigns Expansion",
-        "key": "1971870.key",
-        "size": "8317852504",
-        "max_size": "8317852504",
-        "size_bytes": "8317852504",
-        "steam_manifest_size": "8317852504",
-        "steam_name": "MK1: Khaos Reigns Expansion"
+        "key": "1971870.key"
       }
-    ],
-    "build_id": "17941244",
-    "buildid": "17941244",
-    "build_name": "B_17941244",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "216797705276",
-    "size_gb": 216.8,
-    "appid": "1971870"
+    ]
   },
   "Persona 3 Reload": {
     "game": "Persona 3 Reload",
