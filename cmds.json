@@ -1525,23 +1525,9 @@
         "manifest": "2756612790784314247",
         "mf": "668581_2756612790784314247.manifest",
         "label": "Base Game",
-        "key": "668580.key",
-        "size": "169302013125",
-        "max_size": "169302013125",
-        "size_bytes": "169302013125",
-        "steam_manifest_size": "169302013125",
-        "buildid": "23005793",
-        "target_buildid": "23005793"
+        "key": "668580.key"
       }
-    ],
-    "size_bytes": "169302013125",
-    "size_gb": 169.3,
-    "appid": "668580",
-    "build_id": "23005793",
-    "buildid": "23005793",
-    "build_name": "B_23005793",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Borderlands 4": {
     "game": "Borderlands 4",
