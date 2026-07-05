@@ -1658,21 +1658,9 @@
         "manifest": "7325378332099278335",
         "mf": "2215201_7325378332099278335.manifest",
         "label": "Base Game",
-        "key": "2215200.key",
-        "size": "42120640800",
-        "max_size": "42120640800",
-        "steam_manifest_size": "42120640800",
-        "buildid": "23432817",
-        "target_buildid": "23432817"
+        "key": "2215200.key"
       }
-    ],
-    "size_bytes": "42120640800",
-    "size_gb": 42.12,
-    "build_id": "23432817",
-    "buildid": "23432817",
-    "build_name": "B_23432817",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Assassin's Creed Mirage": {
     "game": "Assassin's Creed Mirage",
