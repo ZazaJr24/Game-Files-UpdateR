@@ -3813,11 +3813,7 @@
         "manifest": "7391481385941074802",
         "mf": "2169201_7391481385941074802.manifest",
         "label": "Base Game",
-        "key": "2169200.key",
-        "size": "725794898",
-        "max_size": "725794898",
-        "size_bytes": "725794898",
-        "steam_manifest_size": "725794898"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -3825,11 +3821,7 @@
         "manifest": "1865254937317479303",
         "mf": "2169202_1865254937317479303.manifest",
         "label": "Pack 1",
-        "key": "2169200.key",
-        "size": "27537508211",
-        "max_size": "27537508211",
-        "size_bytes": "27537508211",
-        "steam_manifest_size": "27537508211"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -3837,11 +3829,7 @@
         "manifest": "7139550291347173555",
         "mf": "2169203_7139550291347173555.manifest",
         "label": "Pack 2",
-        "key": "2169200.key",
-        "size": "68343205",
-        "max_size": "68343205",
-        "size_bytes": "68343205",
-        "steam_manifest_size": "68343205"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -3849,11 +3837,7 @@
         "manifest": "372530551937361395",
         "mf": "2169204_372530551937361395.manifest",
         "label": "Pack 3",
-        "key": "2169200.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -3861,11 +3845,7 @@
         "manifest": "4461957118771003967",
         "mf": "2169205_4461957118771003967.manifest",
         "label": "Pack 4",
-        "key": "2169200.key",
-        "size": "3410603553",
-        "max_size": "3410603553",
-        "size_bytes": "3410603553",
-        "steam_manifest_size": "3410603553"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -3873,11 +3853,7 @@
         "manifest": "1047435328961232841",
         "mf": "2169206_1047435328961232841.manifest",
         "label": "Pack 5",
-        "key": "2169200.key",
-        "size": "59028187482",
-        "max_size": "59028187482",
-        "size_bytes": "59028187482",
-        "steam_manifest_size": "59028187482"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -3885,11 +3861,7 @@
         "manifest": "3300678429426280478",
         "mf": "2169207_3300678429426280478.manifest",
         "label": "Pack 6",
-        "key": "2169200.key",
-        "size": "24006536979",
-        "max_size": "24006536979",
-        "size_bytes": "24006536979",
-        "steam_manifest_size": "24006536979"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -3897,11 +3869,7 @@
         "manifest": "5843923210413641436",
         "mf": "2169208_5843923210413641436.manifest",
         "label": "Pack 7",
-        "key": "2169200.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -3909,12 +3877,15 @@
         "manifest": "3901507899860555469",
         "mf": "2169209_3901507899860555469.manifest",
         "label": "French",
-        "key": "2169200.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "steam_name": "French"
+        "key": "2169200.key"
+      },
+      {
+        "app": "2169200",
+        "depot": "2561510",
+        "manifest": "6975774250123687764",
+        "mf": "2561510_6975774250123687764.manifest",
+        "label": "Pack 9",
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -3922,12 +3893,7 @@
         "manifest": "3740802027707569957",
         "mf": "2561511_3740802027707569957.manifest",
         "label": "German",
-        "key": "2169200.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "steam_name": "German"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -3935,12 +3901,7 @@
         "manifest": "6751910486874420582",
         "mf": "2561512_6751910486874420582.manifest",
         "label": "Spanish - Spain",
-        "key": "2169200.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "steam_name": "Spanish - Spain"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -3948,12 +3909,7 @@
         "manifest": "2873633407686130884",
         "mf": "2561513_2873633407686130884.manifest",
         "label": "Portuguese - Brazil",
-        "key": "2169200.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "steam_name": "Portuguese - Brazil"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -3961,12 +3917,7 @@
         "manifest": "6889488596835225992",
         "mf": "2561514_6889488596835225992.manifest",
         "label": "Russian",
-        "key": "2169200.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "steam_name": "Russian"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -3974,12 +3925,7 @@
         "manifest": "3195328302612406793",
         "mf": "2561515_3195328302612406793.manifest",
         "label": "Polish",
-        "key": "2169200.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "steam_name": "Polish"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -3987,12 +3933,7 @@
         "manifest": "1189735114395280860",
         "mf": "2561516_1189735114395280860.manifest",
         "label": "Italian",
-        "key": "2169200.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "steam_name": "Italian"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -4000,12 +3941,7 @@
         "manifest": "6263522995165149636",
         "mf": "2561517_6263522995165149636.manifest",
         "label": "Japanese",
-        "key": "2169200.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "steam_name": "Japanese"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -4013,12 +3949,7 @@
         "manifest": "3608856189875224965",
         "mf": "2561518_3608856189875224965.manifest",
         "label": "Korean",
-        "key": "2169200.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "steam_name": "Korean"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -4026,12 +3957,7 @@
         "manifest": "1191642172033623765",
         "mf": "2561519_1191642172033623765.manifest",
         "label": "Simplified Chinese",
-        "key": "2169200.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "steam_name": "Simplified Chinese"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -4039,12 +3965,7 @@
         "manifest": "4740185705261078409",
         "mf": "2561520_4740185705261078409.manifest",
         "label": "Sniper Elite: Resistance - Target F\u00fchrer - Lights, Camera, Achtung",
-        "key": "2169200.key",
-        "size": "3942471785",
-        "max_size": "3942471785",
-        "size_bytes": "3942471785",
-        "steam_manifest_size": "3942471785",
-        "steam_name": "Sniper Elite: Resistance - Target F\u00fchrer - Lights, Camera, Achtung"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -4052,12 +3973,7 @@
         "manifest": "622305630631083236",
         "mf": "2561521_622305630631083236.manifest",
         "label": "Traditional Chinese",
-        "key": "2169200.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "steam_name": "Traditional Chinese"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -4065,12 +3981,7 @@
         "manifest": "7327088656667926825",
         "mf": "2729150_7327088656667926825.manifest",
         "label": "Sniper Elite: Resistance - Vercors Vendetta Mission and Weapons Pack",
-        "key": "2169200.key",
-        "size": "3000042061",
-        "max_size": "3000042061",
-        "size_bytes": "3000042061",
-        "steam_manifest_size": "3000042061",
-        "steam_name": "Sniper Elite: Resistance - Vercors Vendetta Mission and Weapons Pack"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -4078,12 +3989,7 @@
         "manifest": "3684063861755512692",
         "mf": "2800240_3684063861755512692.manifest",
         "label": "Sniper Elite: Resistance - Striking Range Mission, Weapons and Skins Pack",
-        "key": "2169200.key",
-        "size": "3402926145",
-        "max_size": "3402926145",
-        "size_bytes": "3402926145",
-        "steam_manifest_size": "3402926145",
-        "steam_name": "Sniper Elite: Resistance - Striking Range Mission, Weapons and Skins Pack"
+        "key": "2169200.key"
       },
       {
         "app": "2169200",
@@ -4091,22 +3997,9 @@
         "manifest": "1513378400177448501",
         "mf": "2800250_1513378400177448501.manifest",
         "label": "Sniper Elite: Resistance - Mud and Thunder Mission, Weapons and Skin Pack",
-        "key": "2169200.key",
-        "size": "2768626893",
-        "max_size": "2768626893",
-        "size_bytes": "2768626893",
-        "steam_manifest_size": "2768626893",
-        "steam_name": "Sniper Elite: Resistance - Mud and Thunder Mission, Weapons and Skin Pack"
+        "key": "2169200.key"
       }
-    ],
-    "build_id": "19059708",
-    "buildid": "19059708",
-    "build_name": "B_19059708",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "127891041628",
-    "size_gb": 127.89,
-    "appid": "2169200"
+    ]
   },
   "Stellar Blade\u2122": {
     "game": "Stellar Blade\u2122",
