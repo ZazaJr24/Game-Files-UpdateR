@@ -4063,21 +4063,9 @@
         "manifest": "3121778726057603637",
         "mf": "1941541_3121778726057603637.manifest",
         "label": "Base Game",
-        "key": "1941540.key",
-        "size": "48903291303",
-        "max_size": "48903291303",
-        "size_bytes": "48903291303",
-        "steam_manifest_size": "48903291303"
+        "key": "1941540.key"
       }
-    ],
-    "build_id": "20951841",
-    "buildid": "20951841",
-    "build_name": "B_20951841",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "48903291303",
-    "size_gb": 48.9,
-    "appid": "1941540"
+    ]
   },
   "Sniper Elite: Resistance": {
     "game": "Sniper Elite: Resistance",
