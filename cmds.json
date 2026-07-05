@@ -7,30 +7,18 @@
       {
         "app": "1285190",
         "depot": "1285191",
-        "manifest": "8271766725938094368",
-        "mf": "1285191_8271766725938094368.manifest",
+        "manifest": "1953557004782766622",
+        "mf": "1285191_1953557004782766622.manifest",
         "label": "Base Game",
-        "key": "1285190.key",
-        "size": "123921054683",
-        "max_size": "123921054683",
-        "size_bytes": "123921054683",
-        "steam_manifest_size": "123921054683",
-        "buildid": "23313567",
-        "target_buildid": "23313567"
+        "key": "1285190.key"
       },
       {
         "app": "1285190",
         "depot": "1285192",
-        "manifest": "5219576525314043581",
-        "mf": "1285192_5219576525314043581.manifest",
+        "manifest": "6272425627520817384",
+        "mf": "1285192_6272425627520817384.manifest",
         "label": "Pack 1",
-        "key": "1285190.key",
-        "size": "804475920",
-        "max_size": "804475920",
-        "size_bytes": "804475920",
-        "steam_manifest_size": "804475920",
-        "buildid": "23313567",
-        "target_buildid": "23313567"
+        "key": "1285190.key"
       },
       {
         "app": "1285190",
@@ -38,9 +26,7 @@
         "manifest": "1587472964084640951",
         "mf": "1285193_1587472964084640951.manifest",
         "label": "Pack 2",
-        "key": "1285190.key",
-        "buildid": "23313567",
-        "target_buildid": "23313567"
+        "key": "1285190.key"
       },
       {
         "app": "1285190",
@@ -48,23 +34,9 @@
         "manifest": "218636985744352584",
         "mf": "1285195_218636985744352584.manifest",
         "label": "Pack 3",
-        "key": "1285190.key",
-        "size": "18977609",
-        "max_size": "18977609",
-        "size_bytes": "18977609",
-        "steam_manifest_size": "18977609",
-        "buildid": "23313567",
-        "target_buildid": "23313567"
+        "key": "1285190.key"
       }
-    ],
-    "size_bytes": "124744508212",
-    "size_gb": 124.74,
-    "appid": "1285190",
-    "build_id": "23313567",
-    "buildid": "23313567",
-    "build_name": "B_23313567",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "CODE VEIN II": {
     "game": "CODE VEIN II",
