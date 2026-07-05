@@ -5849,22 +5849,9 @@
         "manifest": "5791590246311215097",
         "mf": "3061811_5791590246311215097.manifest",
         "label": "Base Game",
-        "key": "3061810.key",
-        "size": "59249797889",
-        "max_size": "59249797889",
-        "size_bytes": "59249797889",
-        "steam_manifest_size": "59249797889",
-        "buildid": "18023911",
-        "target_buildid": "18023911"
+        "key": "3061810.key"
       }
-    ],
-    "size_bytes": "59249797889",
-    "size_gb": 59.25,
-    "build_id": "18023911",
-    "buildid": "18023911",
-    "build_name": "B_18023911",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "EA SPORTS\u2122 Madden NFL 26": {
     "game": "EA SPORTS\u2122 Madden NFL 26",
