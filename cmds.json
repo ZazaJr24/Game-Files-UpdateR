@@ -2178,21 +2178,9 @@
         "manifest": "8329114521995004621",
         "mf": "2358721_8329114521995004621.manifest",
         "label": "Base Game",
-        "key": "2358720.key",
-        "size": "149864365377",
-        "max_size": "149864365377",
-        "size_bytes": "149864365377",
-        "steam_manifest_size": "149864365377"
+        "key": "2358720.key"
       }
-    ],
-    "build_id": "21393610",
-    "buildid": "21393610",
-    "build_name": "B_21393610",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "149864365377",
-    "size_gb": 149.86,
-    "appid": "2358720"
+    ]
   },
   "DOOM: The Dark Ages": {
     "game": "DOOM: The Dark Ages",
