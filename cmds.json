@@ -3910,23 +3910,9 @@
         "manifest": "6765731590953570327",
         "mf": "2680011_6765731590953570327.manifest",
         "label": "Base Game",
-        "key": "2680010.key",
-        "size": "56614426437",
-        "max_size": "56614426437",
-        "size_bytes": "56614426437",
-        "steam_manifest_size": "56614426437",
-        "buildid": "22579715",
-        "target_buildid": "22579715"
+        "key": "2680010.key"
       }
-    ],
-    "size_bytes": "56614426437",
-    "size_gb": 56.61,
-    "appid": "2680010",
-    "build_id": "22579715",
-    "buildid": "22579715",
-    "build_name": "B_22579715",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Need for Speed\u2122 Unbound": {
     "game": "Need for Speed\u2122 Unbound",
