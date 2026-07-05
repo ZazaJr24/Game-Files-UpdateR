@@ -7762,22 +7762,9 @@
         "manifest": "7742518641681988092",
         "mf": "2958131_7742518641681988092.manifest",
         "label": "Base Game",
-        "key": "2958130.key",
-        "size": "24821143114",
-        "max_size": "24821143114",
-        "size_bytes": "24821143114",
-        "steam_manifest_size": "24821143114",
-        "buildid": "23914383",
-        "target_buildid": "23914383"
+        "key": "2958130.key"
       }
-    ],
-    "size_bytes": "24821143114",
-    "size_gb": 24.82,
-    "build_id": "23914383",
-    "buildid": "23914383",
-    "build_name": "B_23914383",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Monster Hunter Stories 3: Twisted Reflection": {
     "game": "Monster Hunter Stories 3: Twisted Reflection",
