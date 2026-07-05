@@ -8014,16 +8014,10 @@
       {
         "app": "2852190",
         "depot": "2852191",
-        "manifest": "6490016152637344723",
-        "mf": "2852191_6490016152637344723.manifest",
+        "manifest": "6158104409197440181",
+        "mf": "2852191_6158104409197440181.manifest",
         "label": "Base Game",
-        "key": "2852190.key",
-        "size": "40366941438",
-        "max_size": "40366941438",
-        "size_bytes": "40366941438",
-        "steam_manifest_size": "40366941438",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8031,14 +8025,7 @@
         "manifest": "8458212944527962292",
         "mf": "3581270_8458212944527962292.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Eleanor: Skyscale Queen",
-        "key": "2852190.key",
-        "size": "13629357",
-        "max_size": "13629357",
-        "size_bytes": "13629357",
-        "steam_manifest_size": "13629357",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Eleanor: Skyscale Queen",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8046,14 +8033,7 @@
         "manifest": "7569748194585989011",
         "mf": "3581280_7569748194585989011.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Special Outfits Set",
-        "key": "2852190.key",
-        "size": "129898591",
-        "max_size": "129898591",
-        "size_bytes": "129898591",
-        "steam_manifest_size": "129898591",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Special Outfits Set",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8061,14 +8041,7 @@
         "manifest": "2093297960475433885",
         "mf": "3581290_2093297960475433885.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Monster Hair: Malzeno Bob",
-        "key": "2852190.key",
-        "size": "2277139",
-        "max_size": "2277139",
-        "size_bytes": "2277139",
-        "steam_manifest_size": "2277139",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Monster Hair: Malzeno Bob",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8076,14 +8049,7 @@
         "manifest": "8952166521260427532",
         "mf": "3581300_8952166521260427532.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Monster Hair: Hellfire Tail",
-        "key": "2852190.key",
-        "size": "2716992",
-        "max_size": "2716992",
-        "size_bytes": "2716992",
-        "steam_manifest_size": "2716992",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Monster Hair: Hellfire Tail",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8091,14 +8057,7 @@
         "manifest": "6376214278045416999",
         "mf": "3581310_6376214278045416999.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Monster Hair: Espinas Spikes",
-        "key": "2852190.key",
-        "size": "1586180",
-        "max_size": "1586180",
-        "size_bytes": "1586180",
-        "steam_manifest_size": "1586180",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Monster Hair: Espinas Spikes",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8106,14 +8065,7 @@
         "manifest": "3127807661445653310",
         "mf": "3581320_3127807661445653310.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Monster Hair: Garangolm Nest",
-        "key": "2852190.key",
-        "size": "2880190",
-        "max_size": "2880190",
-        "size_bytes": "2880190",
-        "steam_manifest_size": "2880190",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Monster Hair: Garangolm Nest",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8121,14 +8073,7 @@
         "manifest": "240227128175926447",
         "mf": "3581330_240227128175926447.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Monster Hair: Octolocks Princess",
-        "key": "2852190.key",
-        "size": "4546745",
-        "max_size": "4546745",
-        "size_bytes": "4546745",
-        "steam_manifest_size": "4546745",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Monster Hair: Octolocks Princess",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8136,14 +8081,7 @@
         "manifest": "4135893026995074115",
         "mf": "3581340_4135893026995074115.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Monster Hair: Goss Hairagy",
-        "key": "2852190.key",
-        "size": "5349821",
-        "max_size": "5349821",
-        "size_bytes": "5349821",
-        "steam_manifest_size": "5349821",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Monster Hair: Goss Hairagy",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8151,14 +8089,7 @@
         "manifest": "4887326740324044471",
         "mf": "3581380_4887326740324044471.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Eleanor: Foreign Dancer",
-        "key": "2852190.key",
-        "size": "23375300",
-        "max_size": "23375300",
-        "size_bytes": "23375300",
-        "steam_manifest_size": "23375300",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Eleanor: Foreign Dancer",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8166,14 +8097,7 @@
         "manifest": "2728666657550847926",
         "mf": "3581390_2728666657550847926.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Gaul: Fur-tive Five Leader",
-        "key": "2852190.key",
-        "size": "10294690",
-        "max_size": "10294690",
-        "size_bytes": "10294690",
-        "steam_manifest_size": "10294690",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Gaul: Fur-tive Five Leader",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8181,14 +8105,7 @@
         "manifest": "1463607991440957207",
         "mf": "3581400_1463607991440957207.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Kora: Attendant's Attire",
-        "key": "2852190.key",
-        "size": "19945464",
-        "max_size": "19945464",
-        "size_bytes": "19945464",
-        "steam_manifest_size": "19945464",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Kora: Attendant's Attire",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8196,14 +8113,7 @@
         "manifest": "2909396534256144995",
         "mf": "3581410_2909396534256144995.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Ogden: Summertime Ogden",
-        "key": "2852190.key",
-        "size": "11226400",
-        "max_size": "11226400",
-        "size_bytes": "11226400",
-        "steam_manifest_size": "11226400",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Ogden: Summertime Ogden",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8211,14 +8121,7 @@
         "manifest": "5379677702933453096",
         "mf": "3581420_5379677702933453096.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Thea: Canyne Ward",
-        "key": "2852190.key",
-        "size": "15107775",
-        "max_size": "15107775",
-        "size_bytes": "15107775",
-        "steam_manifest_size": "15107775",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Thea: Canyne Ward",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8226,14 +8129,7 @@
         "manifest": "1977062647901345030",
         "mf": "3581430_1977062647901345030.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Shogun Rudy",
-        "key": "2852190.key",
-        "size": "8759551",
-        "max_size": "8759551",
-        "size_bytes": "8759551",
-        "steam_manifest_size": "8759551",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Shogun Rudy",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8241,14 +8137,7 @@
         "manifest": "451376771089979740",
         "mf": "3581440_451376771089979740.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Rudyzeno",
-        "key": "2852190.key",
-        "size": "14194105",
-        "max_size": "14194105",
-        "size_bytes": "14194105",
-        "steam_manifest_size": "14194105",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Rudyzeno",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8256,14 +8145,7 @@
         "manifest": "1506988313793986765",
         "mf": "3581450_1506988313793986765.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Rudy's Arkbelt",
-        "key": "2852190.key",
-        "size": "10126384",
-        "max_size": "10126384",
-        "size_bytes": "10126384",
-        "steam_manifest_size": "10126384",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Rudy's Arkbelt",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8271,14 +8153,7 @@
         "manifest": "8124295821573494354",
         "mf": "3581460_8124295821573494354.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Scintillating Armor",
-        "key": "2852190.key",
-        "size": "14140211",
-        "max_size": "14140211",
-        "size_bytes": "14140211",
-        "steam_manifest_size": "14140211",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Scintillating Armor",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8286,14 +8161,7 @@
         "manifest": "2640357821360084225",
         "mf": "3581470_2640357821360084225.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Relaxed-acabra",
-        "key": "2852190.key",
-        "size": "11649741",
-        "max_size": "11649741",
-        "size_bytes": "11649741",
-        "steam_manifest_size": "11649741",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Rudy's Outfit: Relaxed-acabra",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8301,14 +8169,7 @@
         "manifest": "7764411618427858643",
         "mf": "3581480_7764411618427858643.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Simon: Wind Wyvern's Friend",
-        "key": "2852190.key",
-        "size": "23110838",
-        "max_size": "23110838",
-        "size_bytes": "23110838",
-        "steam_manifest_size": "23110838",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Layered Armor for Simon: Wind Wyvern's Friend",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8316,14 +8177,15 @@
         "manifest": "3294195697823073321",
         "mf": "3872750_3294195697823073321.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Crystalline Ornament",
-        "key": "2852190.key",
-        "size": "6631341",
-        "max_size": "6631341",
-        "size_bytes": "6631341",
-        "steam_manifest_size": "6631341",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Crystalline Ornament",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
+      },
+      {
+        "app": "2852190",
+        "depot": "3879360",
+        "manifest": "5572507035609083706",
+        "mf": "3879360_5572507035609083706.manifest",
+        "label": "Pack 21",
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8331,14 +8193,7 @@
         "manifest": "3533586002260635852",
         "mf": "3879370_3533586002260635852.manifest",
         "label": "Depot from 3879370",
-        "key": "2852190.key",
-        "size": "1150816",
-        "max_size": "1150816",
-        "size_bytes": "1150816",
-        "steam_manifest_size": "1150816",
-        "steam_name": "Depot from 3879370",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8346,14 +8201,7 @@
         "manifest": "3600498023744702612",
         "mf": "3879380_3600498023744702612.manifest",
         "label": "Accessory: Pom-Pom Earrings",
-        "key": "2852190.key",
-        "size": "1229953",
-        "max_size": "1229953",
-        "size_bytes": "1229953",
-        "steam_manifest_size": "1229953",
-        "steam_name": "Accessory: Pom-Pom Earrings",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8361,14 +8209,7 @@
         "manifest": "2898806657553241633",
         "mf": "3879390_2898806657553241633.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Royal Monocle",
-        "key": "2852190.key",
-        "size": "1331788",
-        "max_size": "1331788",
-        "size_bytes": "1331788",
-        "steam_manifest_size": "1331788",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Royal Monocle",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8376,14 +8217,7 @@
         "manifest": "6273590793040211798",
         "mf": "3879400_6273590793040211798.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Gold Circlet",
-        "key": "2852190.key",
-        "size": "7294507",
-        "max_size": "7294507",
-        "size_bytes": "7294507",
-        "steam_manifest_size": "7294507",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Gold Circlet",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8391,14 +8225,15 @@
         "manifest": "3541962698066773047",
         "mf": "3879410_3541962698066773047.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Fang Talisman",
-        "key": "2852190.key",
-        "size": "6434177",
-        "max_size": "6434177",
-        "size_bytes": "6434177",
-        "steam_manifest_size": "6434177",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Fang Talisman",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
+      },
+      {
+        "app": "2852190",
+        "depot": "3879420",
+        "manifest": "6330100364349058577",
+        "mf": "3879420_6330100364349058577.manifest",
+        "label": "Pack 27",
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8406,14 +8241,7 @@
         "manifest": "7768962081441671320",
         "mf": "3879430_7768962081441671320.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Protective Band",
-        "key": "2852190.key",
-        "size": "4449191",
-        "max_size": "4449191",
-        "size_bytes": "4449191",
-        "steam_manifest_size": "4449191",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Protective Band",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8421,14 +8249,15 @@
         "manifest": "1522236329607587316",
         "mf": "3879440_1522236329607587316.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Ornament of Bonds",
-        "key": "2852190.key",
-        "size": "4755183",
-        "max_size": "4755183",
-        "size_bytes": "4755183",
-        "steam_manifest_size": "4755183",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Accessory: Ornament of Bonds",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
+      },
+      {
+        "app": "2852190",
+        "depot": "3932360",
+        "manifest": "1942461775145786065",
+        "mf": "3932360_1942461775145786065.manifest",
+        "label": "Pack 30",
+        "key": "2852190.key"
       },
       {
         "app": "2852190",
@@ -8436,23 +8265,9 @@
         "manifest": "5191904910392251962",
         "mf": "4007520_5191904910392251962.manifest",
         "label": "Monster Hunter Stories 3: Twisted Reflection - Additional Side Story: Rudy",
-        "key": "2852190.key",
-        "size": "524268912",
-        "max_size": "524268912",
-        "size_bytes": "524268912",
-        "steam_manifest_size": "524268912",
-        "steam_name": "Monster Hunter Stories 3: Twisted Reflection - Additional Side Story: Rudy",
-        "buildid": "23692242",
-        "target_buildid": "23692242"
+        "key": "2852190.key"
       }
-    ],
-    "size_bytes": "41249302780",
-    "size_gb": 41.25,
-    "build_id": "23692242",
-    "buildid": "23692242",
-    "build_name": "B_23692242",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Like a Dragon: Gaiden - The Man Who Erased His Name": {
     "game": "Like a Dragon: Gaiden - The Man Who Erased His Name",
