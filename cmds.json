@@ -1919,23 +1919,9 @@
         "manifest": "7150054391983782129",
         "mf": "1611911_7150054391983782129.manifest",
         "label": "Base Game",
-        "key": "1611910.key",
-        "size": "19883812155",
-        "max_size": "19883812155",
-        "size_bytes": "19883812155",
-        "steam_manifest_size": "19883812155",
-        "buildid": "23347087",
-        "target_buildid": "23347087"
+        "key": "1611910.key"
       }
-    ],
-    "size_bytes": "19883812155",
-    "size_gb": 19.88,
-    "appid": "1611910",
-    "build_id": "23347087",
-    "buildid": "23347087",
-    "build_name": "B_23347087",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "FINAL FANTASY XV WINDOWS EDITION": {
     "game": "FINAL FANTASY XV WINDOWS EDITION",
