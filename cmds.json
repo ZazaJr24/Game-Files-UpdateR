@@ -652,23 +652,9 @@
         "manifest": "8534679793765499772",
         "mf": "2161701_8534679793765499772.manifest",
         "label": "Base Game",
-        "key": "2161700.key",
-        "size": "20251230243",
-        "max_size": "20251230243",
-        "size_bytes": "20251230243",
-        "steam_manifest_size": "20251230243",
-        "buildid": "22672075",
-        "target_buildid": "22672075"
+        "key": "2161700.key"
       }
-    ],
-    "size_bytes": "20251230243",
-    "size_gb": 20.25,
-    "appid": "2161700",
-    "build_id": "22672075",
-    "buildid": "22672075",
-    "build_name": "B_22672075",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Persona 5 Royal": {
     "game": "Persona 5 Royal",
