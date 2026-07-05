@@ -1934,21 +1934,9 @@
         "manifest": "4290656803638294445",
         "mf": "637651_4290656803638294445.manifest",
         "label": "Base Game",
-        "key": "637650.key",
-        "size": "92538553052",
-        "max_size": "92538553052",
-        "size_bytes": "92538553052",
-        "steam_manifest_size": "92538553052"
+        "key": "637650.key"
       }
-    ],
-    "build_id": "6575095",
-    "buildid": "6575095",
-    "build_name": "B_6575095",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "92538553052",
-    "size_gb": 92.54,
-    "appid": "637650"
+    ]
   },
   "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight": {
     "game": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight",
