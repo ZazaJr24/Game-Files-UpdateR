@@ -8779,5 +8779,52 @@
         "key": "1004640.key"
       }
     ]
+  },
+  "Middle-earth: Shadow of War": {
+    "game": "Middle-earth: Shadow of War",
+    "manifest_folder": "Manifests/356190",
+    "key_file": "356190.key",
+    "depots": [
+      {
+        "app": "356190",
+        "depot": "356191",
+        "manifest": "8564100506276968089",
+        "mf": "356191_8564100506276968089.manifest",
+        "label": "Base Game",
+        "key": "356190.key"
+      },
+      {
+        "app": "356190",
+        "depot": "533110",
+        "manifest": "3372049505845498644",
+        "mf": "533110_3372049505845498644.manifest",
+        "label": "Pack 1",
+        "key": "356190.key"
+      },
+      {
+        "app": "356190",
+        "depot": "561650",
+        "manifest": "6461386082584988817",
+        "mf": "561650_6461386082584988817.manifest",
+        "label": "Pack 2",
+        "key": "356190.key"
+      },
+      {
+        "app": "356190",
+        "depot": "561950",
+        "manifest": "1157446448995806717",
+        "mf": "561950_1157446448995806717.manifest",
+        "label": "Pack 3",
+        "key": "356190.key"
+      },
+      {
+        "app": "356190",
+        "depot": "666840",
+        "manifest": "3687123933403575662",
+        "mf": "666840_3687123933403575662.manifest",
+        "label": "Pack 4",
+        "key": "356190.key"
+      }
+    ]
   }
 }
