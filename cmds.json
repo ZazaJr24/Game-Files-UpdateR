@@ -895,11 +895,7 @@
         "manifest": "179949564195054526",
         "mf": "1687951_179949564195054526.manifest",
         "label": "Base Game",
-        "key": "1687950.key",
-        "size": "41514607670",
-        "max_size": "41514607670",
-        "size_bytes": "41514607670",
-        "steam_manifest_size": "41514607670"
+        "key": "1687950.key"
       },
       {
         "app": "1687950",
@@ -907,12 +903,7 @@
         "manifest": "3167861682612256520",
         "mf": "1687952_3167861682612256520.manifest",
         "label": "English",
-        "key": "1687950.key",
-        "size": "784394112",
-        "max_size": "784394112",
-        "size_bytes": "784394112",
-        "steam_manifest_size": "784394112",
-        "steam_name": "English"
+        "key": "1687950.key"
       },
       {
         "app": "1687950",
@@ -920,12 +911,7 @@
         "manifest": "676724932591096292",
         "mf": "1687953_676724932591096292.manifest",
         "label": "French",
-        "key": "1687950.key",
-        "size": "785340800",
-        "max_size": "785340800",
-        "size_bytes": "785340800",
-        "steam_manifest_size": "785340800",
-        "steam_name": "French"
+        "key": "1687950.key"
       },
       {
         "app": "1687950",
@@ -933,12 +919,7 @@
         "manifest": "4383202142358403441",
         "mf": "1687954_4383202142358403441.manifest",
         "label": "Italian",
-        "key": "1687950.key",
-        "size": "781773696",
-        "max_size": "781773696",
-        "size_bytes": "781773696",
-        "steam_manifest_size": "781773696",
-        "steam_name": "Italian"
+        "key": "1687950.key"
       },
       {
         "app": "1687950",
@@ -946,12 +927,7 @@
         "manifest": "1440355225172460061",
         "mf": "1687955_1440355225172460061.manifest",
         "label": "German",
-        "key": "1687950.key",
-        "size": "787823488",
-        "max_size": "787823488",
-        "size_bytes": "787823488",
-        "steam_manifest_size": "787823488",
-        "steam_name": "German"
+        "key": "1687950.key"
       },
       {
         "app": "1687950",
@@ -959,12 +935,7 @@
         "manifest": "7521686342464165318",
         "mf": "1687956_7521686342464165318.manifest",
         "label": "Spanish - Spain",
-        "key": "1687950.key",
-        "size": "784681344",
-        "max_size": "784681344",
-        "size_bytes": "784681344",
-        "steam_manifest_size": "784681344",
-        "steam_name": "Spanish - Spain"
+        "key": "1687950.key"
       },
       {
         "app": "1687950",
@@ -972,12 +943,7 @@
         "manifest": "748315061441883037",
         "mf": "1687957_748315061441883037.manifest",
         "label": "Japanese",
-        "key": "1687950.key",
-        "size": "782691712",
-        "max_size": "782691712",
-        "size_bytes": "782691712",
-        "steam_manifest_size": "782691712",
-        "steam_name": "Japanese"
+        "key": "1687950.key"
       },
       {
         "app": "1687950",
@@ -985,12 +951,7 @@
         "manifest": "4651383591850403589",
         "mf": "1687958_4651383591850403589.manifest",
         "label": "Traditional Chinese",
-        "key": "1687950.key",
-        "size": "790502272",
-        "max_size": "790502272",
-        "size_bytes": "790502272",
-        "steam_manifest_size": "790502272",
-        "steam_name": "Traditional Chinese"
+        "key": "1687950.key"
       },
       {
         "app": "1687950",
@@ -998,12 +959,7 @@
         "manifest": "223453434450812259",
         "mf": "1687959_223453434450812259.manifest",
         "label": "Simplified Chinese",
-        "key": "1687950.key",
-        "size": "797140888",
-        "max_size": "797140888",
-        "size_bytes": "797140888",
-        "steam_manifest_size": "797140888",
-        "steam_name": "Simplified Chinese"
+        "key": "1687950.key"
       },
       {
         "app": "1687950",
@@ -1011,22 +967,9 @@
         "manifest": "3263965511551036653",
         "mf": "1753980_3263965511551036653.manifest",
         "label": "Korean",
-        "key": "1687950.key",
-        "size": "785008000",
-        "max_size": "785008000",
-        "size_bytes": "785008000",
-        "steam_manifest_size": "785008000",
-        "steam_name": "Korean"
+        "key": "1687950.key"
       }
-    ],
-    "build_id": "15515071",
-    "buildid": "15515071",
-    "build_name": "B_15515071",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "48593963982",
-    "size_gb": 48.59,
-    "appid": "1687950"
+    ]
   },
   "Planet Coaster 2": {
     "game": "Planet Coaster 2",
