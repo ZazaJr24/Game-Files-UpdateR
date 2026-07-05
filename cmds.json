@@ -5749,13 +5749,7 @@
         "manifest": "2848006275237199054",
         "mf": "1029691_2848006275237199054.manifest",
         "label": "Base Game",
-        "key": "1029690.key",
-        "size": "833353264",
-        "max_size": "833353264",
-        "size_bytes": "833353264",
-        "steam_manifest_size": "833353264",
-        "buildid": "18805095",
-        "target_buildid": "18805095"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5763,13 +5757,7 @@
         "manifest": "3062137022044491223",
         "mf": "1029692_3062137022044491223.manifest",
         "label": "Pack 1",
-        "key": "1029690.key",
-        "size": "29764003118",
-        "max_size": "29764003118",
-        "size_bytes": "29764003118",
-        "steam_manifest_size": "29764003118",
-        "buildid": "18805095",
-        "target_buildid": "18805095"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5777,13 +5765,7 @@
         "manifest": "6221276561265586910",
         "mf": "1029693_6221276561265586910.manifest",
         "label": "Pack 2",
-        "key": "1029690.key",
-        "size": "63913591",
-        "max_size": "63913591",
-        "size_bytes": "63913591",
-        "steam_manifest_size": "63913591",
-        "buildid": "18805095",
-        "target_buildid": "18805095"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5791,13 +5773,7 @@
         "manifest": "4641711742910881298",
         "mf": "1029694_4641711742910881298.manifest",
         "label": "Pack 3",
-        "key": "1029690.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "buildid": "18805095",
-        "target_buildid": "18805095"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5805,13 +5781,7 @@
         "manifest": "8598442631065094196",
         "mf": "1029695_8598442631065094196.manifest",
         "label": "Pack 4",
-        "key": "1029690.key",
-        "size": "2769729734",
-        "max_size": "2769729734",
-        "size_bytes": "2769729734",
-        "steam_manifest_size": "2769729734",
-        "buildid": "18805095",
-        "target_buildid": "18805095"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5819,13 +5789,7 @@
         "manifest": "8078920572438361322",
         "mf": "1029696_8078920572438361322.manifest",
         "label": "Pack 5",
-        "key": "1029690.key",
-        "size": "36590205735",
-        "max_size": "36590205735",
-        "size_bytes": "36590205735",
-        "steam_manifest_size": "36590205735",
-        "buildid": "18805095",
-        "target_buildid": "18805095"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5833,13 +5797,7 @@
         "manifest": "4542138177505861798",
         "mf": "1029697_4542138177505861798.manifest",
         "label": "Pack 6",
-        "key": "1029690.key",
-        "size": "32039278057",
-        "max_size": "32039278057",
-        "size_bytes": "32039278057",
-        "steam_manifest_size": "32039278057",
-        "buildid": "18805095",
-        "target_buildid": "18805095"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5847,13 +5805,7 @@
         "manifest": "6883624727050540372",
         "mf": "1029698_6883624727050540372.manifest",
         "label": "Pack 7",
-        "key": "1029690.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "buildid": "18805095",
-        "target_buildid": "18805095"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5861,14 +5813,7 @@
         "manifest": "5327197416901875131",
         "mf": "1029699_5327197416901875131.manifest",
         "label": "French",
-        "key": "1029690.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "buildid": "18805095",
-        "target_buildid": "18805095",
-        "steam_name": "French"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5876,14 +5821,7 @@
         "manifest": "2268884538971299653",
         "mf": "1034300_2268884538971299653.manifest",
         "label": "German",
-        "key": "1029690.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "buildid": "18805095",
-        "target_buildid": "18805095",
-        "steam_name": "German"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5891,14 +5829,7 @@
         "manifest": "3549278304777787532",
         "mf": "1034301_3549278304777787532.manifest",
         "label": "Spanish - Spain",
-        "key": "1029690.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "buildid": "18805095",
-        "target_buildid": "18805095",
-        "steam_name": "Spanish - Spain"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5906,14 +5837,7 @@
         "manifest": "55584285638861796",
         "mf": "1034302_55584285638861796.manifest",
         "label": "Portuguese - Brazil",
-        "key": "1029690.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "buildid": "18805095",
-        "target_buildid": "18805095",
-        "steam_name": "Portuguese - Brazil"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5921,14 +5845,7 @@
         "manifest": "5572081136714415674",
         "mf": "1034303_5572081136714415674.manifest",
         "label": "Russian",
-        "key": "1029690.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "buildid": "18805095",
-        "target_buildid": "18805095",
-        "steam_name": "Russian"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5936,14 +5853,7 @@
         "manifest": "401005443293247564",
         "mf": "1034304_401005443293247564.manifest",
         "label": "Polish",
-        "key": "1029690.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "buildid": "18805095",
-        "target_buildid": "18805095",
-        "steam_name": "Polish"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5951,14 +5861,7 @@
         "manifest": "6711370703817838606",
         "mf": "1034305_6711370703817838606.manifest",
         "label": "Italian",
-        "key": "1029690.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "buildid": "18805095",
-        "target_buildid": "18805095",
-        "steam_name": "Italian"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5966,14 +5869,7 @@
         "manifest": "1631922941913972371",
         "mf": "1034306_1631922941913972371.manifest",
         "label": "Japanese",
-        "key": "1029690.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "buildid": "18805095",
-        "target_buildid": "18805095",
-        "steam_name": "Japanese"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5981,14 +5877,7 @@
         "manifest": "8323279926462328867",
         "mf": "1034307_8323279926462328867.manifest",
         "label": "Korean",
-        "key": "1029690.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "buildid": "18805095",
-        "target_buildid": "18805095",
-        "steam_name": "Korean"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -5996,14 +5885,7 @@
         "manifest": "4866503105503861158",
         "mf": "1034308_4866503105503861158.manifest",
         "label": "Simplified Chinese",
-        "key": "1029690.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "buildid": "18805095",
-        "target_buildid": "18805095",
-        "steam_name": "Simplified Chinese"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -6011,14 +5893,15 @@
         "manifest": "5332519227344739646",
         "mf": "1034309_5332519227344739646.manifest",
         "label": "Traditional Chinese",
-        "key": "1029690.key",
-        "size": "32",
-        "max_size": "32",
-        "size_bytes": "32",
-        "steam_manifest_size": "32",
-        "buildid": "18805095",
-        "target_buildid": "18805095",
-        "steam_name": "Traditional Chinese"
+        "key": "1029690.key"
+      },
+      {
+        "app": "1029690",
+        "depot": "1363480",
+        "manifest": "4660191129267994404",
+        "mf": "1363480_4660191129267994404.manifest",
+        "label": "Pack 19",
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -6026,14 +5909,7 @@
         "manifest": "6265558502567977109",
         "mf": "1724940_6265558502567977109.manifest",
         "label": "Sniper Elite 5 : Landing Force Mission and Weapon Pack",
-        "key": "1029690.key",
-        "size": "2281610988",
-        "max_size": "2281610988",
-        "size_bytes": "2281610988",
-        "steam_manifest_size": "2281610988",
-        "buildid": "18805095",
-        "target_buildid": "18805095",
-        "steam_name": "Sniper Elite 5 : Landing Force Mission and Weapon Pack"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -6041,14 +5917,7 @@
         "manifest": "5739655975990511475",
         "mf": "1724941_5739655975990511475.manifest",
         "label": "Sniper Elite 5: Rough Landing Mission and Weapon Pack",
-        "key": "1029690.key",
-        "size": "1344171261",
-        "max_size": "1344171261",
-        "size_bytes": "1344171261",
-        "steam_manifest_size": "1344171261",
-        "buildid": "18805095",
-        "target_buildid": "18805095",
-        "steam_name": "Sniper Elite 5: Rough Landing Mission and Weapon Pack"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -6056,14 +5925,7 @@
         "manifest": "3926067574450407525",
         "mf": "1724942_3926067574450407525.manifest",
         "label": "Sniper Elite 5: Conqueror Mission, Weapon and Skin Pack",
-        "key": "1029690.key",
-        "size": "1603770293",
-        "max_size": "1603770293",
-        "size_bytes": "1603770293",
-        "steam_manifest_size": "1603770293",
-        "buildid": "18805095",
-        "target_buildid": "18805095",
-        "steam_name": "Sniper Elite 5: Conqueror Mission, Weapon and Skin Pack"
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -6071,14 +5933,15 @@
         "manifest": "5826021797743357922",
         "mf": "1872750_5826021797743357922.manifest",
         "label": "Sniper Elite 5: Target F\u00fchrer - Wolf Mountain",
-        "key": "1029690.key",
-        "size": "1840872685",
-        "max_size": "1840872685",
-        "size_bytes": "1840872685",
-        "steam_manifest_size": "1840872685",
-        "buildid": "18805095",
-        "target_buildid": "18805095",
-        "steam_name": "Sniper Elite 5: Target F\u00fchrer - Wolf Mountain"
+        "key": "1029690.key"
+      },
+      {
+        "app": "1029690",
+        "depot": "2080150",
+        "manifest": "1517271913222998312",
+        "mf": "2080150_1517271913222998312.manifest",
+        "label": "Pack 24",
+        "key": "1029690.key"
       },
       {
         "app": "1029690",
@@ -6086,23 +5949,9 @@
         "manifest": "9154254059837584769",
         "mf": "2167703_9154254059837584769.manifest",
         "label": "Sniper Elite 5: Kraken Awakes Mission, Weapon and Skin Pack",
-        "key": "1029690.key",
-        "size": "2006797549",
-        "max_size": "2006797549",
-        "size_bytes": "2006797549",
-        "steam_manifest_size": "2006797549",
-        "buildid": "18805095",
-        "target_buildid": "18805095",
-        "steam_name": "Sniper Elite 5: Kraken Awakes Mission, Weapon and Skin Pack"
+        "key": "1029690.key"
       }
-    ],
-    "size_bytes": "111137706691",
-    "size_gb": 111.14,
-    "build_id": "18805095",
-    "buildid": "18805095",
-    "build_name": "B_18805095",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "SHINOBI: Art of Vengeance": {
     "game": "SHINOBI: Art of Vengeance",
