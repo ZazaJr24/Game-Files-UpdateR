@@ -8883,5 +8883,20 @@
         "key": "2499860.key"
       }
     ]
+  },
+  "Sonic Racing: CrossWorlds": {
+    "game": "Sonic Racing: CrossWorlds",
+    "manifest_folder": "Manifests/2486820",
+    "key_file": "2486820.key",
+    "depots": [
+      {
+        "app": "2486820",
+        "depot": "2486821",
+        "manifest": "1912240652800489159",
+        "mf": "2486821_1912240652800489159.manifest",
+        "label": "Base Game",
+        "key": "2486820.key"
+      }
+    ]
   }
 }
