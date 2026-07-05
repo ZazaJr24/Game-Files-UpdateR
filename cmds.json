@@ -4048,21 +4048,9 @@
         "manifest": "4882956135694037628",
         "mf": "2072451_4882956135694037628.manifest",
         "label": "Base Game",
-        "key": "2072450.key",
-        "size": "84054109973",
-        "max_size": "84054109973",
-        "size_bytes": "84054109973",
-        "steam_manifest_size": "84054109973"
+        "key": "2072450.key"
       }
-    ],
-    "build_id": "17233673",
-    "buildid": "17233673",
-    "build_name": "B_17233673",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "84054109973",
-    "size_gb": 84.05,
-    "appid": "2072450"
+    ]
   },
   "Mafia: The Old Country": {
     "game": "Mafia: The Old Country",
