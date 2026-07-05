@@ -1256,21 +1256,9 @@
         "manifest": "663491988918308505",
         "mf": "3937551_663491988918308505.manifest",
         "label": "Base Game",
-        "key": "3937550.key",
-        "size": "59236773198",
-        "max_size": "59236773198",
-        "steam_manifest_size": "59236773198",
-        "buildid": "22369130",
-        "target_buildid": "22369130"
+        "key": "3937550.key"
       }
-    ],
-    "size_bytes": "59236773198",
-    "size_gb": 59.24,
-    "build_id": "22369130",
-    "buildid": "22369130",
-    "build_name": "B_22369130",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "F1\u00ae Manager 2024": {
     "game": "F1\u00ae Manager 2024",
