@@ -751,26 +751,12 @@
       {
         "app": "2688950",
         "depot": "2688951",
-        "manifest": "2859249448747464503",
-        "mf": "2688951_2859249448747464503.manifest",
+        "manifest": "3310260757501548799",
+        "mf": "2688951_3310260757501548799.manifest",
         "label": "Base Game",
-        "key": "2688950.key",
-        "size": "29130073125",
-        "max_size": "29130073125",
-        "size_bytes": "29130073125",
-        "steam_manifest_size": "29130073125",
-        "buildid": "23214447",
-        "target_buildid": "23214447"
+        "key": "2688950.key"
       }
-    ],
-    "size_bytes": "29130073125",
-    "size_gb": 29.13,
-    "appid": "2688950",
-    "build_id": "23214447",
-    "buildid": "23214447",
-    "build_name": "B_23214447",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Planet Zoo": {
     "game": "Planet Zoo",
