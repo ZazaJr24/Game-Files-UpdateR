@@ -106,11 +106,7 @@
         "manifest": "3537032707906149374",
         "mf": "1273401_3537032707906149374.manifest",
         "label": "Base Game",
-        "key": "1273400.key",
-        "size": "13444303332",
-        "max_size": "13444303332",
-        "size_bytes": "13444303332",
-        "steam_manifest_size": "13444303332"
+        "key": "1273400.key"
       },
       {
         "app": "1273400",
@@ -118,12 +114,7 @@
         "manifest": "322555549106022213",
         "mf": "1944340_322555549106022213.manifest",
         "label": "Construction Simulator - Car & Bobblehead Pack",
-        "key": "1273400.key",
-        "size": "2",
-        "max_size": "2",
-        "size_bytes": "2",
-        "steam_manifest_size": "2",
-        "steam_name": "Construction Simulator - Car & Bobblehead Pack"
+        "key": "1273400.key"
       },
       {
         "app": "1273400",
@@ -131,12 +122,7 @@
         "manifest": "8807678063382063768",
         "mf": "1944341_8807678063382063768.manifest",
         "label": "Construction Simulator - Customization Kit",
-        "key": "1273400.key",
-        "size": "2",
-        "max_size": "2",
-        "size_bytes": "2",
-        "steam_manifest_size": "2",
-        "steam_name": "Construction Simulator - Customization Kit"
+        "key": "1273400.key"
       },
       {
         "app": "1273400",
@@ -144,12 +130,7 @@
         "manifest": "8739100311331388793",
         "mf": "2203420_8739100311331388793.manifest",
         "label": "Construction Simulator - Kramer Pack",
-        "key": "1273400.key",
-        "size": "2",
-        "max_size": "2",
-        "size_bytes": "2",
-        "steam_manifest_size": "2",
-        "steam_name": "Construction Simulator - Kramer Pack"
+        "key": "1273400.key"
       },
       {
         "app": "1273400",
@@ -157,12 +138,7 @@
         "manifest": "8453066766368453847",
         "mf": "2291424_8453066766368453847.manifest",
         "label": "Construction Simulator - JCB Pack",
-        "key": "1273400.key",
-        "size": "2",
-        "max_size": "2",
-        "size_bytes": "2",
-        "steam_manifest_size": "2",
-        "steam_name": "Construction Simulator - JCB Pack"
+        "key": "1273400.key"
       },
       {
         "app": "1273400",
@@ -170,12 +146,7 @@
         "manifest": "685349866155445181",
         "mf": "2295781_685349866155445181.manifest",
         "label": "Construction Simulator - Airfield Expansion",
-        "key": "1273400.key",
-        "size": "2",
-        "max_size": "2",
-        "size_bytes": "2",
-        "steam_manifest_size": "2",
-        "steam_name": "Construction Simulator - Airfield Expansion"
+        "key": "1273400.key"
       },
       {
         "app": "1273400",
@@ -183,12 +154,7 @@
         "manifest": "3383914678723808175",
         "mf": "2295811_3383914678723808175.manifest",
         "label": "Construction Simulator - SANY Pack",
-        "key": "1273400.key",
-        "size": "2",
-        "max_size": "2",
-        "size_bytes": "2",
-        "steam_manifest_size": "2",
-        "steam_name": "Construction Simulator - SANY Pack"
+        "key": "1273400.key"
       },
       {
         "app": "1273400",
@@ -196,12 +162,7 @@
         "manifest": "8580441773329478911",
         "mf": "2295821_8580441773329478911.manifest",
         "label": "Construction Simulator - Spaceport Expansion",
-        "key": "1273400.key",
-        "size": "2",
-        "max_size": "2",
-        "size_bytes": "2",
-        "steam_manifest_size": "2",
-        "steam_name": "Construction Simulator - Spaceport Expansion"
+        "key": "1273400.key"
       },
       {
         "app": "1273400",
@@ -209,12 +170,7 @@
         "manifest": "320280581201002583",
         "mf": "2322971_320280581201002583.manifest",
         "label": "Construction Simulator - Cosmetic Pack #1",
-        "key": "1273400.key",
-        "size": "2",
-        "max_size": "2",
-        "size_bytes": "2",
-        "steam_manifest_size": "2",
-        "steam_name": "Construction Simulator - Cosmetic Pack #1"
+        "key": "1273400.key"
       },
       {
         "app": "1273400",
@@ -222,12 +178,7 @@
         "manifest": "5743210225651998743",
         "mf": "2322981_5743210225651998743.manifest",
         "label": "Construction Simulator - Cosmetic Pack #2",
-        "key": "1273400.key",
-        "size": "2",
-        "max_size": "2",
-        "size_bytes": "2",
-        "steam_manifest_size": "2",
-        "steam_name": "Construction Simulator - Cosmetic Pack #2"
+        "key": "1273400.key"
       },
       {
         "app": "1273400",
@@ -235,12 +186,7 @@
         "manifest": "7520794540910599885",
         "mf": "2322991_7520794540910599885.manifest",
         "label": "Construction Simulator - Year 1 Season Pass Helmet",
-        "key": "1273400.key",
-        "size": "2",
-        "max_size": "2",
-        "size_bytes": "2",
-        "steam_manifest_size": "2",
-        "steam_name": "Construction Simulator - Year 1 Season Pass Helmet"
+        "key": "1273400.key"
       },
       {
         "app": "1273400",
@@ -248,12 +194,7 @@
         "manifest": "6016383179637761921",
         "mf": "2657381_6016383179637761921.manifest",
         "label": "Construction Simulator - Liebherr Pack",
-        "key": "1273400.key",
-        "size": "2",
-        "max_size": "2",
-        "size_bytes": "2",
-        "steam_manifest_size": "2",
-        "steam_name": "Construction Simulator - Liebherr Pack"
+        "key": "1273400.key"
       },
       {
         "app": "1273400",
@@ -261,12 +202,7 @@
         "manifest": "3197796519729678759",
         "mf": "2657391_3197796519729678759.manifest",
         "label": "Construction Simulator - Stadium Expansion",
-        "key": "1273400.key",
-        "size": "2",
-        "max_size": "2",
-        "size_bytes": "2",
-        "steam_manifest_size": "2",
-        "steam_name": "Construction Simulator - Stadium Expansion"
+        "key": "1273400.key"
       },
       {
         "app": "1273400",
@@ -274,12 +210,7 @@
         "manifest": "8114831874000182204",
         "mf": "2657401_8114831874000182204.manifest",
         "label": "Construction Simulator - Dynapac Pack",
-        "key": "1273400.key",
-        "size": "2",
-        "max_size": "2",
-        "size_bytes": "2",
-        "steam_manifest_size": "2",
-        "steam_name": "Construction Simulator - Dynapac Pack"
+        "key": "1273400.key"
       },
       {
         "app": "1273400",
@@ -287,12 +218,7 @@
         "manifest": "3557864438957203195",
         "mf": "2657411_3557864438957203195.manifest",
         "label": "Construction Simulator - DAF & MEILLER Pack",
-        "key": "1273400.key",
-        "size": "2",
-        "max_size": "2",
-        "size_bytes": "2",
-        "steam_manifest_size": "2",
-        "steam_name": "Construction Simulator - DAF & MEILLER Pack"
+        "key": "1273400.key"
       },
       {
         "app": "1273400",
@@ -300,12 +226,7 @@
         "manifest": "8791015684642513912",
         "mf": "2657421_8791015684642513912.manifest",
         "label": "Construction Simulator - Year 2 Season Pass Pickup Truck",
-        "key": "1273400.key",
-        "size": "2",
-        "max_size": "2",
-        "size_bytes": "2",
-        "steam_manifest_size": "2",
-        "steam_name": "Construction Simulator - Year 2 Season Pass Pickup Truck"
+        "key": "1273400.key"
       },
       {
         "app": "1273400",
@@ -313,22 +234,9 @@
         "manifest": "5044123825545457794",
         "mf": "2800781_5044123825545457794.manifest",
         "label": "Construction Simulator - Cosmetic Pack #3",
-        "key": "1273400.key",
-        "size": "2",
-        "max_size": "2",
-        "size_bytes": "2",
-        "steam_manifest_size": "2",
-        "steam_name": "Construction Simulator - Cosmetic Pack #3"
+        "key": "1273400.key"
       }
-    ],
-    "build_id": "20222345",
-    "buildid": "20222345",
-    "build_name": "B_20222345",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "13444303364",
-    "size_gb": 13.44,
-    "appid": "1273400"
+    ]
   },
   "Crimson Desert": {
     "game": "Crimson Desert",
