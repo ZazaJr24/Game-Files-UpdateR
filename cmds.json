@@ -5466,21 +5466,9 @@
         "manifest": "7586046228060338110",
         "mf": "3768761_7586046228060338110.manifest",
         "label": "Base Game",
-        "key": "3768760.key",
-        "size": "57178927883",
-        "max_size": "57178927883",
-        "steam_manifest_size": "57178927883",
-        "buildid": "23909702",
-        "target_buildid": "23909702"
+        "key": "3768760.key"
       }
-    ],
-    "size_bytes": "57178927883",
-    "size_gb": 57.18,
-    "build_id": "23909702",
-    "buildid": "23909702",
-    "build_name": "B_23909702",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Anno 117: Pax Romana": {
     "game": "Anno 117: Pax Romana",
