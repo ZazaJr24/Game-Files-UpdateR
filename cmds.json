@@ -8769,5 +8769,20 @@
         "key": "779340.key"
       }
     ]
+  },
+  "FINAL FANTASY TACTICS - The Ivalice Chronicles": {
+    "game": "FINAL FANTASY TACTICS - The Ivalice Chronicles",
+    "manifest_folder": "Manifests/1004640",
+    "key_file": "1004640.key",
+    "depots": [
+      {
+        "app": "1004640",
+        "depot": "1004641",
+        "manifest": "4690169421776654864",
+        "mf": "1004641_4690169421776654864.manifest",
+        "label": "Base Game",
+        "key": "1004640.key"
+      }
+    ]
   }
 }
