@@ -49,23 +49,17 @@
         "manifest": "4899963882725517925",
         "mf": "2362061_4899963882725517925.manifest",
         "label": "Base Game",
-        "key": "2362060.key",
-        "size": "67449284101",
-        "max_size": "67449284101",
-        "size_bytes": "67449284101",
-        "steam_manifest_size": "67449284101",
-        "buildid": "22883694",
-        "target_buildid": "22883694"
+        "key": "2362060.key"
+      },
+      {
+        "app": "2362060",
+        "depot": "2362062",
+        "manifest": "1931916847951337758",
+        "mf": "2362062_1931916847951337758.manifest",
+        "label": "Pack 1",
+        "key": "2362060.key"
       }
-    ],
-    "size_bytes": "67449284101",
-    "size_gb": 67.45,
-    "appid": "2362060",
-    "build_id": "22883694",
-    "buildid": "22883694",
-    "build_name": "B_22883694",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Construction Simulator": {
     "game": "Construction Simulator",
