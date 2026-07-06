@@ -216,14 +216,6 @@
         "mf": "3321461_6209850449921977184.manifest",
         "label": "Base Game",
         "key": "3321460.key"
-      },
-      {
-        "app": "3321460",
-        "depot": "3321462",
-        "manifest": "6124496109020285315",
-        "mf": "3321462_6124496109020285315.manifest",
-        "label": "Pack 1",
-        "key": "3321460.key"
       }
     ]
   },
@@ -1163,8 +1155,8 @@
       }
     ]
   },
-  "F1\u00ae Manager 2024": {
-    "game": "F1\u00ae Manager 2024",
+  "F1® Manager 2024": {
+    "game": "F1® Manager 2024",
     "manifest_folder": "Manifests/2591280",
     "key_file": "2591280.key",
     "depots": [
@@ -1415,8 +1407,8 @@
       }
     ]
   },
-  "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight": {
-    "game": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight",
+  "LEGO® Batman™: Legacy of the Dark Knight": {
+    "game": "LEGO® Batman™: Legacy of the Dark Knight",
     "manifest_folder": "Manifests/2215200",
     "key_file": "2215200.key",
     "depots": [
@@ -1565,8 +1557,8 @@
     "size_gb": 70.06,
     "appid": "3035570"
   },
-  "Assassin\u2019s Creed Shadows": {
-    "game": "Assassin\u2019s Creed Shadows",
+  "Assassin’s Creed Shadows": {
+    "game": "Assassin’s Creed Shadows",
     "manifest_folder": "Manifests/3159330",
     "key_file": "3159330.key",
     "depots": [
@@ -1698,8 +1690,8 @@
     "build_id_source": "steamcmd:public",
     "build_id_exact": true
   },
-  "Avatar: Frontiers of Pandora\u2122": {
-    "game": "Avatar: Frontiers of Pandora\u2122",
+  "Avatar: Frontiers of Pandora™": {
+    "game": "Avatar: Frontiers of Pandora™",
     "manifest_folder": "Manifests/2840770",
     "key_file": "2840770.key",
     "depots": [
@@ -1796,7 +1788,7 @@
         "depot": "3005000",
         "manifest": "8047920361918511067",
         "mf": "3005000_8047920361918511067.manifest",
-        "label": "Avatar: Frontiers of Pandora\u2122 \u2013 The Sky Breaker",
+        "label": "Avatar: Frontiers of Pandora™ – The Sky Breaker",
         "key": "2840770.key",
         "size": "6644729318",
         "max_size": "6644729318",
@@ -1804,14 +1796,14 @@
         "steam_manifest_size": "6644729318",
         "buildid": "22429549",
         "target_buildid": "22429549",
-        "steam_name": "Avatar: Frontiers of Pandora\u2122 \u2013 The Sky Breaker"
+        "steam_name": "Avatar: Frontiers of Pandora™ – The Sky Breaker"
       },
       {
         "app": "2840770",
         "depot": "3005010",
         "manifest": "7571111406504859758",
         "mf": "3005010_7571111406504859758.manifest",
-        "label": "Avatar: Frontiers of Pandora\u2122 \u2013 Secrets of The Spire",
+        "label": "Avatar: Frontiers of Pandora™ – Secrets of The Spire",
         "key": "2840770.key",
         "size": "11014434315",
         "max_size": "11014434315",
@@ -1819,14 +1811,14 @@
         "steam_manifest_size": "11014434315",
         "buildid": "22429549",
         "target_buildid": "22429549",
-        "steam_name": "Avatar: Frontiers of Pandora\u2122 \u2013 Secrets of The Spire"
+        "steam_name": "Avatar: Frontiers of Pandora™ – Secrets of The Spire"
       },
       {
         "app": "2840770",
         "depot": "3823590",
         "manifest": "7216827091719275431",
         "mf": "3823590_7216827091719275431.manifest",
-        "label": "From The Ashes Expansion - Avatar: Frontiers of Pandora\u2122",
+        "label": "From The Ashes Expansion - Avatar: Frontiers of Pandora™",
         "key": "2840770.key",
         "size": "25217967373",
         "max_size": "25217967373",
@@ -1834,7 +1826,7 @@
         "steam_manifest_size": "25217967373",
         "buildid": "22429549",
         "target_buildid": "22429549",
-        "steam_name": "From The Ashes Expansion - Avatar: Frontiers of Pandora\u2122"
+        "steam_name": "From The Ashes Expansion - Avatar: Frontiers of Pandora™"
       }
     ],
     "size_bytes": "145866220418",
@@ -2256,8 +2248,8 @@
       }
     ]
   },
-  "EA SPORTS FC\u2122 24": {
-    "game": "EA SPORTS FC\u2122 24",
+  "EA SPORTS FC™ 24": {
+    "game": "EA SPORTS FC™ 24",
     "manifest_folder": "Manifests/2195250",
     "key_file": "2195250.key",
     "depots": [
@@ -2627,8 +2619,8 @@
     "build_id_source": "steamcmd:public",
     "build_id_exact": true
   },
-  "EA SPORTS FC\u2122 25": {
-    "game": "EA SPORTS FC\u2122 25",
+  "EA SPORTS FC™ 25": {
+    "game": "EA SPORTS FC™ 25",
     "manifest_folder": "Manifests/2669320",
     "key_file": "2669320.key",
     "depots": [
@@ -2999,8 +2991,8 @@
     "build_id_source": "steamcmd:public",
     "build_id_exact": true
   },
-  "EA SPORTS\u2122 WRC": {
-    "game": "EA SPORTS\u2122 WRC",
+  "EA SPORTS™ WRC": {
+    "game": "EA SPORTS™ WRC",
     "manifest_folder": "Manifests/1849250",
     "key_file": "1849250.key",
     "depots": [
@@ -3673,7 +3665,7 @@
         "depot": "2561520",
         "manifest": "4740185705261078409",
         "mf": "2561520_4740185705261078409.manifest",
-        "label": "Sniper Elite: Resistance - Target F\u00fchrer - Lights, Camera, Achtung",
+        "label": "Sniper Elite: Resistance - Target Führer - Lights, Camera, Achtung",
         "key": "2169200.key"
       },
       {
@@ -3710,8 +3702,8 @@
       }
     ]
   },
-  "Stellar Blade\u2122": {
-    "game": "Stellar Blade\u2122",
+  "Stellar Blade™": {
+    "game": "Stellar Blade™",
     "manifest_folder": "Manifests/3489700",
     "key_file": "3489700.key",
     "depots": [
@@ -3732,26 +3724,26 @@
         "depot": "3596180",
         "manifest": "8344797041293440177",
         "mf": "3596180_8344797041293440177.manifest",
-        "label": "Stellar Blade\u2122 x NieR:Automata",
+        "label": "Stellar Blade™ x NieR:Automata",
         "key": "3489700.key",
         "size": "267945998",
         "max_size": "267945998",
         "size_bytes": "267945998",
         "steam_manifest_size": "267945998",
-        "steam_name": "Stellar Blade\u2122 x NieR:Automata"
+        "steam_name": "Stellar Blade™ x NieR:Automata"
       },
       {
         "app": "3489700",
         "depot": "3596190",
         "manifest": "6588499701851943951",
         "mf": "3596190_6588499701851943951.manifest",
-        "label": "Stellar Blade\u2122 x GODDESS OF VICTORY: NIKKE",
+        "label": "Stellar Blade™ x GODDESS OF VICTORY: NIKKE",
         "key": "3489700.key",
         "size": "25546789",
         "max_size": "25546789",
         "size_bytes": "25546789",
         "steam_manifest_size": "25546789",
-        "steam_name": "Stellar Blade\u2122 x GODDESS OF VICTORY: NIKKE"
+        "steam_name": "Stellar Blade™ x GODDESS OF VICTORY: NIKKE"
       }
     ],
     "build_id": "19963153",
@@ -3763,8 +3755,8 @@
     "size_gb": 64.98,
     "appid": "3489700"
   },
-  "Street Fighter\u2122 6": {
-    "game": "Street Fighter\u2122 6",
+  "Street Fighter™ 6": {
+    "game": "Street Fighter™ 6",
     "manifest_folder": "Manifests/1364780",
     "key_file": "1364780.key",
     "depots": [
@@ -3793,8 +3785,8 @@
       }
     ]
   },
-  "Need for Speed\u2122 Unbound": {
-    "game": "Need for Speed\u2122 Unbound",
+  "Need for Speed™ Unbound": {
+    "game": "Need for Speed™ Unbound",
     "manifest_folder": "Manifests/1846380",
     "key_file": "1846380.key",
     "depots": [
@@ -4524,8 +4516,8 @@
       }
     ]
   },
-  "EA SPORTS FC\u2122 26": {
-    "game": "EA SPORTS FC\u2122 26",
+  "EA SPORTS FC™ 26": {
+    "game": "EA SPORTS FC™ 26",
     "manifest_folder": "Manifests/3405690",
     "key_file": "3405690.key",
     "depots": [
@@ -5155,7 +5147,7 @@
         "depot": "1872750",
         "manifest": "5826021797743357922",
         "mf": "1872750_5826021797743357922.manifest",
-        "label": "Sniper Elite 5: Target F\u00fchrer - Wolf Mountain",
+        "label": "Sniper Elite 5: Target Führer - Wolf Mountain",
         "key": "1029690.key"
       },
       {
@@ -5214,8 +5206,8 @@
       }
     ]
   },
-  "EA SPORTS\u2122 Madden NFL 26": {
-    "game": "EA SPORTS\u2122 Madden NFL 26",
+  "EA SPORTS™ Madden NFL 26": {
+    "game": "EA SPORTS™ Madden NFL 26",
     "manifest_folder": "Manifests/3230400",
     "key_file": "3230400.key",
     "depots": [
@@ -5354,8 +5346,8 @@
       }
     ]
   },
-  "Persona\u00ae 5 Strikers": {
-    "game": "Persona\u00ae 5 Strikers",
+  "Persona® 5 Strikers": {
+    "game": "Persona® 5 Strikers",
     "manifest_folder": "Manifests/1382330",
     "key_file": "1382330.key",
     "depots": [
@@ -5393,8 +5385,8 @@
       }
     ]
   },
-  "F1\u00ae 25": {
-    "game": "F1\u00ae 25",
+  "F1® 25": {
+    "game": "F1® 25",
     "manifest_folder": "Manifests/3059520",
     "key_file": "3059520.key",
     "depots": [
@@ -5457,8 +5449,8 @@
     "size_bytes": "103686480422",
     "size_gb": 103.69
   },
-  "F1\u00ae 24": {
-    "game": "F1\u00ae 24",
+  "F1® 24": {
+    "game": "F1® 24",
     "manifest_folder": "Manifests/2488620",
     "key_file": "2488620.key",
     "depots": [
@@ -6248,8 +6240,8 @@
     "build_id_source": "steamcmd:public",
     "build_id_exact": true
   },
-  "Lost in Random\u2122": {
-    "game": "Lost in Random\u2122",
+  "Lost in Random™": {
+    "game": "Lost in Random™",
     "manifest_folder": "Manifests/1462570",
     "key_file": "1462570.key",
     "depots": [
@@ -6372,8 +6364,8 @@
     "build_id_source": "steamcmd:public",
     "build_id_exact": true
   },
-  "EA SPORTS\u2122 PGA TOUR\u2122": {
-    "game": "EA SPORTS\u2122 PGA TOUR\u2122",
+  "EA SPORTS™ PGA TOUR™": {
+    "game": "EA SPORTS™ PGA TOUR™",
     "manifest_folder": "Manifests/1677350",
     "key_file": "1677350.key",
     "depots": [
