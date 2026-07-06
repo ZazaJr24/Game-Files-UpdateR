@@ -6260,12 +6260,7 @@
         "manifest": "3982950176934774134",
         "mf": "1235141_3982950176934774134.manifest",
         "label": "Base Game",
-        "key": "1235140.key",
-        "size": "48217349897",
-        "max_size": "48217349897",
-        "steam_manifest_size": "48217349897",
-        "buildid": "7362542",
-        "target_buildid": "7362542"
+        "key": "1235140.key"
       },
       {
         "app": "1235140",
@@ -6273,12 +6268,7 @@
         "manifest": "8959182181353937372",
         "mf": "1235142_8959182181353937372.manifest",
         "label": "Pack 1",
-        "key": "1235140.key",
-        "size": "1474056112",
-        "max_size": "1474056112",
-        "steam_manifest_size": "1474056112",
-        "buildid": "7362542",
-        "target_buildid": "7362542"
+        "key": "1235140.key"
       },
       {
         "app": "1235140",
@@ -6286,12 +6276,7 @@
         "manifest": "1840815612651255441",
         "mf": "1235143_1840815612651255441.manifest",
         "label": "Pack 2",
-        "key": "1235140.key",
-        "size": "17579056",
-        "max_size": "17579056",
-        "steam_manifest_size": "17579056",
-        "buildid": "7362542",
-        "target_buildid": "7362542"
+        "key": "1235140.key"
       },
       {
         "app": "1235140",
@@ -6299,21 +6284,9 @@
         "manifest": "7375459467269071379",
         "mf": "1235144_7375459467269071379.manifest",
         "label": "Pack 3",
-        "key": "1235140.key",
-        "size": "713010868",
-        "max_size": "713010868",
-        "steam_manifest_size": "713010868",
-        "buildid": "7362542",
-        "target_buildid": "7362542"
+        "key": "1235140.key"
       }
-    ],
-    "size_bytes": "50421995933",
-    "size_gb": 50.42,
-    "build_id": "7362542",
-    "buildid": "7362542",
-    "build_name": "B_7362542",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Like a Dragon Gaiden: The Man Who Erased His Name": {
     "game": "Like a Dragon Gaiden: The Man Who Erased His Name",
