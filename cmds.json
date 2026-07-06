@@ -5729,12 +5729,7 @@
         "manifest": "1108385733889662950",
         "mf": "2058191_1108385733889662950.manifest",
         "label": "Base Game",
-        "key": "2058190.key",
-        "size": "62371635462",
-        "max_size": "62371635462",
-        "steam_manifest_size": "62371635462",
-        "buildid": "10792513",
-        "target_buildid": "10792513"
+        "key": "2058190.key"
       },
       {
         "app": "2058190",
@@ -5742,13 +5737,15 @@
         "manifest": "2356614499278645358",
         "mf": "2058192_2356614499278645358.manifest",
         "label": "Japanese",
-        "key": "2058190.key",
-        "steam_name": "Japanese",
-        "size": "344366315",
-        "max_size": "344366315",
-        "steam_manifest_size": "344366315",
-        "buildid": "10792513",
-        "target_buildid": "10792513"
+        "key": "2058190.key"
+      },
+      {
+        "app": "2058190",
+        "depot": "2058193",
+        "manifest": "3023615365333382853",
+        "mf": "2058193_3023615365333382853.manifest",
+        "label": "Pack 2",
+        "key": "2058190.key"
       },
       {
         "app": "2058190",
@@ -5756,13 +5753,7 @@
         "manifest": "5496445866113927429",
         "mf": "2058194_5496445866113927429.manifest",
         "label": "Simplified Chinese",
-        "key": "2058190.key",
-        "steam_name": "Simplified Chinese",
-        "size": "345386933",
-        "max_size": "345386933",
-        "steam_manifest_size": "345386933",
-        "buildid": "10792513",
-        "target_buildid": "10792513"
+        "key": "2058190.key"
       },
       {
         "app": "2058190",
@@ -5770,13 +5761,7 @@
         "manifest": "1709028538040015540",
         "mf": "2058195_1709028538040015540.manifest",
         "label": "Korean",
-        "key": "2058190.key",
-        "steam_name": "Korean",
-        "size": "345274800",
-        "max_size": "345274800",
-        "steam_manifest_size": "345274800",
-        "buildid": "10792513",
-        "target_buildid": "10792513"
+        "key": "2058190.key"
       },
       {
         "app": "2058190",
@@ -5784,13 +5769,7 @@
         "manifest": "6227221954580559052",
         "mf": "2058196_6227221954580559052.manifest",
         "label": "French",
-        "key": "2058190.key",
-        "steam_name": "French",
-        "size": "343448576",
-        "max_size": "343448576",
-        "steam_manifest_size": "343448576",
-        "buildid": "10792513",
-        "target_buildid": "10792513"
+        "key": "2058190.key"
       },
       {
         "app": "2058190",
@@ -5798,13 +5777,7 @@
         "manifest": "7227965025578574369",
         "mf": "2058197_7227965025578574369.manifest",
         "label": "Italian",
-        "key": "2058190.key",
-        "steam_name": "Italian",
-        "size": "343368704",
-        "max_size": "343368704",
-        "steam_manifest_size": "343368704",
-        "buildid": "10792513",
-        "target_buildid": "10792513"
+        "key": "2058190.key"
       },
       {
         "app": "2058190",
@@ -5812,13 +5785,7 @@
         "manifest": "6217176551366386900",
         "mf": "2058198_6217176551366386900.manifest",
         "label": "German",
-        "key": "2058190.key",
-        "steam_name": "German",
-        "size": "343446528",
-        "max_size": "343446528",
-        "steam_manifest_size": "343446528",
-        "buildid": "10792513",
-        "target_buildid": "10792513"
+        "key": "2058190.key"
       },
       {
         "app": "2058190",
@@ -5826,22 +5793,9 @@
         "manifest": "2746341661372416133",
         "mf": "2058199_2746341661372416133.manifest",
         "label": "Spanish - Spain",
-        "key": "2058190.key",
-        "steam_name": "Spanish - Spain",
-        "size": "343348224",
-        "max_size": "343348224",
-        "steam_manifest_size": "343348224",
-        "buildid": "10792513",
-        "target_buildid": "10792513"
+        "key": "2058190.key"
       }
-    ],
-    "size_bytes": "65125591301",
-    "size_gb": 65.13,
-    "build_id": "10792513",
-    "buildid": "10792513",
-    "build_name": "B_10792513",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Total War: PHARAOH DYNASTIES": {
     "game": "Total War: PHARAOH DYNASTIES",
