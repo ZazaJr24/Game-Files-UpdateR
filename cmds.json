@@ -6821,21 +6821,9 @@
         "manifest": "357163534041889933",
         "mf": "2375551_357163534041889933.manifest",
         "label": "Base Game",
-        "key": "2375550.key",
-        "size": "93695762973",
-        "max_size": "93695762973",
-        "steam_manifest_size": "93695762973",
-        "buildid": "17235513",
-        "target_buildid": "17235513"
+        "key": "2375550.key"
       }
-    ],
-    "size_bytes": "93695762973",
-    "size_gb": 93.7,
-    "build_id": "17235513",
-    "buildid": "17235513",
-    "build_name": "B_17235513",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "DIRT 5": {
     "game": "DIRT 5",
