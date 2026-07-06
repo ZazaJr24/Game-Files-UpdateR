@@ -1478,21 +1478,9 @@
         "manifest": "1703635842257284304",
         "mf": "2513281_1703635842257284304.manifest",
         "label": "Base Game",
-        "key": "2513280.key",
-        "size": "40057492935",
-        "max_size": "40057492935",
-        "size_bytes": "40057492935",
-        "steam_manifest_size": "40057492935"
+        "key": "2513280.key"
       }
-    ],
-    "build_id": "16644180",
-    "buildid": "16644180",
-    "build_name": "B_16644180",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "40057492935",
-    "size_gb": 40.06,
-    "appid": "2513280"
+    ]
   },
   "Warhammer 40,000: Chaos Gate - Daemonhunters": {
     "game": "Warhammer 40,000: Chaos Gate - Daemonhunters",
