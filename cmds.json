@@ -5296,13 +5296,7 @@
         "manifest": "8572567774510642096",
         "mf": "2361771_8572567774510642096.manifest",
         "label": "Base Game",
-        "key": "2361770.key",
-        "size": "10582118189",
-        "max_size": "10582118189",
-        "size_bytes": "10582118189",
-        "steam_manifest_size": "10582118189",
-        "buildid": "22016198",
-        "target_buildid": "22016198"
+        "key": "2361770.key"
       },
       {
         "app": "2361770",
@@ -5310,23 +5304,9 @@
         "manifest": "1281949326523039310",
         "mf": "3381241_1281949326523039310.manifest",
         "label": "SHINOBI: Art of Vengeance - SEGA Villains Stage",
-        "key": "2361770.key",
-        "size": "2217913766",
-        "max_size": "2217913766",
-        "size_bytes": "2217913766",
-        "steam_manifest_size": "2217913766",
-        "buildid": "22016198",
-        "target_buildid": "22016198",
-        "steam_name": "SHINOBI: Art of Vengeance - SEGA Villains Stage"
+        "key": "2361770.key"
       }
-    ],
-    "size_bytes": "12800031955",
-    "size_gb": 12.8,
-    "build_id": "22016198",
-    "buildid": "22016198",
-    "build_name": "B_22016198",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Like a Dragon: Pirate Yakuza in Hawaii": {
     "game": "Like a Dragon: Pirate Yakuza in Hawaii",
