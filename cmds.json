@@ -6174,16 +6174,19 @@
     "depots": [
       {
         "app": "1937780",
+        "depot": "372531",
+        "manifest": "1128077100884847891",
+        "mf": "372531_1128077100884847891.manifest",
+        "label": "Pack 30",
+        "key": "1937780.key"
+      },
+      {
+        "app": "1937780",
         "depot": "1937781",
         "manifest": "5629193213201962890",
         "mf": "1937781_5629193213201962890.manifest",
         "label": "Base Game",
-        "key": "1937780.key",
-        "size": "431335909",
-        "max_size": "431335909",
-        "steam_manifest_size": "431335909",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6191,12 +6194,7 @@
         "manifest": "6090923293379737305",
         "mf": "1937782_6090923293379737305.manifest",
         "label": "Pack 1",
-        "key": "1937780.key",
-        "size": "50751845239",
-        "max_size": "50751845239",
-        "steam_manifest_size": "50751845239",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6204,13 +6202,7 @@
         "manifest": "8217792501176964650",
         "mf": "1937783_8217792501176964650.manifest",
         "label": "English",
-        "key": "1937780.key",
-        "steam_name": "English",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6218,13 +6210,7 @@
         "manifest": "8048227615954036045",
         "mf": "1937784_8048227615954036045.manifest",
         "label": "Portuguese - Brazil",
-        "key": "1937780.key",
-        "steam_name": "Portuguese - Brazil",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6232,13 +6218,7 @@
         "manifest": "9142260801798094149",
         "mf": "1937785_9142260801798094149.manifest",
         "label": "Czech",
-        "key": "1937780.key",
-        "steam_name": "Czech",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6246,13 +6226,7 @@
         "manifest": "8535370607222058487",
         "mf": "1937786_8535370607222058487.manifest",
         "label": "German",
-        "key": "1937780.key",
-        "steam_name": "German",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6260,13 +6234,7 @@
         "manifest": "3933609307447909722",
         "mf": "1937787_3933609307447909722.manifest",
         "label": "Spanish - Spain",
-        "key": "1937780.key",
-        "steam_name": "Spanish - Spain",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6274,13 +6242,7 @@
         "manifest": "7191626226820597285",
         "mf": "1937788_7191626226820597285.manifest",
         "label": "French",
-        "key": "1937780.key",
-        "steam_name": "French",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6288,13 +6250,7 @@
         "manifest": "6640379906837424209",
         "mf": "1937789_6640379906837424209.manifest",
         "label": "Italian",
-        "key": "1937780.key",
-        "steam_name": "Italian",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6302,13 +6258,7 @@
         "manifest": "5620154168201326351",
         "mf": "2366641_5620154168201326351.manifest",
         "label": "Korean",
-        "key": "1937780.key",
-        "steam_name": "Korean",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6316,13 +6266,7 @@
         "manifest": "6898189751606606018",
         "mf": "2366642_6898189751606606018.manifest",
         "label": "Polish",
-        "key": "1937780.key",
-        "steam_name": "Polish",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6330,13 +6274,7 @@
         "manifest": "7888942509897567362",
         "mf": "2366643_7888942509897567362.manifest",
         "label": "Turkish",
-        "key": "1937780.key",
-        "steam_name": "Turkish",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6344,13 +6282,7 @@
         "manifest": "7736964783605673509",
         "mf": "2366644_7736964783605673509.manifest",
         "label": "Simplified Chinese",
-        "key": "1937780.key",
-        "steam_name": "Simplified Chinese",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6358,13 +6290,7 @@
         "manifest": "8615626323124668179",
         "mf": "2366645_8615626323124668179.manifest",
         "label": "Traditional Chinese",
-        "key": "1937780.key",
-        "steam_name": "Traditional Chinese",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6372,12 +6298,7 @@
         "manifest": "4218691788519773943",
         "mf": "2366646_4218691788519773943.manifest",
         "label": "Pack 14",
-        "key": "1937780.key",
-        "size": "220389416",
-        "max_size": "220389416",
-        "steam_manifest_size": "220389416",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6385,12 +6306,7 @@
         "manifest": "5349720861773718152",
         "mf": "2366647_5349720861773718152.manifest",
         "label": "Pack 15",
-        "key": "1937780.key",
-        "size": "50769200599",
-        "max_size": "50769200599",
-        "steam_manifest_size": "50769200599",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6398,13 +6314,7 @@
         "manifest": "5415053707318350444",
         "mf": "2366648_5415053707318350444.manifest",
         "label": "English (macOS)",
-        "key": "1937780.key",
-        "steam_name": "English (macOS)",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6412,13 +6322,7 @@
         "manifest": "8938500229078241151",
         "mf": "2366649_8938500229078241151.manifest",
         "label": "Portuguese - Brazil (macOS)",
-        "key": "1937780.key",
-        "steam_name": "Portuguese - Brazil (macOS)",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6426,13 +6330,7 @@
         "manifest": "2837550679947575353",
         "mf": "2457180_2837550679947575353.manifest",
         "label": "Czech (macOS)",
-        "key": "1937780.key",
-        "steam_name": "Czech (macOS)",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6440,13 +6338,7 @@
         "manifest": "7013992312691325034",
         "mf": "2457181_7013992312691325034.manifest",
         "label": "German (macOS)",
-        "key": "1937780.key",
-        "steam_name": "German (macOS)",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6454,13 +6346,7 @@
         "manifest": "3805770509887183972",
         "mf": "2457182_3805770509887183972.manifest",
         "label": "Spanish - Spain (macOS)",
-        "key": "1937780.key",
-        "steam_name": "Spanish - Spain (macOS)",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6468,13 +6354,7 @@
         "manifest": "1058937710141950403",
         "mf": "2457183_1058937710141950403.manifest",
         "label": "French (macOS)",
-        "key": "1937780.key",
-        "steam_name": "French (macOS)",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6482,13 +6362,7 @@
         "manifest": "9108105512274506539",
         "mf": "2457184_9108105512274506539.manifest",
         "label": "Italian (macOS)",
-        "key": "1937780.key",
-        "steam_name": "Italian (macOS)",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6496,13 +6370,7 @@
         "manifest": "7698415535675965386",
         "mf": "2457185_7698415535675965386.manifest",
         "label": "Korean (macOS)",
-        "key": "1937780.key",
-        "steam_name": "Korean (macOS)",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6510,13 +6378,7 @@
         "manifest": "7694809028751481270",
         "mf": "2457186_7694809028751481270.manifest",
         "label": "Polish (macOS)",
-        "key": "1937780.key",
-        "steam_name": "Polish (macOS)",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6524,13 +6386,7 @@
         "manifest": "5983394566961205177",
         "mf": "2457187_5983394566961205177.manifest",
         "label": "Turkish (macOS)",
-        "key": "1937780.key",
-        "steam_name": "Turkish (macOS)",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6538,13 +6394,7 @@
         "manifest": "6476897714046238546",
         "mf": "2457188_6476897714046238546.manifest",
         "label": "Simplified Chinese (macOS)",
-        "key": "1937780.key",
-        "steam_name": "Simplified Chinese (macOS)",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6552,13 +6402,7 @@
         "manifest": "4982586155196506426",
         "mf": "2457189_4982586155196506426.manifest",
         "label": "Traditional Chinese (macOS)",
-        "key": "1937780.key",
-        "steam_name": "Traditional Chinese (macOS)",
-        "size": "2",
-        "max_size": "2",
-        "steam_manifest_size": "2",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6566,13 +6410,7 @@
         "manifest": "1261415507915088351",
         "mf": "2457190_1261415507915088351.manifest",
         "label": "Total War: PHARAOH - Blood & Sand",
-        "key": "1937780.key",
-        "steam_name": "Total War: PHARAOH - Blood & Sand",
-        "size": "103817971",
-        "max_size": "103817971",
-        "steam_manifest_size": "103817971",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       },
       {
         "app": "1937780",
@@ -6580,35 +6418,9 @@
         "manifest": "1887219874282970746",
         "mf": "2574940_1887219874282970746.manifest",
         "label": "Total War: PHARAOH - Blood & Sand",
-        "key": "1937780.key",
-        "steam_name": "Total War: PHARAOH - Blood & Sand",
-        "size": "103817971",
-        "max_size": "103817971",
-        "steam_manifest_size": "103817971",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
-      },
-      {
-        "app": "1937780",
-        "depot": "372531",
-        "manifest": "1128077100884847891",
-        "mf": "372531_1128077100884847891.manifest",
-        "label": "Pack 30",
-        "key": "1937780.key",
-        "size": "204350459",
-        "max_size": "204350459",
-        "steam_manifest_size": "204350459",
-        "buildid": "17040191",
-        "target_buildid": "17040191"
+        "key": "1937780.key"
       }
-    ],
-    "size_bytes": "102584757612",
-    "size_gb": 102.58,
-    "build_id": "17040191",
-    "buildid": "17040191",
-    "build_name": "B_17040191",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Warhammer Age of Sigmar: Realms of Ruin": {
     "game": "Warhammer Age of Sigmar: Realms of Ruin",
