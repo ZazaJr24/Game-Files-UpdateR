@@ -765,38 +765,21 @@
     "depots": [
       {
         "app": "703080",
-        "depot": "1098120",
-        "manifest": "10163085496252241",
-        "mf": "1098120_10163085496252241.manifest",
-        "label": "Deluxe Edition Extras",
-        "key": "703080.key",
-        "size": "796802319",
-        "max_size": "796802319",
-        "size_bytes": "796802319",
-        "steam_manifest_size": "796802319",
-        "steam_name": "Deluxe Edition Extras"
-      },
-      {
-        "app": "703080",
         "depot": "703081",
         "manifest": "6607940512589780813",
         "mf": "703081_6607940512589780813.manifest",
         "label": "Pack 1",
-        "key": "703080.key",
-        "size": "21984738007",
-        "max_size": "21984738007",
-        "size_bytes": "21984738007",
-        "steam_manifest_size": "21984738007"
+        "key": "703080.key"
+      },
+      {
+        "app": "703080",
+        "depot": "1098120",
+        "manifest": "10163085496252241",
+        "mf": "1098120_10163085496252241.manifest",
+        "label": "Deluxe Edition Extras",
+        "key": "703080.key"
       }
-    ],
-    "build_id": "19133017",
-    "buildid": "19133017",
-    "build_name": "B_19133017",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "22781540326",
-    "size_gb": 22.78,
-    "appid": "703080"
+    ]
   },
   "Prince of Persia The Lost Crown": {
     "game": "Prince of Persia The Lost Crown",
