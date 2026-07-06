@@ -976,11 +976,7 @@
         "manifest": "289369811377342695",
         "mf": "1649081_289369811377342695.manifest",
         "label": "Base Game",
-        "key": "1649080.key",
-        "size": "4112128282",
-        "max_size": "4112128282",
-        "size_bytes": "4112128282",
-        "steam_manifest_size": "4112128282"
+        "key": "1649080.key"
       },
       {
         "app": "1649080",
@@ -988,11 +984,7 @@
         "manifest": "1754188831985123451",
         "mf": "1649082_1754188831985123451.manifest",
         "label": "Pack 1",
-        "key": "1649080.key",
-        "size": "4022571913",
-        "max_size": "4022571913",
-        "size_bytes": "4022571913",
-        "steam_manifest_size": "4022571913"
+        "key": "1649080.key"
       },
       {
         "app": "1649080",
@@ -1000,11 +992,7 @@
         "manifest": "8695487200066453694",
         "mf": "1649083_8695487200066453694.manifest",
         "label": "Pack 2",
-        "key": "1649080.key",
-        "size": "3820911590",
-        "max_size": "3820911590",
-        "size_bytes": "3820911590",
-        "steam_manifest_size": "3820911590"
+        "key": "1649080.key"
       },
       {
         "app": "1649080",
@@ -1012,12 +1000,7 @@
         "manifest": "6004916305044431883",
         "mf": "1884561_6004916305044431883.manifest",
         "label": "Two Point Campus: Space Academy",
-        "key": "1649080.key",
-        "size": "370022362",
-        "max_size": "370022362",
-        "size_bytes": "370022362",
-        "steam_manifest_size": "370022362",
-        "steam_name": "Two Point Campus: Space Academy"
+        "key": "1649080.key"
       },
       {
         "app": "1649080",
@@ -1025,12 +1008,7 @@
         "manifest": "9045960502572329709",
         "mf": "1884562_9045960502572329709.manifest",
         "label": "Two Point Campus: Space Academy",
-        "key": "1649080.key",
-        "size": "369445587",
-        "max_size": "369445587",
-        "size_bytes": "369445587",
-        "steam_manifest_size": "369445587",
-        "steam_name": "Two Point Campus: Space Academy"
+        "key": "1649080.key"
       },
       {
         "app": "1649080",
@@ -1038,12 +1016,7 @@
         "manifest": "1389814531585742770",
         "mf": "1884563_1389814531585742770.manifest",
         "label": "Two Point Campus: Space Academy",
-        "key": "1649080.key",
-        "size": "370009382",
-        "max_size": "370009382",
-        "size_bytes": "370009382",
-        "steam_manifest_size": "370009382",
-        "steam_name": "Two Point Campus: Space Academy"
+        "key": "1649080.key"
       },
       {
         "app": "1649080",
@@ -1051,12 +1024,7 @@
         "manifest": "3622833373893779274",
         "mf": "1907451_3622833373893779274.manifest",
         "label": "Two Point Campus: School Spirits",
-        "key": "1649080.key",
-        "size": "212055024",
-        "max_size": "212055024",
-        "size_bytes": "212055024",
-        "steam_manifest_size": "212055024",
-        "steam_name": "Two Point Campus: School Spirits"
+        "key": "1649080.key"
       },
       {
         "app": "1649080",
@@ -1064,12 +1032,7 @@
         "manifest": "6718436180628629852",
         "mf": "1907452_6718436180628629852.manifest",
         "label": "Two Point Campus: School Spirits",
-        "key": "1649080.key",
-        "size": "211958473",
-        "max_size": "211958473",
-        "size_bytes": "211958473",
-        "steam_manifest_size": "211958473",
-        "steam_name": "Two Point Campus: School Spirits"
+        "key": "1649080.key"
       },
       {
         "app": "1649080",
@@ -1077,12 +1040,7 @@
         "manifest": "563266121619746797",
         "mf": "1907453_563266121619746797.manifest",
         "label": "Two Point Campus: School Spirits",
-        "key": "1649080.key",
-        "size": "211943958",
-        "max_size": "211943958",
-        "size_bytes": "211943958",
-        "steam_manifest_size": "211943958",
-        "steam_name": "Two Point Campus: School Spirits"
+        "key": "1649080.key"
       },
       {
         "app": "1649080",
@@ -1090,12 +1048,7 @@
         "manifest": "449155889513379090",
         "mf": "2088831_449155889513379090.manifest",
         "label": "Two Point Campus Early Adopter Bonus",
-        "key": "1649080.key",
-        "size": "803856",
-        "max_size": "803856",
-        "size_bytes": "803856",
-        "steam_manifest_size": "803856",
-        "steam_name": "Two Point Campus Early Adopter Bonus"
+        "key": "1649080.key"
       },
       {
         "app": "1649080",
@@ -1103,12 +1056,7 @@
         "manifest": "6192079104131336443",
         "mf": "2088832_6192079104131336443.manifest",
         "label": "Two Point Campus Early Adopter Bonus",
-        "key": "1649080.key",
-        "size": "803852",
-        "max_size": "803852",
-        "size_bytes": "803852",
-        "steam_manifest_size": "803852",
-        "steam_name": "Two Point Campus Early Adopter Bonus"
+        "key": "1649080.key"
       },
       {
         "app": "1649080",
@@ -1116,12 +1064,7 @@
         "manifest": "3077891501920478862",
         "mf": "2088833_3077891501920478862.manifest",
         "label": "Two Point Campus Early Adopter Bonus",
-        "key": "1649080.key",
-        "size": "803853",
-        "max_size": "803853",
-        "size_bytes": "803853",
-        "steam_manifest_size": "803853",
-        "steam_name": "Two Point Campus Early Adopter Bonus"
+        "key": "1649080.key"
       },
       {
         "app": "1649080",
@@ -1129,12 +1072,7 @@
         "manifest": "4533314956374088213",
         "mf": "2195431_4533314956374088213.manifest",
         "label": "Two Point Campus: Medical School",
-        "key": "1649080.key",
-        "size": "434471312",
-        "max_size": "434471312",
-        "size_bytes": "434471312",
-        "steam_manifest_size": "434471312",
-        "steam_name": "Two Point Campus: Medical School"
+        "key": "1649080.key"
       },
       {
         "app": "1649080",
@@ -1142,12 +1080,7 @@
         "manifest": "6218544159999663681",
         "mf": "2195432_6218544159999663681.manifest",
         "label": "Two Point Campus: Medical School",
-        "key": "1649080.key",
-        "size": "434227201",
-        "max_size": "434227201",
-        "size_bytes": "434227201",
-        "steam_manifest_size": "434227201",
-        "steam_name": "Two Point Campus: Medical School"
+        "key": "1649080.key"
       },
       {
         "app": "1649080",
@@ -1155,22 +1088,9 @@
         "manifest": "8941840391531308089",
         "mf": "2195433_8941840391531308089.manifest",
         "label": "Two Point Campus: Medical School",
-        "key": "1649080.key",
-        "size": "434490971",
-        "max_size": "434490971",
-        "size_bytes": "434490971",
-        "steam_manifest_size": "434490971",
-        "steam_name": "Two Point Campus: Medical School"
+        "key": "1649080.key"
       }
-    ],
-    "build_id": "20226581",
-    "buildid": "20226581",
-    "build_name": "B_20226581",
-    "build_id_exact": true,
-    "build_id_source": "steamcmd:public",
-    "size_bytes": "15006647616",
-    "size_gb": 15.01,
-    "appid": "1649080"
+    ]
   },
   "Undisputed": {
     "game": "Undisputed",
