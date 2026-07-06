@@ -5494,13 +5494,7 @@
         "manifest": "541657970914493992",
         "mf": "1382331_541657970914493992.manifest",
         "label": "Base Game",
-        "key": "1382330.key",
-        "size": "23009324777",
-        "max_size": "23009324777",
-        "size_bytes": "23009324777",
-        "steam_manifest_size": "23009324777",
-        "buildid": "20427252",
-        "target_buildid": "20427252"
+        "key": "1382330.key"
       },
       {
         "app": "1382330",
@@ -5508,14 +5502,7 @@
         "manifest": "1217603562634354986",
         "mf": "1382332_1217603562634354986.manifest",
         "label": "Persona 5 Strikers - Bonus Content",
-        "key": "1382330.key",
-        "size": "3023317224",
-        "max_size": "3023317224",
-        "size_bytes": "3023317224",
-        "steam_manifest_size": "3023317224",
-        "buildid": "20427252",
-        "target_buildid": "20427252",
-        "steam_name": "Persona 5 Strikers - Bonus Content"
+        "key": "1382330.key"
       },
       {
         "app": "1382330",
@@ -5523,14 +5510,7 @@
         "manifest": "213556939175564631",
         "mf": "1482080_213556939175564631.manifest",
         "label": "Persona 5 Strikers - Legacy BGM Pack",
-        "key": "1382330.key",
-        "size": "16",
-        "max_size": "16",
-        "size_bytes": "16",
-        "steam_manifest_size": "16",
-        "buildid": "20427252",
-        "target_buildid": "20427252",
-        "steam_name": "Persona 5 Strikers - Legacy BGM Pack"
+        "key": "1382330.key"
       },
       {
         "app": "1382330",
@@ -5538,23 +5518,9 @@
         "manifest": "180884191516666770",
         "mf": "1482081_180884191516666770.manifest",
         "label": "Persona 5 Strikers - All-Out Attack Pack",
-        "key": "1382330.key",
-        "size": "16",
-        "max_size": "16",
-        "size_bytes": "16",
-        "steam_manifest_size": "16",
-        "buildid": "20427252",
-        "target_buildid": "20427252",
-        "steam_name": "Persona 5 Strikers - All-Out Attack Pack"
+        "key": "1382330.key"
       }
-    ],
-    "size_bytes": "26032642033",
-    "size_gb": 26.03,
-    "build_id": "20427252",
-    "buildid": "20427252",
-    "build_name": "B_20427252",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "F1\u00ae 25": {
     "game": "F1\u00ae 25",
