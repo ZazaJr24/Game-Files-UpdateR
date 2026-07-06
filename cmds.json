@@ -5471,13 +5471,7 @@
         "manifest": "4737529339202475845",
         "mf": "1113001_4737529339202475845.manifest",
         "label": "Base Game",
-        "key": "1113000.key",
-        "size": "11150616134",
-        "max_size": "11150616134",
-        "size_bytes": "11150616134",
-        "steam_manifest_size": "11150616134",
-        "buildid": "10836033",
-        "target_buildid": "10836033"
+        "key": "1113000.key"
       },
       {
         "app": "1113000",
@@ -5485,22 +5479,9 @@
         "manifest": "2520901896865483548",
         "mf": "1113002_2520901896865483548.manifest",
         "label": "Pack 1",
-        "key": "1113000.key",
-        "size": "98889191",
-        "max_size": "98889191",
-        "size_bytes": "98889191",
-        "steam_manifest_size": "98889191",
-        "buildid": "10836033",
-        "target_buildid": "10836033"
+        "key": "1113000.key"
       }
-    ],
-    "size_bytes": "11249505325",
-    "size_gb": 11.25,
-    "build_id": "10836033",
-    "buildid": "10836033",
-    "build_name": "B_10836033",
-    "build_id_source": "steamcmd:public",
-    "build_id_exact": true
+    ]
   },
   "Persona\u00ae 5 Strikers": {
     "game": "Persona\u00ae 5 Strikers",
