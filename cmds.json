@@ -106,5 +106,20 @@
         "key": "3357650.key"
       }
     ]
+  },
+  "SONIC X SHADOW GENERATIONS": {
+    "game": "SONIC X SHADOW GENERATIONS",
+    "manifest_folder": "Manifests/2513280",
+    "key_file": "2513280.key",
+    "depots": [
+      {
+        "app": "2513280",
+        "depot": "2513281",
+        "manifest": "1703635842257284304",
+        "mf": "2513281_1703635842257284304.manifest",
+        "label": "Base Game",
+        "key": "2513280.key"
+      }
+    ]
   }
 }
