@@ -52,5 +52,20 @@
         "key": "668580.key"
       }
     ]
+  },
+  "007 First Light": {
+    "game": "007 First Light",
+    "manifest_folder": "Manifests/3768760",
+    "key_file": "3768760.key",
+    "depots": [
+      {
+        "app": "3768760",
+        "depot": "3768761",
+        "manifest": "7586046228060338110",
+        "mf": "3768761_7586046228060338110.manifest",
+        "label": "Base Game",
+        "key": "3768760.key"
+      }
+    ]
   }
 }
