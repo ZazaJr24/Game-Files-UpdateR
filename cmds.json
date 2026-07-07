@@ -37,5 +37,20 @@
         "key": "1285190.key"
       }
     ]
+  },
+  "Atomic Heart": {
+    "game": "Atomic Heart",
+    "manifest_folder": "Manifests/668580",
+    "key_file": "668580.key",
+    "depots": [
+      {
+        "app": "668580",
+        "depot": "668581",
+        "manifest": "2756612790784314247",
+        "mf": "668581_2756612790784314247.manifest",
+        "label": "Base Game",
+        "key": "668580.key"
+      }
+    ]
   }
 }
