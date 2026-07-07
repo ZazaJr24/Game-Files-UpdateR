@@ -52,5 +52,59 @@
         "key": "668580.key"
       }
     ]
+  },
+  "007 First Light": {
+    "game": "007 First Light",
+    "manifest_folder": "Manifests/3768760",
+    "key_file": "3768760.key",
+    "depots": [
+      {
+        "app": "3768760",
+        "depot": "3768761",
+        "manifest": "7586046228060338110",
+        "mf": "3768761_7586046228060338110.manifest",
+        "label": "Base Game",
+        "key": "3768760.key"
+      }
+    ]
+  },
+  "PRAGMATA": {
+    "game": "PRAGMATA",
+    "manifest_folder": "Manifests/3357650",
+    "key_file": "3357650.key",
+    "depots": [
+      {
+        "app": "3357650",
+        "depot": "3357651",
+        "manifest": "6330832861176696160",
+        "mf": "3357651_6330832861176696160.manifest",
+        "label": "Base Game",
+        "key": "3357650.key"
+      },
+      {
+        "app": "3357650",
+        "depot": "3357652",
+        "manifest": "5639705324720691310",
+        "mf": "3357652_5639705324720691310.manifest",
+        "label": "Pack 1",
+        "key": "3357650.key"
+      },
+      {
+        "app": "3357650",
+        "depot": "3859920",
+        "manifest": "4731286747379700304",
+        "mf": "3859920_4731286747379700304.manifest",
+        "label": "Pack 2",
+        "key": "3357650.key"
+      },
+      {
+        "app": "3357650",
+        "depot": "3859930",
+        "manifest": "6714427611547107917",
+        "mf": "3859930_6714427611547107917.manifest",
+        "label": "Pack 3",
+        "key": "3357650.key"
+      }
+    ]
   }
 }
