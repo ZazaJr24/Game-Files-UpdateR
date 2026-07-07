@@ -106,35 +106,5 @@
         "key": "3357650.key"
       }
     ]
-  },
-  "SONIC X SHADOW GENERATIONS": {
-    "game": "SONIC X SHADOW GENERATIONS",
-    "manifest_folder": "Manifests/2513280",
-    "key_file": "2513280.key",
-    "depots": [
-      {
-        "app": "2513280",
-        "depot": "2513281",
-        "manifest": "1703635842257284304",
-        "mf": "2513281_1703635842257284304.manifest",
-        "label": "Base Game",
-        "key": "2513280.key"
-      }
-    ]
-  },
-  "Warhammer 40,000: Chaos Gate - Daemonhunters": {
-    "game": "Warhammer 40,000: Chaos Gate - Daemonhunters",
-    "manifest_folder": "Manifests/1611910",
-    "key_file": "1611910.key",
-    "depots": [
-      {
-        "app": "1611910",
-        "depot": "1611911",
-        "manifest": "7150054391983782129",
-        "mf": "1611911_7150054391983782129.manifest",
-        "label": "Base Game",
-        "key": "1611910.key"
-      }
-    ]
   }
 }
