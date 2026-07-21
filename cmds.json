@@ -984,5 +984,28 @@
         "key": "1941540.key"
       }
     ]
+  },
+  "Monster Hunter Wilds": {
+    "game": "Monster Hunter Wilds",
+    "manifest_folder": "Manifests/2246340",
+    "key_file": "2246340.key",
+    "depots": [
+      {
+        "app": "2246340",
+        "depot": "2246341",
+        "manifest": "4276490724741861191",
+        "mf": "2246341_4276490724741861191.manifest",
+        "label": "Base Game",
+        "key": "2246340.key"
+      },
+      {
+        "app": "2246340",
+        "depot": "3308900",
+        "manifest": "5891069512660502042",
+        "mf": "3308900_5891069512660502042.manifest",
+        "label": "Pack 1",
+        "key": "2246340.key"
+      }
+    ]
   }
 }
