@@ -3417,5 +3417,20 @@
         "key": "3061810.key"
       }
     ]
+  },
+  "Metaphor: ReFantazio": {
+    "game": "Metaphor: ReFantazio",
+    "manifest_folder": "Manifests/2679460",
+    "key_file": "2679460.key",
+    "depots": [
+      {
+        "app": "2679460",
+        "depot": "2679461",
+        "manifest": "1417753434076416786",
+        "mf": "2679461_1417753434076416786.manifest",
+        "label": "Base Game",
+        "key": "2679460.key"
+      }
+    ]
   }
 }
