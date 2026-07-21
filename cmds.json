@@ -1189,5 +1189,20 @@
         "key": "1846380.key"
       }
     ]
+  },
+  "Persona 3 Reload Premium": {
+    "game": "Persona 3 Reload Premium",
+    "manifest_folder": "Manifests/2161700",
+    "key_file": "2161700.key",
+    "depots": [
+      {
+        "app": "2161700",
+        "depot": "2161701",
+        "manifest": "8534679793765499772",
+        "mf": "2161701_8534679793765499772.manifest",
+        "label": "Base Game",
+        "key": "2161700.key"
+      }
+    ]
   }
 }
