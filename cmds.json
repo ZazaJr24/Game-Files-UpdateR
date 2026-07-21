@@ -3232,5 +3232,20 @@
         "key": "1937780.key"
       }
     ]
+  },
+  "Warhammer Age of Sigmar: Realms of Ruin": {
+    "game": "Warhammer Age of Sigmar: Realms of Ruin",
+    "manifest_folder": "Manifests/1844380",
+    "key_file": "1844380.key",
+    "depots": [
+      {
+        "app": "1844380",
+        "depot": "1844381",
+        "manifest": "6369046589173515865",
+        "mf": "1844381_6369046589173515865.manifest",
+        "label": "Base Game",
+        "key": "1844380.key"
+      }
+    ]
   }
 }
