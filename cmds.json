@@ -3402,5 +3402,20 @@
         "key": "1805480.key"
       }
     ]
+  },
+  "Like a Dragon: Pirate Yakuza in Hawaii": {
+    "game": "Like a Dragon: Pirate Yakuza in Hawaii",
+    "manifest_folder": "Manifests/3061810",
+    "key_file": "3061810.key",
+    "depots": [
+      {
+        "app": "3061810",
+        "depot": "3061811",
+        "manifest": "5791590246311215097",
+        "mf": "3061811_5791590246311215097.manifest",
+        "label": "Base Game",
+        "key": "3061810.key"
+      }
+    ]
   }
 }
