@@ -1543,5 +1543,36 @@
         "key": "1237320.key"
       }
     ]
+  },
+  "Stellar Blade": {
+    "game": "Stellar Blade",
+    "manifest_folder": "Manifests/3489700",
+    "key_file": "3489700.key",
+    "depots": [
+      {
+        "app": "3489700",
+        "depot": "3489701",
+        "manifest": "2747626496734343426",
+        "mf": "3489701_2747626496734343426.manifest",
+        "label": "Base Game",
+        "key": "3489700.key"
+      },
+      {
+        "app": "3489700",
+        "depot": "3596180",
+        "manifest": "8344797041293440177",
+        "mf": "3596180_8344797041293440177.manifest",
+        "label": "Pack 1",
+        "key": "3489700.key"
+      },
+      {
+        "app": "3489700",
+        "depot": "3596190",
+        "manifest": "6588499701851943951",
+        "mf": "3596190_6588499701851943951.manifest",
+        "label": "Pack 2",
+        "key": "3489700.key"
+      }
+    ]
   }
 }
