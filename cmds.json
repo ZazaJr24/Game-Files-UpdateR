@@ -1306,5 +1306,28 @@
         "key": "2688950.key"
       }
     ]
+  },
+  "Planet Zoo": {
+    "game": "Planet Zoo",
+    "manifest_folder": "Manifests/703080",
+    "key_file": "703080.key",
+    "depots": [
+      {
+        "app": "703080",
+        "depot": "703081",
+        "manifest": "6607940512589780813",
+        "mf": "703081_6607940512589780813.manifest",
+        "label": "Base Game",
+        "key": "703080.key"
+      },
+      {
+        "app": "703080",
+        "depot": "1098120",
+        "manifest": "10163085496252241",
+        "mf": "1098120_10163085496252241.manifest",
+        "label": "Pack 1",
+        "key": "703080.key"
+      }
+    ]
   }
 }
