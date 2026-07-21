@@ -1746,5 +1746,20 @@
         "key": "3937550.key"
       }
     ]
+  },
+  "F1 Manager 2024": {
+    "game": "F1 Manager 2024",
+    "manifest_folder": "Manifests/2591280",
+    "key_file": "2591280.key",
+    "depots": [
+      {
+        "app": "2591280",
+        "depot": "2591281",
+        "manifest": "5180313629266358202",
+        "mf": "2591281_5180313629266358202.manifest",
+        "label": "Base Game",
+        "key": "2591280.key"
+      }
+    ]
   }
 }
