@@ -151,5 +151,28 @@
         "key": "637650.key"
       }
     ]
+  },
+  "Life is Strange: Reunion": {
+    "game": "Life is Strange: Reunion",
+    "manifest_folder": "Manifests/2624870",
+    "key_file": "2624870.key",
+    "depots": [
+      {
+        "app": "2624870",
+        "depot": "2624871",
+        "manifest": "4844659092145754092",
+        "mf": "2624871_4844659092145754092.manifest",
+        "label": "Base Game",
+        "key": "2624870.key"
+      },
+      {
+        "app": "2624870",
+        "depot": "3977740",
+        "manifest": "7067755487449646506",
+        "mf": "3977740_7067755487449646506.manifest",
+        "label": "Pack 1",
+        "key": "2624870.key"
+      }
+    ]
   }
 }
