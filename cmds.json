@@ -829,5 +829,36 @@
         "key": "2054970.key"
       }
     ]
+  },
+  "Football Manager 26": {
+    "game": "Football Manager 26",
+    "manifest_folder": "Manifests/3551340",
+    "key_file": "3551340.key",
+    "depots": [
+      {
+        "app": "3551340",
+        "depot": "3551341",
+        "manifest": "7759922098115499616",
+        "mf": "3551341_7759922098115499616.manifest",
+        "label": "Base Game",
+        "key": "3551340.key"
+      },
+      {
+        "app": "3551340",
+        "depot": "3551342",
+        "manifest": "4286155556537576831",
+        "mf": "3551342_4286155556537576831.manifest",
+        "label": "Pack 1",
+        "key": "3551340.key"
+      },
+      {
+        "app": "3551340",
+        "depot": "3551343",
+        "manifest": "6975117889499650380",
+        "mf": "3551343_6975117889499650380.manifest",
+        "label": "Pack 2",
+        "key": "3551340.key"
+      }
+    ]
   }
 }
