@@ -1291,5 +1291,20 @@
         "key": "1687950.key"
       }
     ]
+  },
+  "Planet Coaster 2": {
+    "game": "Planet Coaster 2",
+    "manifest_folder": "Manifests/2688950",
+    "key_file": "2688950.key",
+    "depots": [
+      {
+        "app": "2688950",
+        "depot": "2688951",
+        "manifest": "702010445531950067",
+        "mf": "2688951_702010445531950067.manifest",
+        "label": "Base Game",
+        "key": "2688950.key"
+      }
+    ]
   }
 }
