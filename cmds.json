@@ -1574,5 +1574,20 @@
         "key": "3489700.key"
       }
     ]
+  },
+  "Street Fighter 6": {
+    "game": "Street Fighter 6",
+    "manifest_folder": "Manifests/1364780",
+    "key_file": "1364780.key",
+    "depots": [
+      {
+        "app": "1364780",
+        "depot": "1364781",
+        "manifest": "4741141599989541719",
+        "mf": "1364781_4741141599989541719.manifest",
+        "label": "Base Game",
+        "key": "1364780.key"
+      }
+    ]
   }
 }
