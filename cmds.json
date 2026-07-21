@@ -1761,5 +1761,20 @@
         "key": "2591280.key"
       }
     ]
+  },
+  "FAR: Changing Tides": {
+    "game": "FAR: Changing Tides",
+    "manifest_folder": "Manifests/1570010",
+    "key_file": "1570010.key",
+    "depots": [
+      {
+        "app": "1570010",
+        "depot": "1570011",
+        "manifest": "2743460449861281862",
+        "mf": "1570011_2743460449861281862.manifest",
+        "label": "Base Game",
+        "key": "1570010.key"
+      }
+    ]
   }
 }
