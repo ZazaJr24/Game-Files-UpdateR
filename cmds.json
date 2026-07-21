@@ -2728,5 +2728,20 @@
         "key": "3059520.key"
       }
     ]
+  },
+  "LEGO Batman: Legacy of the Dark Knight": {
+    "game": "LEGO Batman: Legacy of the Dark Knight",
+    "manifest_folder": "Manifests/2215200",
+    "key_file": "2215200.key",
+    "depots": [
+      {
+        "app": "2215200",
+        "depot": "2215201",
+        "manifest": "3113168277119028025",
+        "mf": "2215201_3113168277119028025.manifest",
+        "label": "Base Game",
+        "key": "2215200.key"
+      }
+    ]
   }
 }
