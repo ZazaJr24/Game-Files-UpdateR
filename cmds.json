@@ -299,5 +299,20 @@
         "key": "2878980.key"
       }
     ]
+  },
+  "Black Myth: Wukong": {
+    "game": "Black Myth: Wukong",
+    "manifest_folder": "Manifests/2358720",
+    "key_file": "2358720.key",
+    "depots": [
+      {
+        "app": "2358720",
+        "depot": "2358721",
+        "manifest": "8329114521995004621",
+        "mf": "2358721_8329114521995004621.manifest",
+        "label": "Base Game",
+        "key": "2358720.key"
+      }
+    ]
   }
 }
