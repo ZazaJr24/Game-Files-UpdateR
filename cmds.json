@@ -3387,5 +3387,20 @@
         "key": "2958130.key"
       }
     ]
+  },
+  "Like a Dragon: Ishin!": {
+    "game": "Like a Dragon: Ishin!",
+    "manifest_folder": "Manifests/1805480",
+    "key_file": "1805480.key",
+    "depots": [
+      {
+        "app": "1805480",
+        "depot": "1805481",
+        "manifest": "3104969324904098578",
+        "mf": "1805481_3104969324904098578.manifest",
+        "label": "Base Game",
+        "key": "1805480.key"
+      }
+    ]
   }
 }
