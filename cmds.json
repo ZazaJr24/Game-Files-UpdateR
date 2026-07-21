@@ -1731,5 +1731,20 @@
         "key": "1649080.key"
       }
     ]
+  },
+  "Yakuza Kiwami 3 & Dark Ties": {
+    "game": "Yakuza Kiwami 3 & Dark Ties",
+    "manifest_folder": "Manifests/3937550",
+    "key_file": "3937550.key",
+    "depots": [
+      {
+        "app": "3937550",
+        "depot": "3937551",
+        "manifest": "663491988918308505",
+        "mf": "3937551_663491988918308505.manifest",
+        "label": "Base Game",
+        "key": "3937550.key"
+      }
+    ]
   }
 }
