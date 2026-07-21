@@ -136,5 +136,20 @@
         "key": "1611910.key"
       }
     ]
+  },
+  "FINAL FANTASY XV WINDOWS EDITION": {
+    "game": "FINAL FANTASY XV WINDOWS EDITION",
+    "manifest_folder": "Manifests/637650",
+    "key_file": "637650.key",
+    "depots": [
+      {
+        "app": "637650",
+        "depot": "637651",
+        "manifest": "4290656803638294445",
+        "mf": "637651_4290656803638294445.manifest",
+        "label": "Base Game",
+        "key": "637650.key"
+      }
+    ]
   }
 }
