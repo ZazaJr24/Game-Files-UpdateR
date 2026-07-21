@@ -2333,5 +2333,28 @@
         "key": "2840770.key"
       }
     ]
+  },
+  "Prince of Persia The Lost Crown": {
+    "game": "Prince of Persia The Lost Crown",
+    "manifest_folder": "Manifests/2751000",
+    "key_file": "2751000.key",
+    "depots": [
+      {
+        "app": "2751000",
+        "depot": "1716751",
+        "manifest": "8936186649444731600",
+        "mf": "1716751_8936186649444731600.manifest",
+        "label": "Base Game",
+        "key": "2751000.key"
+      },
+      {
+        "app": "2751000",
+        "depot": "2751001",
+        "manifest": "4409492711677428505",
+        "mf": "2751001_4409492711677428505.manifest",
+        "label": "Pack 1",
+        "key": "2751000.key"
+      }
+    ]
   }
 }
