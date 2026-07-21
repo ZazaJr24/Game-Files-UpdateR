@@ -969,5 +969,20 @@
         "key": "2072450.key"
       }
     ]
+  },
+  "Mafia The Old Country": {
+    "game": "Mafia The Old Country",
+    "manifest_folder": "Manifests/1941540",
+    "key_file": "1941540.key",
+    "depots": [
+      {
+        "app": "1941540",
+        "depot": "1941541",
+        "manifest": "3121778726057603637",
+        "mf": "1941541_3121778726057603637.manifest",
+        "label": "Base Game",
+        "key": "1941540.key"
+      }
+    ]
   }
 }
