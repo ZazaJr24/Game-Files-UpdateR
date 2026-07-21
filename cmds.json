@@ -1528,5 +1528,20 @@
         "key": "2169200.key"
       }
     ]
+  },
+  "Sonic Frontiers": {
+    "game": "Sonic Frontiers",
+    "manifest_folder": "Manifests/1237320",
+    "key_file": "1237320.key",
+    "depots": [
+      {
+        "app": "1237320",
+        "depot": "1237321",
+        "manifest": "2773324310090316887",
+        "mf": "1237321_2773324310090316887.manifest",
+        "label": "Base Game",
+        "key": "1237320.key"
+      }
+    ]
   }
 }
