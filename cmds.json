@@ -1589,5 +1589,20 @@
         "key": "1364780.key"
       }
     ]
+  },
+  "The First Berserker: Khazan": {
+    "game": "The First Berserker: Khazan",
+    "manifest_folder": "Manifests/2680010",
+    "key_file": "2680010.key",
+    "depots": [
+      {
+        "app": "2680010",
+        "depot": "2680011",
+        "manifest": "6765731590953570327",
+        "mf": "2680011_6765731590953570327.manifest",
+        "label": "Base Game",
+        "key": "2680010.key"
+      }
+    ]
   }
 }
