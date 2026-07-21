@@ -954,5 +954,20 @@
         "key": "1244460.key"
       }
     ]
+  },
+  "Like a Dragon: Infinite Wealth": {
+    "game": "Like a Dragon: Infinite Wealth",
+    "manifest_folder": "Manifests/2072450",
+    "key_file": "2072450.key",
+    "depots": [
+      {
+        "app": "2072450",
+        "depot": "2072451",
+        "manifest": "4882956135694037628",
+        "mf": "2072451_4882956135694037628.manifest",
+        "label": "Base Game",
+        "key": "2072450.key"
+      }
+    ]
   }
 }
