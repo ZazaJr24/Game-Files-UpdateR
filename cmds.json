@@ -3372,5 +3372,20 @@
         "key": "1490890.key"
       }
     ]
+  },
+  "Jurassic World Evolution 3": {
+    "game": "Jurassic World Evolution 3",
+    "manifest_folder": "Manifests/2958130",
+    "key_file": "2958130.key",
+    "depots": [
+      {
+        "app": "2958130",
+        "depot": "2958131",
+        "manifest": "4421961173645620169",
+        "mf": "2958131_4421961173645620169.manifest",
+        "label": "Base Game",
+        "key": "2958130.key"
+      }
+    ]
   }
 }
