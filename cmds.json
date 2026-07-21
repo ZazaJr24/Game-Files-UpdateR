@@ -2798,5 +2798,20 @@
         "key": "3274580.key"
       }
     ]
+  },
+  "Like a Dragon: Gaiden - The Man Who Erased His Name": {
+    "game": "Like a Dragon: Gaiden - The Man Who Erased His Name",
+    "manifest_folder": "Manifests/2375550",
+    "key_file": "2375550.key",
+    "depots": [
+      {
+        "app": "2375550",
+        "depot": "2375551",
+        "manifest": "357163534041889933",
+        "mf": "2375551_357163534041889933.manifest",
+        "label": "Base Game",
+        "key": "2375550.key"
+      }
+    ]
   }
 }
