@@ -149,7 +149,7 @@
     "build_id": "",
     "coming_soon": false,
     "sort_order": 14,
-    "appid": "3764200",
+    "appid": "3159330",
     "asset_folder": "Assassins_Creed_Shadows"
   },
   {
@@ -231,7 +231,7 @@
     "build_id": "",
     "coming_soon": false,
     "sort_order": 22,
-    "appid": "3764200",
+    "appid": "3017860",
     "asset_folder": "DOOM_The_Dark_Ages"
   },
   {
@@ -243,7 +243,7 @@
     "build_id": "",
     "coming_soon": false,
     "sort_order": 23,
-    "appid": "3764200",
+    "appid": "2054970",
     "asset_folder": "Dragons_Dogma_2"
   },
   {
@@ -496,3 +496,4 @@
     "sort_order": 48
   }
 ]
+
