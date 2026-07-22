@@ -939,5 +939,20 @@
         "key": "990080.key"
       }
     ]
+  },
+  "Jurassic World Evolution 2": {
+    "game": "Jurassic World Evolution 2",
+    "manifest_folder": "Manifests/1244460",
+    "key_file": "1244460.key",
+    "depots": [
+      {
+        "app": "1244460",
+        "depot": "1244461",
+        "manifest": "3466130684209996467",
+        "mf": "1244461_3466130684209996467.manifest",
+        "label": "Base Game",
+        "key": "1244460.key"
+      }
+    ]
   }
 }
