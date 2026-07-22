@@ -2971,5 +2971,28 @@
         "key": "2058190.key"
       }
     ]
+  },
+  "Persona 4 Golden": {
+    "game": "Persona 4 Golden",
+    "manifest_folder": "Manifests/1113000",
+    "key_file": "1113000.key",
+    "depots": [
+      {
+        "app": "1113000",
+        "depot": "1113001",
+        "manifest": "4737529339202475845",
+        "mf": "1113001_4737529339202475845.manifest",
+        "label": "Base Game",
+        "key": "1113000.key"
+      },
+      {
+        "app": "1113000",
+        "depot": "1113002",
+        "manifest": "2520901896865483548",
+        "mf": "1113002_2520901896865483548.manifest",
+        "label": "Pack 1",
+        "key": "1113000.key"
+      }
+    ]
   }
 }
