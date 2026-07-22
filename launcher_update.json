@@ -1,10 +1,10 @@
 {
-  "version": "1.6.46",
+  "version": "1.6.47",
   "name": "Gamers Unlimited Launcher.exe",
   "url": "https://raw.githubusercontent.com/ZazaJr24/Game-Files-UpdateR/main/launcher/Gamers%20Unlimited%20Launcher.exe",
-  "sha256": "849ed787f7e215b98c23f808fac4dee4f1dba413bb3566549ea5bb68423c151b",
-  "size": 6816768,
+  "sha256": "1a52b0909e125ba744311ed3ee43aa98abeaafde3ae49a7aaf84f12d23d2dd2c",
+  "size": 6915072,
   "channel": "stable",
-  "updated_at": "2026-07-22T17:18:01.029Z",
-  "changelog": "Fixed duplicate game cards (including Avatar: Frontiers of Pandora), synchronized catalog App IDs with bot command data, and repaired launcher self-updates."
+  "updated_at": "2026-07-22T17:37:16.070Z",
+  "changelog": "Removed remaining title-alias duplicates, including Persona 3 Reload Premium and the long/short Demon Slayer: The Hinokami Chronicles 2 names, while keeping real sequels separate."
 }
