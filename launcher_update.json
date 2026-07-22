@@ -1,9 +1,10 @@
 {
-  "version": "1.6.45",
+  "version": "1.6.46",
   "name": "Gamers Unlimited Launcher.exe",
   "url": "https://raw.githubusercontent.com/ZazaJr24/Game-Files-UpdateR/main/launcher/Gamers%20Unlimited%20Launcher.exe",
-  "sha256": "59e33f42e65f9c0e47c70105bd588c476c24b91f5a64cca73c233342594e6ada",
-  "size": 19566080,
+  "sha256": "849ed787f7e215b98c23f808fac4dee4f1dba413bb3566549ea5bb68423c151b",
+  "size": 6816768,
   "channel": "stable",
-  "updated_at": "2026-06-13T09:01:25.142876Z"
+  "updated_at": "2026-07-22T17:18:01.029Z",
+  "changelog": "Fixed duplicate game cards (including Avatar: Frontiers of Pandora), synchronized catalog App IDs with bot command data, and repaired launcher self-updates."
 }
