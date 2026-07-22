@@ -3365,5 +3365,20 @@
         "key": "1235140.key"
       }
     ]
+  },
+  "The Adventures of Elliot: The Millennium Tales": {
+    "game": "The Adventures of Elliot: The Millennium Tales",
+    "manifest_folder": "Manifests/3483510",
+    "key_file": "3483510.key",
+    "depots": [
+      {
+        "app": "3483510",
+        "depot": "3483511",
+        "manifest": "9023555596243515033",
+        "mf": "3483511_9023555596243515033.manifest",
+        "label": "Base Game",
+        "key": "3483510.key"
+      }
+    ]
   }
 }
