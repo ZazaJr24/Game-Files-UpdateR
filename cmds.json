@@ -511,5 +511,36 @@
         "key": "2928600.key"
       }
     ]
+  },
+  "Echoes of Aincrad": {
+    "game": "Echoes of Aincrad",
+    "manifest_folder": "Manifests/2244210",
+    "key_file": "2244210.key",
+    "depots": [
+      {
+        "app": "2244210",
+        "depot": "2244211",
+        "manifest": "2511020596160136554",
+        "mf": "2244211_2511020596160136554.manifest",
+        "label": "Base Game",
+        "key": "2244210.key"
+      },
+      {
+        "app": "2244210",
+        "depot": "3443750",
+        "manifest": "310538696736326014",
+        "mf": "3443750_310538696736326014.manifest",
+        "label": "Pack 1",
+        "key": "2244210.key"
+      },
+      {
+        "app": "2244210",
+        "depot": "3996330",
+        "manifest": "6174041972682850761",
+        "mf": "3996330_6174041972682850761.manifest",
+        "label": "Pack 2",
+        "key": "2244210.key"
+      }
+    ]
   }
 }
