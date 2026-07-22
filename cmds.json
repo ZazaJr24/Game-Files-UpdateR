@@ -3033,5 +3033,28 @@
         "key": "1382330.key"
       }
     ]
+  },
+  "Shinobi: Art of Vengeance": {
+    "game": "Shinobi: Art of Vengeance",
+    "manifest_folder": "Manifests/2361770",
+    "key_file": "2361770.key",
+    "depots": [
+      {
+        "app": "2361770",
+        "depot": "2361771",
+        "manifest": "8572567774510642096",
+        "mf": "2361771_8572567774510642096.manifest",
+        "label": "Base Game",
+        "key": "2361770.key"
+      },
+      {
+        "app": "2361770",
+        "depot": "3381241",
+        "manifest": "1281949326523039310",
+        "mf": "3381241_1281949326523039310.manifest",
+        "label": "Pack 1",
+        "key": "2361770.key"
+      }
+    ]
   }
 }
