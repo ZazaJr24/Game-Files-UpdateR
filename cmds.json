@@ -2994,5 +2994,44 @@
         "key": "1113000.key"
       }
     ]
+  },
+  "Persona 5 Strikers": {
+    "game": "Persona 5 Strikers",
+    "manifest_folder": "Manifests/1382330",
+    "key_file": "1382330.key",
+    "depots": [
+      {
+        "app": "1382330",
+        "depot": "1382331",
+        "manifest": "541657970914493992",
+        "mf": "1382331_541657970914493992.manifest",
+        "label": "Base Game",
+        "key": "1382330.key"
+      },
+      {
+        "app": "1382330",
+        "depot": "1382332",
+        "manifest": "1217603562634354986",
+        "mf": "1382332_1217603562634354986.manifest",
+        "label": "Pack 1",
+        "key": "1382330.key"
+      },
+      {
+        "app": "1382330",
+        "depot": "1482080",
+        "manifest": "213556939175564631",
+        "mf": "1482080_213556939175564631.manifest",
+        "label": "Pack 2",
+        "key": "1382330.key"
+      },
+      {
+        "app": "1382330",
+        "depot": "1482081",
+        "manifest": "180884191516666770",
+        "mf": "1482081_180884191516666770.manifest",
+        "label": "Pack 3",
+        "key": "1382330.key"
+      }
+    ]
   }
 }
