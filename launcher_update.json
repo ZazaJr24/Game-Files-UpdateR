@@ -1,10 +1,10 @@
 {
-  "version": "1.6.47",
+  "version": "1.6.48",
   "name": "Gamers Unlimited Launcher.exe",
   "url": "https://raw.githubusercontent.com/ZazaJr24/Game-Files-UpdateR/main/launcher/Gamers%20Unlimited%20Launcher.exe",
-  "sha256": "1a52b0909e125ba744311ed3ee43aa98abeaafde3ae49a7aaf84f12d23d2dd2c",
-  "size": 6915072,
+  "sha256": "6397a1d7cf09dc1400270595ad6a930dc64e137e66a06cfe69ce9d2170645271",
+  "size": 8942592,
   "channel": "stable",
-  "updated_at": "2026-07-22T17:37:16.070Z",
-  "changelog": "Removed remaining title-alias duplicates, including Persona 3 Reload Premium and the long/short Demon Slayer: The Hinokami Chronicles 2 names, while keeping real sequels separate."
+  "updated_at": "2026-07-22T18:08:19.6589763Z",
+  "changelog": "Downloads, repairs, verification, and resume now use the complete embedded DepotDownloaderMod by default. Pinned manifest files and depot key bundles are passed directly to DDM, incomplete old stubs are repaired automatically, and the portable .NET 9 runtime is installed when needed."
 }
