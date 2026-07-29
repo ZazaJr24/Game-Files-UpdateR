@@ -1,6 +1,6 @@
 -- 2928600's Lua and Manifest Created by Hubcap Manifest
 -- Demon Slayer -Kimetsu no Yaiba- The Hinokami Chronicles 2
--- Created: May 27, 2026 at 20:16:06 EDT
+-- Created: July 29, 2026 at 02:24:01 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 4
 -- Total DLCs: 15
