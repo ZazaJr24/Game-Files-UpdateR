@@ -1,9 +1,9 @@
 -- 3274580's Lua and Manifest Created by Hubcap Manifest
 -- Anno 117: Pax Romana
--- Created: June 06, 2026 at 13:56:14 EDT
+-- Created: July 09, 2026 at 07:27:55 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 6
--- Total DLCs: 11
+-- Total DLCs: 13
 -- Shared Depots: 1
 
 -- MAIN APPLICATION
@@ -25,6 +25,8 @@ addappid(3858750) -- Anno 117 Pax Romana  Prophecies of Ash
 addappid(3858760) -- Anno 117 Pax Romana  Prophecies of Ash Ubisoft Activation
 addappid(3874230) -- Anno 117 - Marvellous Mosaic Pack
 addappid(3874240) -- Anno 117 - CDLC 01 Ubisoft Activation
+addappid(3874260) -- Blooming Cities Pack
+addappid(3874270) -- Blooming Cities Pack Ubisoft Activation
 addappid(3875910) -- Anno 117 - Closed Beta Ubisoft Activation
 addappid(4168120) -- Anno 117 Pax Romana Standard Edition Launch - Ubisoft Activation
 addappid(4168130) -- Anno 117 Pax Romana Gold Edition Launch - Ubisoft Activation
