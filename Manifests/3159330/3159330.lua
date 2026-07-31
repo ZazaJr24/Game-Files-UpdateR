@@ -1,6 +1,6 @@
 -- 3159330's Lua and Manifest Created by Hubcap Manifest
 -- Assassin's Creed Shadows
--- Created: June 16, 2026 at 10:14:17 EDT
+-- Created: July 28, 2026 at 10:02:06 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 9
 -- Total DLCs: 14
