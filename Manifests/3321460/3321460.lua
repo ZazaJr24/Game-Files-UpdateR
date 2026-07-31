@@ -1,6 +1,6 @@
 -- 3321460's Lua and Manifest Created by Hubcap Manifest
 -- Crimson Desert
--- Created: July 03, 2026 at 23:14:54 EDT
+-- Created: July 23, 2026 at 22:55:10 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 3
 -- Total DLCs: 3
