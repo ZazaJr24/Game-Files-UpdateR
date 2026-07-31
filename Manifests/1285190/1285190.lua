@@ -1,9 +1,9 @@
 -- 1285190's Lua and Manifest Created by Hubcap Manifest
 -- Borderlands® 4
--- Created: May 28, 2026 at 13:27:59 EDT
+-- Created: July 30, 2026 at 12:55:47 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 7
--- Total DLCs: 7
+-- Total DLCs: 11
 -- Shared Depots: 2
 
 -- MAIN APPLICATION
@@ -27,3 +27,7 @@ addappid(3802420) -- Borderlands4 - Bounty Pack 2 Legend of the Stone Demon
 addappid(3802450) -- Borderlands4 - Story Pack 1 Mad Ellie and the Vault of the Damned
 addappid(3829670) -- Borderlands4 Bounty Pack Bundle
 addappid(3829680) -- Borderlands4 Vault Hunter Pack
+addappid(4598000) -- Borderlands4 - Bounty Pack 3 A Zane to Kill For
+addappid(4598010) -- Borderlands4 - Bounty Pack 3 Vault Card 3
+addappid(4614350) -- Borderlands4 - Bounty Pack 4 Murders and Acquisitions
+addappid(4614360) -- Borderlands4 - Bounty Pack 4 Vault Card 4
