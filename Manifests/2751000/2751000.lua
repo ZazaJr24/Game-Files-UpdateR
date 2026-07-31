@@ -1,6 +1,6 @@
 -- 2751000's Lua and Manifest Created by Hubcap Manifest
 -- Prince of Persia The Lost Crown
--- Created: June 05, 2026 at 21:08:54 EDT
+-- Created: July 01, 2026 at 12:14:35 EDT
 -- Website: https://hubcapmanifest.com/
 -- Total Depots: 4
 -- Total DLCs: 13
