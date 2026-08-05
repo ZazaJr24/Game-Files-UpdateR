@@ -1,0 +1,124 @@
+"AppState"
+{
+ "appid"		"2951630"
+ "universe"		"1"
+ "name"		"Total War: PHARAOH DYNASTIES"
+ "StateFlags"		"4"
+ "installdir"		"Total War PHARAOH DYNASTIES"
+ "LastUpdated"		"1785956309"
+ "LastPlayed"		"0"
+ "SizeOnDisk"		"80372834992"
+ "StagingSize"		"0"
+ "buildid"		"17040197"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"17040197"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "2951631"
+  {
+   "manifest"		"5981526964309170670"
+   "size"		"419939325"
+  }
+  "2951632"
+  {
+   "manifest"		"5593647077486756941"
+   "size"		"79574646196"
+  }
+  "2951633"
+  {
+   "manifest"		"8707746514799956810"
+   "size"		"2"
+  }
+  "2951634"
+  {
+   "manifest"		"8440775190564218323"
+   "size"		"2"
+  }
+  "2951635"
+  {
+   "manifest"		"6696512113706244824"
+   "size"		"2"
+  }
+  "2951636"
+  {
+   "manifest"		"6939505020142560265"
+   "size"		"2"
+  }
+  "2951637"
+  {
+   "manifest"		"9061697590603603240"
+   "size"		"2"
+  }
+  "2951638"
+  {
+   "manifest"		"8482194652313052337"
+   "size"		"2"
+  }
+  "2951639"
+  {
+   "manifest"		"7719813622713384338"
+   "size"		"2"
+  }
+  "2975490"
+  {
+   "manifest"		"6619924015740370458"
+   "size"		"173898988"
+  }
+  "2975491"
+  {
+   "manifest"		"9053416116767962943"
+   "size"		"2"
+  }
+  "2975492"
+  {
+   "manifest"		"8435044220721439537"
+   "size"		"2"
+  }
+  "2975493"
+  {
+   "manifest"		"7907443711009177352"
+   "size"		"2"
+  }
+  "2975494"
+  {
+   "manifest"		"9025811457173925235"
+   "size"		"2"
+  }
+  "2975495"
+  {
+   "manifest"		"7396469103927015232"
+   "size"		"2"
+  }
+  "372531"
+  {
+   "manifest"		"1128077100884847891"
+   "size"		"204350459"
+  }
+ }
+ "InstallScripts"
+ {
+  "2951631"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"english"
+ }
+ "MountedConfig"
+ {
+  "language"		"english"
+ }
+}
