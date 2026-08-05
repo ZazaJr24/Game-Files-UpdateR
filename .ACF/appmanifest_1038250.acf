@@ -1,0 +1,64 @@
+"AppState"
+{
+ "appid"		"1038250"
+ "universe"		"1"
+ "name"		"DIRT 5"
+ "StateFlags"		"4"
+ "installdir"		"DIRT 5"
+ "LastUpdated"		"1785956288"
+ "LastPlayed"		"0"
+ "SizeOnDisk"		"78225202657"
+ "StagingSize"		"0"
+ "buildid"		"8650081"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"8650081"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "1038251"
+  {
+   "manifest"		"9032882404118680792"
+   "size"		"41447785286"
+  }
+  "1038252"
+  {
+   "manifest"		"3184626638537455302"
+   "size"		"441400828"
+  }
+  "1038253"
+  {
+   "manifest"		"4836559187249076549"
+   "size"		"836118225"
+  }
+  "1038254"
+  {
+   "manifest"		"8066688021548665389"
+   "size"		"35499898318"
+  }
+ }
+ "InstallScripts"
+ {
+  "1038251"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"english"
+ }
+ "MountedConfig"
+ {
+  "language"		"english"
+ }
+}
