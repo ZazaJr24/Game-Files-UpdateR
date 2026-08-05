@@ -2,15 +2,14 @@
 {
  "appid"		"3230400"
  "universe"		"1"
- "LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
- "name"		"EA SPORTS Madden NFL 26"
+ "name"		"EA SPORTS™ Madden NFL 26"
  "StateFlags"		"4"
- "installdir"		"EA SPORTS Madden NFL 26"
- "LastUpdated"		"1778265218"
- "LastPlayed"		"1778265218"
- "SizeOnDisk"		"0"
+ "installdir"		"Madden NFL 26"
+ "LastUpdated"		"1785956291"
+ "LastPlayed"		"0"
+ "SizeOnDisk"		"70277220443"
  "StagingSize"		"0"
- "buildid"		"0"
+ "buildid"		"24349382"
  "LastOwner"		"76561198315899824"
  "DownloadType"		"1"
  "UpdateResult"		"0"
@@ -18,7 +17,7 @@
  "BytesDownloaded"		"0"
  "BytesToStage"		"0"
  "BytesStaged"		"0"
- "TargetBuildID"		"0"
+ "TargetBuildID"		"24349382"
  "AutoUpdateBehavior"		"0"
  "AllowOtherDownloadsWhileRunning"		"0"
  "ScheduledAutoUpdate"		"0"
@@ -27,14 +26,23 @@
  {
   "3230401"
   {
-   "manifest"		"2555770122969700177"
-   "size"		"0"
+   "manifest"		"8254809888620951131"
+   "size"		"69702528128"
   }
   "3230402"
   {
-   "manifest"		"4572186051274714383"
-   "size"		"0"
-   "dlcappid"		"3230402"
+   "manifest"		"2951882630633528106"
+   "size"		"121571"
+  }
+  "3340991"
+  {
+   "manifest"		"6717304605949129056"
+   "size"		"240979991"
+  }
+  "3893181"
+  {
+   "manifest"		"1558442456104985494"
+   "size"		"333590753"
   }
  }
  "InstallScripts"
@@ -47,10 +55,10 @@
  }
  "UserConfig"
  {
-  "language"		"arabic"
+  "language"		"english"
  }
  "MountedConfig"
  {
-  "language"		"arabic"
+  "language"		"english"
  }
 }
