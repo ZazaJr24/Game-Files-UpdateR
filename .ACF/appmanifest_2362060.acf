@@ -2,15 +2,14 @@
 {
  "appid"		"2362060"
  "universe"		"1"
- "LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
  "name"		"CODE VEIN II"
  "StateFlags"		"4"
- "installdir"		"CODE VEIN II"
- "LastUpdated"		"1778265218"
- "LastPlayed"		"1778265218"
- "SizeOnDisk"		"0"
+ "installdir"		"CodeVein2"
+ "LastUpdated"		"1785956283"
+ "LastPlayed"		"0"
+ "SizeOnDisk"		"67449284101"
  "StagingSize"		"0"
- "buildid"		"0"
+ "buildid"		"22883694"
  "LastOwner"		"76561198315899824"
  "DownloadType"		"1"
  "UpdateResult"		"0"
@@ -18,7 +17,7 @@
  "BytesDownloaded"		"0"
  "BytesToStage"		"0"
  "BytesStaged"		"0"
- "TargetBuildID"		"0"
+ "TargetBuildID"		"22883694"
  "AutoUpdateBehavior"		"0"
  "AllowOtherDownloadsWhileRunning"		"0"
  "ScheduledAutoUpdate"		"0"
@@ -27,7 +26,12 @@
  {
   "2362061"
   {
-   "manifest"		"6098882552442846529"
+   "manifest"		"4899963882725517925"
+   "size"		"67449284101"
+  }
+  "2362062"
+  {
+   "manifest"		"1931916847951337758"
    "size"		"0"
   }
  }
@@ -41,10 +45,10 @@
  }
  "UserConfig"
  {
-  "language"		"arabic"
+  "language"		"english"
  }
  "MountedConfig"
  {
-  "language"		"arabic"
+  "language"		"english"
  }
 }
