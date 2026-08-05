@@ -1,0 +1,89 @@
+"AppState"
+{
+ "appid"		"3751950"
+ "universe"		"1"
+ "name"		"Assassin's Creed Black Flag Resynced"
+ "StateFlags"		"4"
+ "installdir"		"Assassin's Creed Black Flag Resynced"
+ "LastUpdated"		"1785956277"
+ "LastPlayed"		"0"
+ "SizeOnDisk"		"72824939813"
+ "StagingSize"		"0"
+ "buildid"		"24424450"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"24424450"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "1716751"
+  {
+   "manifest"		"8936186649444731600"
+   "size"		"264933784"
+  }
+  "3751951"
+  {
+   "manifest"		"4397710407098141927"
+   "size"		"70717920141"
+  }
+  "3751953"
+  {
+   "manifest"		"3022415893432196011"
+   "size"		"258441216"
+  }
+  "3751954"
+  {
+   "manifest"		"6892818699399123643"
+   "size"		"267354112"
+  }
+  "3751955"
+  {
+   "manifest"		"4309823939662694323"
+   "size"		"264699904"
+  }
+  "3751956"
+  {
+   "manifest"		"6870137386025150758"
+   "size"		"263028736"
+  }
+  "3751957"
+  {
+   "manifest"		"4086000294114352953"
+   "size"		"263913472"
+  }
+  "3751958"
+  {
+   "manifest"		"5424793249443767029"
+   "size"		"262701056"
+  }
+  "3751959"
+  {
+   "manifest"		"6456623308878089663"
+   "size"		"261947392"
+  }
+ }
+ "InstallScripts"
+ {
+  "1716751"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"english"
+ }
+ "MountedConfig"
+ {
+  "language"		"english"
+ }
+}
