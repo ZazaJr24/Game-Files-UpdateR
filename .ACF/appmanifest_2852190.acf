@@ -1,0 +1,204 @@
+"AppState"
+{
+ "appid"		"2852190"
+ "universe"		"1"
+ "name"		"Monster Hunter Stories 3: Twisted Reflection"
+ "StateFlags"		"4"
+ "installdir"		"MONSTER_HUNTER_STORIES_3_TWISTED_REFLECTION"
+ "LastUpdated"		"1785956296"
+ "LastPlayed"		"0"
+ "SizeOnDisk"		"41248220289"
+ "StagingSize"		"0"
+ "buildid"		"24016036"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"24016036"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "2852191"
+  {
+   "manifest"		"6158104409197440181"
+   "size"		"40362324503"
+  }
+  "3581270"
+  {
+   "manifest"		"8458212944527962292"
+   "size"		"13629357"
+  }
+  "3581280"
+  {
+   "manifest"		"7569748194585989011"
+   "size"		"129898591"
+  }
+  "3581290"
+  {
+   "manifest"		"2093297960475433885"
+   "size"		"2277139"
+  }
+  "3581300"
+  {
+   "manifest"		"8952166521260427532"
+   "size"		"2716992"
+  }
+  "3581310"
+  {
+   "manifest"		"6376214278045416999"
+   "size"		"1586180"
+  }
+  "3581320"
+  {
+   "manifest"		"3127807661445653310"
+   "size"		"2880190"
+  }
+  "3581330"
+  {
+   "manifest"		"240227128175926447"
+   "size"		"4546745"
+  }
+  "3581340"
+  {
+   "manifest"		"4135893026995074115"
+   "size"		"5349821"
+  }
+  "3581380"
+  {
+   "manifest"		"4887326740324044471"
+   "size"		"23375300"
+  }
+  "3581390"
+  {
+   "manifest"		"2728666657550847926"
+   "size"		"10294690"
+  }
+  "3581400"
+  {
+   "manifest"		"1463607991440957207"
+   "size"		"19945464"
+  }
+  "3581410"
+  {
+   "manifest"		"2909396534256144995"
+   "size"		"11226400"
+  }
+  "3581420"
+  {
+   "manifest"		"5379677702933453096"
+   "size"		"15107775"
+  }
+  "3581430"
+  {
+   "manifest"		"1977062647901345030"
+   "size"		"8759551"
+  }
+  "3581440"
+  {
+   "manifest"		"451376771089979740"
+   "size"		"14194105"
+  }
+  "3581450"
+  {
+   "manifest"		"1506988313793986765"
+   "size"		"10126384"
+  }
+  "3581460"
+  {
+   "manifest"		"8124295821573494354"
+   "size"		"14140211"
+  }
+  "3581470"
+  {
+   "manifest"		"2640357821360084225"
+   "size"		"11649741"
+  }
+  "3581480"
+  {
+   "manifest"		"7764411618427858643"
+   "size"		"23110838"
+  }
+  "3872750"
+  {
+   "manifest"		"3294195697823073321"
+   "size"		"6631341"
+  }
+  "3879360"
+  {
+   "manifest"		"5572507035609083706"
+   "size"		"1310648"
+  }
+  "3879370"
+  {
+   "manifest"		"3533586002260635852"
+   "size"		"1150816"
+  }
+  "3879380"
+  {
+   "manifest"		"3600498023744702612"
+   "size"		"1229953"
+  }
+  "3879390"
+  {
+   "manifest"		"2898806657553241633"
+   "size"		"1331788"
+  }
+  "3879400"
+  {
+   "manifest"		"6273590793040211798"
+   "size"		"7294507"
+  }
+  "3879410"
+  {
+   "manifest"		"3541962698066773047"
+   "size"		"6434177"
+  }
+  "3879420"
+  {
+   "manifest"		"6330100364349058577"
+   "size"		"2223614"
+  }
+  "3879430"
+  {
+   "manifest"		"7768962081441671320"
+   "size"		"4449191"
+  }
+  "3879440"
+  {
+   "manifest"		"1522236329607587316"
+   "size"		"4755183"
+  }
+  "3932360"
+  {
+   "manifest"		"1942461775145786065"
+   "size"		"182"
+  }
+  "4007520"
+  {
+   "manifest"		"5191904910392251962"
+   "size"		"524268912"
+  }
+ }
+ "InstallScripts"
+ {
+  "2852191"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"english"
+ }
+ "MountedConfig"
+ {
+  "language"		"english"
+ }
+}
