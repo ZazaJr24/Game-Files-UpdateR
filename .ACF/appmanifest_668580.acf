@@ -2,15 +2,14 @@
 {
  "appid"		"668580"
  "universe"		"1"
- "LauncherPath"		"C:\\Program Files (x86)\\Steam\\steam.exe"
  "name"		"Atomic Heart"
  "StateFlags"		"4"
  "installdir"		"Atomic Heart"
- "LastUpdated"		"1778265218"
- "LastPlayed"		"1778265218"
- "SizeOnDisk"		"0"
+ "LastUpdated"		"1785956280"
+ "LastPlayed"		"0"
+ "SizeOnDisk"		"168991463636"
  "StagingSize"		"0"
- "buildid"		"0"
+ "buildid"		"24534183"
  "LastOwner"		"76561198315899824"
  "DownloadType"		"1"
  "UpdateResult"		"0"
@@ -18,7 +17,7 @@
  "BytesDownloaded"		"0"
  "BytesToStage"		"0"
  "BytesStaged"		"0"
- "TargetBuildID"		"0"
+ "TargetBuildID"		"24534183"
  "AutoUpdateBehavior"		"0"
  "AllowOtherDownloadsWhileRunning"		"0"
  "ScheduledAutoUpdate"		"0"
@@ -27,8 +26,8 @@
  {
   "668581"
   {
-   "manifest"		"7169748095502601961"
-   "size"		"0"
+   "manifest"		"1879284477080962633"
+   "size"		"168991463636"
   }
  }
  "InstallScripts"
@@ -41,10 +40,10 @@
  }
  "UserConfig"
  {
-  "language"		"arabic"
+  "language"		"english"
  }
  "MountedConfig"
  {
-  "language"		"arabic"
+  "language"		"english"
  }
 }
