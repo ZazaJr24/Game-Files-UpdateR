@@ -1,0 +1,79 @@
+"AppState"
+{
+ "appid"		"2488620"
+ "universe"		"1"
+ "name"		"F1® 24"
+ "StateFlags"		"4"
+ "installdir"		"F1 24"
+ "LastUpdated"		"1785956293"
+ "LastPlayed"		"0"
+ "SizeOnDisk"		"70275875417"
+ "StagingSize"		"0"
+ "buildid"		"18983819"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"18983819"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "2488621"
+  {
+   "manifest"		"5937082381037127537"
+   "size"		"23145827399"
+  }
+  "2488622"
+  {
+   "manifest"		"5100092380679030330"
+   "size"		"40224708889"
+  }
+  "2488623"
+  {
+   "manifest"		"3598762856071715621"
+   "size"		"5944097707"
+  }
+  "2488624"
+  {
+   "manifest"		"367140462649007330"
+   "size"		"627650669"
+  }
+  "2488625"
+  {
+   "manifest"		"6769591446444356157"
+   "size"		"0"
+  }
+  "2488626"
+  {
+   "manifest"		"8167333138891127734"
+   "size"		"0"
+  }
+  "3893181"
+  {
+   "manifest"		"1558442456104985494"
+   "size"		"333590753"
+  }
+ }
+ "InstallScripts"
+ {
+  "2488621"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"english"
+ }
+ "MountedConfig"
+ {
+  "language"		"english"
+ }
+}
