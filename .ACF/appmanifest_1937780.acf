@@ -1,0 +1,124 @@
+"AppState"
+{
+ "appid"		"1937780"
+ "universe"		"1"
+ "name"		"Total War: PHARAOH"
+ "StateFlags"		"4"
+ "installdir"		"Total War PHARAOH"
+ "LastUpdated"		"1785956306"
+ "LastPlayed"		"0"
+ "SizeOnDisk"		"51491349602"
+ "StagingSize"		"0"
+ "buildid"		"17040191"
+ "LastOwner"		"76561198315899824"
+ "DownloadType"		"1"
+ "UpdateResult"		"0"
+ "BytesToDownload"		"0"
+ "BytesDownloaded"		"0"
+ "BytesToStage"		"0"
+ "BytesStaged"		"0"
+ "TargetBuildID"		"17040191"
+ "AutoUpdateBehavior"		"0"
+ "AllowOtherDownloadsWhileRunning"		"0"
+ "ScheduledAutoUpdate"		"0"
+ "FullValidateAfterNextUpdate"		"1"
+ "InstalledDepots"
+ {
+  "1937781"
+  {
+   "manifest"		"5629193213201962890"
+   "size"		"431335909"
+  }
+  "1937782"
+  {
+   "manifest"		"6090923293379737305"
+   "size"		"50751845239"
+  }
+  "1937783"
+  {
+   "manifest"		"8217792501176964650"
+   "size"		"2"
+  }
+  "1937784"
+  {
+   "manifest"		"8048227615954036045"
+   "size"		"2"
+  }
+  "1937785"
+  {
+   "manifest"		"9142260801798094149"
+   "size"		"2"
+  }
+  "1937786"
+  {
+   "manifest"		"8535370607222058487"
+   "size"		"2"
+  }
+  "1937787"
+  {
+   "manifest"		"3933609307447909722"
+   "size"		"2"
+  }
+  "1937788"
+  {
+   "manifest"		"7191626226820597285"
+   "size"		"2"
+  }
+  "1937789"
+  {
+   "manifest"		"6640379906837424209"
+   "size"		"2"
+  }
+  "2366641"
+  {
+   "manifest"		"5620154168201326351"
+   "size"		"2"
+  }
+  "2366642"
+  {
+   "manifest"		"6898189751606606018"
+   "size"		"2"
+  }
+  "2366643"
+  {
+   "manifest"		"7888942509897567362"
+   "size"		"2"
+  }
+  "2366644"
+  {
+   "manifest"		"7736964783605673509"
+   "size"		"2"
+  }
+  "2366645"
+  {
+   "manifest"		"8615626323124668179"
+   "size"		"2"
+  }
+  "2574940"
+  {
+   "manifest"		"1887219874282970746"
+   "size"		"103817971"
+  }
+  "372531"
+  {
+   "manifest"		"1128077100884847891"
+   "size"		"204350459"
+  }
+ }
+ "InstallScripts"
+ {
+  "1937781"		"InstallerMessage_RunScript.vdf"
+ }
+ "SharedDepots"
+ {
+  "228989"		"228980"
+ }
+ "UserConfig"
+ {
+  "language"		"english"
+ }
+ "MountedConfig"
+ {
+  "language"		"english"
+ }
+}
