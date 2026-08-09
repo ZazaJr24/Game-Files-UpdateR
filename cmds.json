@@ -1,1930 +1,2309 @@
 {
-  "Borderlands 4 Super Deluxe": {
-    "game": "Borderlands 4 Super Deluxe",
-    "manifest_folder": "Manifests/1285190",
-    "key_file": "1285190.key",
-    "depots": [
-      {
-        "app": "1285190",
-        "depot": "1285191",
-        "manifest": "1953557004782766622",
-        "mf": "1285191_1953557004782766622.manifest",
-        "label": "Base Game",
-        "key": "1285190.key"
-      },
-      {
-        "app": "1285190",
-        "depot": "1285192",
-        "manifest": "6272425627520817384",
-        "mf": "1285192_6272425627520817384.manifest",
-        "label": "Pack 1",
-        "key": "1285190.key"
-      },
-      {
-        "app": "1285190",
-        "depot": "1285193",
-        "manifest": "1587472964084640951",
-        "mf": "1285193_1587472964084640951.manifest",
-        "label": "Pack 2",
-        "key": "1285190.key"
-      },
-      {
-        "app": "1285190",
-        "depot": "1285195",
-        "manifest": "218636985744352584",
-        "mf": "1285195_218636985744352584.manifest",
-        "label": "Pack 3",
-        "key": "1285190.key"
-      }
-    ]
-  },
-  "Atomic Heart": {
-    "game": "Atomic Heart",
-    "manifest_folder": "Manifests/668580",
-    "key_file": "668580.key",
-    "depots": [
-      {
-        "app": "668580",
-        "depot": "668581",
-        "manifest": "2756612790784314247",
-        "mf": "668581_2756612790784314247.manifest",
-        "label": "Base Game",
-        "key": "668580.key"
-      }
-    ]
-  },
   "007 First Light": {
-    "game": "007 First Light",
-    "manifest_folder": "Manifests/3768760",
-    "key_file": "3768760.key",
+    "appid": "3768760",
+    "build_id": "24298527",
+    "buildid": "24298527",
     "depots": [
       {
         "app": "3768760",
         "depot": "3768761",
-        "manifest": "7586046228060338110",
-        "mf": "3768761_7586046228060338110.manifest",
+        "key": "3768760.key",
         "label": "Base Game",
-        "key": "3768760.key"
+        "manifest": "1935539906930337019",
+        "mf": "3768761_1935539906930337019.manifest"
       }
-    ]
-  },
-  "PRAGMATA": {
-    "game": "PRAGMATA",
-    "manifest_folder": "Manifests/3357650",
-    "key_file": "3357650.key",
-    "depots": [
-      {
-        "app": "3357650",
-        "depot": "3357651",
-        "manifest": "6330832861176696160",
-        "mf": "3357651_6330832861176696160.manifest",
-        "label": "Base Game",
-        "key": "3357650.key"
-      },
-      {
-        "app": "3357650",
-        "depot": "3357652",
-        "manifest": "5639705324720691310",
-        "mf": "3357652_5639705324720691310.manifest",
-        "label": "Pack 1",
-        "key": "3357650.key"
-      },
-      {
-        "app": "3357650",
-        "depot": "3859920",
-        "manifest": "4731286747379700304",
-        "mf": "3859920_4731286747379700304.manifest",
-        "label": "Pack 2",
-        "key": "3357650.key"
-      },
-      {
-        "app": "3357650",
-        "depot": "3859930",
-        "manifest": "6714427611547107917",
-        "mf": "3859930_6714427611547107917.manifest",
-        "label": "Pack 3",
-        "key": "3357650.key"
-      }
-    ]
-  },
-  "SONIC X SHADOW GENERATIONS": {
-    "game": "SONIC X SHADOW GENERATIONS",
-    "manifest_folder": "Manifests/2513280",
-    "key_file": "2513280.key",
-    "depots": [
-      {
-        "app": "2513280",
-        "depot": "2513281",
-        "manifest": "1703635842257284304",
-        "mf": "2513281_1703635842257284304.manifest",
-        "label": "Base Game",
-        "key": "2513280.key"
-      }
-    ]
-  },
-  "Warhammer 40,000: Chaos Gate - Daemonhunters": {
-    "game": "Warhammer 40,000: Chaos Gate - Daemonhunters",
-    "manifest_folder": "Manifests/1611910",
-    "key_file": "1611910.key",
-    "depots": [
-      {
-        "app": "1611910",
-        "depot": "1611911",
-        "manifest": "7150054391983782129",
-        "mf": "1611911_7150054391983782129.manifest",
-        "label": "Base Game",
-        "key": "1611910.key"
-      }
-    ]
-  },
-  "FINAL FANTASY XV WINDOWS EDITION": {
-    "game": "FINAL FANTASY XV WINDOWS EDITION",
-    "manifest_folder": "Manifests/637650",
-    "key_file": "637650.key",
-    "depots": [
-      {
-        "app": "637650",
-        "depot": "637651",
-        "manifest": "4290656803638294445",
-        "mf": "637651_4290656803638294445.manifest",
-        "label": "Base Game",
-        "key": "637650.key"
-      }
-    ]
-  },
-  "Life is Strange: Reunion": {
-    "game": "Life is Strange: Reunion",
-    "manifest_folder": "Manifests/2624870",
-    "key_file": "2624870.key",
-    "depots": [
-      {
-        "app": "2624870",
-        "depot": "2624871",
-        "manifest": "4844659092145754092",
-        "mf": "2624871_4844659092145754092.manifest",
-        "label": "Base Game",
-        "key": "2624870.key"
-      },
-      {
-        "app": "2624870",
-        "depot": "3977740",
-        "manifest": "7067755487449646506",
-        "mf": "3977740_7067755487449646506.manifest",
-        "label": "Pack 1",
-        "key": "2624870.key"
-      }
-    ]
-  },
-  "Crimson Desert": {
-    "game": "Crimson Desert",
-    "manifest_folder": "Manifests/3321460",
-    "key_file": "3321460.key",
-    "depots": [
-      {
-        "app": "3321460",
-        "depot": "3321461",
-        "manifest": "3181503578355214830",
-        "mf": "3321461_3181503578355214830.manifest",
-        "label": "Base Game",
-        "key": "3321460.key"
-      },
-      {
-        "app": "3321460",
-        "depot": "3321462",
-        "manifest": "5054339860124800981",
-        "mf": "3321462_5054339860124800981.manifest",
-        "label": "Pack 1",
-        "key": "3321460.key"
-      }
-    ]
-  },
-  "Resident Evil Requiem": {
-    "game": "Resident Evil Requiem",
-    "manifest_folder": "Manifests/3764200",
-    "key_file": "3764200.key",
-    "depots": [
-      {
-        "app": "3764200",
-        "depot": "3764201",
-        "manifest": "2990234554016452841",
-        "mf": "3764201_2990234554016452841.manifest",
-        "label": "Base Game",
-        "key": "3764200.key"
-      },
-      {
-        "app": "3764200",
-        "depot": "3764202",
-        "manifest": "1782915813675562857",
-        "mf": "3764202_1782915813675562857.manifest",
-        "label": "Pack 1",
-        "key": "3764200.key"
-      },
-      {
-        "app": "3764200",
-        "depot": "3764203",
-        "manifest": "1507402407513694495",
-        "mf": "3764203_1507402407513694495.manifest",
-        "label": "Pack 2",
-        "key": "3764200.key"
-      },
-      {
-        "app": "3764200",
-        "depot": "3764204",
-        "manifest": "49224221358980643",
-        "mf": "3764204_49224221358980643.manifest",
-        "label": "Pack 3",
-        "key": "3764200.key"
-      },
-      {
-        "app": "3764200",
-        "depot": "3764205",
-        "manifest": "4436866528626191669",
-        "mf": "3764205_4436866528626191669.manifest",
-        "label": "Pack 4",
-        "key": "3764200.key"
-      },
-      {
-        "app": "3764200",
-        "depot": "3764206",
-        "manifest": "136565968785594279",
-        "mf": "3764206_136565968785594279.manifest",
-        "label": "Pack 5",
-        "key": "3764200.key"
-      },
-      {
-        "app": "3764200",
-        "depot": "3990800",
-        "manifest": "9181787779883827112",
-        "mf": "3990800_9181787779883827112.manifest",
-        "label": "Pack 6",
-        "key": "3764200.key"
-      },
-      {
-        "app": "3764200",
-        "depot": "3990820",
-        "manifest": "509708311968316285",
-        "mf": "3990820_509708311968316285.manifest",
-        "label": "Pack 7",
-        "key": "3764200.key"
-      }
-    ]
-  },
-  "Black Myth: Wukong": {
-    "game": "Black Myth: Wukong",
-    "manifest_folder": "Manifests/2358720",
-    "key_file": "2358720.key",
-    "depots": [
-      {
-        "app": "2358720",
-        "depot": "2358721",
-        "manifest": "8329114521995004621",
-        "mf": "2358721_8329114521995004621.manifest",
-        "label": "Base Game",
-        "key": "2358720.key"
-      }
-    ]
-  },
-  "CODE VEIN II": {
-    "game": "CODE VEIN II",
-    "manifest_folder": "Manifests/2362060",
-    "key_file": "2362060.key",
-    "depots": [
-      {
-        "app": "2362060",
-        "depot": "2362061",
-        "manifest": "4899963882725517925",
-        "mf": "2362061_4899963882725517925.manifest",
-        "label": "Base Game",
-        "key": "2362060.key"
-      },
-      {
-        "app": "2362060",
-        "depot": "2362062",
-        "manifest": "1931916847951337758",
-        "mf": "2362062_1931916847951337758.manifest",
-        "label": "Pack 1",
-        "key": "2362060.key"
-      }
-    ]
-  },
-  "Construction Simulator": {
-    "game": "Construction Simulator",
-    "manifest_folder": "Manifests/1273400",
-    "key_file": "1273400.key",
-    "depots": [
-      {
-        "app": "1273400",
-        "depot": "1273401",
-        "manifest": "3537032707906149374",
-        "mf": "1273401_3537032707906149374.manifest",
-        "label": "Base Game",
-        "key": "1273400.key"
-      },
-      {
-        "app": "1273400",
-        "depot": "1944340",
-        "manifest": "322555549106022213",
-        "mf": "1944340_322555549106022213.manifest",
-        "label": "Pack 1",
-        "key": "1273400.key"
-      },
-      {
-        "app": "1273400",
-        "depot": "1944341",
-        "manifest": "8807678063382063768",
-        "mf": "1944341_8807678063382063768.manifest",
-        "label": "Pack 2",
-        "key": "1273400.key"
-      },
-      {
-        "app": "1273400",
-        "depot": "2203420",
-        "manifest": "8739100311331388793",
-        "mf": "2203420_8739100311331388793.manifest",
-        "label": "Pack 3",
-        "key": "1273400.key"
-      },
-      {
-        "app": "1273400",
-        "depot": "2291424",
-        "manifest": "8453066766368453847",
-        "mf": "2291424_8453066766368453847.manifest",
-        "label": "Pack 4",
-        "key": "1273400.key"
-      },
-      {
-        "app": "1273400",
-        "depot": "2295781",
-        "manifest": "685349866155445181",
-        "mf": "2295781_685349866155445181.manifest",
-        "label": "Pack 5",
-        "key": "1273400.key"
-      },
-      {
-        "app": "1273400",
-        "depot": "2295811",
-        "manifest": "3383914678723808175",
-        "mf": "2295811_3383914678723808175.manifest",
-        "label": "Pack 6",
-        "key": "1273400.key"
-      },
-      {
-        "app": "1273400",
-        "depot": "2295821",
-        "manifest": "8580441773329478911",
-        "mf": "2295821_8580441773329478911.manifest",
-        "label": "Pack 7",
-        "key": "1273400.key"
-      },
-      {
-        "app": "1273400",
-        "depot": "2322971",
-        "manifest": "320280581201002583",
-        "mf": "2322971_320280581201002583.manifest",
-        "label": "Pack 8",
-        "key": "1273400.key"
-      },
-      {
-        "app": "1273400",
-        "depot": "2322981",
-        "manifest": "5743210225651998743",
-        "mf": "2322981_5743210225651998743.manifest",
-        "label": "Pack 9",
-        "key": "1273400.key"
-      },
-      {
-        "app": "1273400",
-        "depot": "2322991",
-        "manifest": "7520794540910599885",
-        "mf": "2322991_7520794540910599885.manifest",
-        "label": "Pack 10",
-        "key": "1273400.key"
-      },
-      {
-        "app": "1273400",
-        "depot": "2657381",
-        "manifest": "6016383179637761921",
-        "mf": "2657381_6016383179637761921.manifest",
-        "label": "Pack 11",
-        "key": "1273400.key"
-      },
-      {
-        "app": "1273400",
-        "depot": "2657391",
-        "manifest": "3197796519729678759",
-        "mf": "2657391_3197796519729678759.manifest",
-        "label": "Pack 12",
-        "key": "1273400.key"
-      },
-      {
-        "app": "1273400",
-        "depot": "2657401",
-        "manifest": "8114831874000182204",
-        "mf": "2657401_8114831874000182204.manifest",
-        "label": "Pack 13",
-        "key": "1273400.key"
-      },
-      {
-        "app": "1273400",
-        "depot": "2657411",
-        "manifest": "3557864438957203195",
-        "mf": "2657411_3557864438957203195.manifest",
-        "label": "Pack 14",
-        "key": "1273400.key"
-      },
-      {
-        "app": "1273400",
-        "depot": "2657421",
-        "manifest": "8791015684642513912",
-        "mf": "2657421_8791015684642513912.manifest",
-        "label": "Pack 15",
-        "key": "1273400.key"
-      },
-      {
-        "app": "1273400",
-        "depot": "2800781",
-        "manifest": "5044123825545457794",
-        "mf": "2800781_5044123825545457794.manifest",
-        "label": "Pack 16",
-        "key": "1273400.key"
-      }
-    ]
-  },
-  "Demon Slayer Chronicles 2": {
-    "game": "Demon Slayer Chronicles 2",
-    "manifest_folder": "Manifests/2928600",
-    "key_file": "2928600.key",
-    "depots": [
-      {
-        "app": "2928600",
-        "depot": "2928601",
-        "manifest": "4274774716817922142",
-        "mf": "2928601_4274774716817922142.manifest",
-        "label": "Base Game",
-        "key": "2928600.key"
-      },
-      {
-        "app": "2928600",
-        "depot": "2928602",
-        "manifest": "3542335913785273323",
-        "mf": "2928602_3542335913785273323.manifest",
-        "label": "Pack 1",
-        "key": "2928600.key"
-      },
-      {
-        "app": "2928600",
-        "depot": "3653840",
-        "manifest": "5802061408931620269",
-        "mf": "3653840_5802061408931620269.manifest",
-        "label": "Pack 2",
-        "key": "2928600.key"
-      }
-    ]
-  },
-  "Dragon's Dogma 2": {
-    "game": "Dragon's Dogma 2",
-    "manifest_folder": "Manifests/2054970",
-    "key_file": "2054970.key",
-    "depots": [
-      {
-        "app": "2054970",
-        "depot": "2054971",
-        "manifest": "8462395231943270878",
-        "mf": "2054971_8462395231943270878.manifest",
-        "label": "Base Game",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2054972",
-        "manifest": "7689270644606926785",
-        "mf": "2054972_7689270644606926785.manifest",
-        "label": "Pack 1",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2054973",
-        "manifest": "7636835853827378901",
-        "mf": "2054973_7636835853827378901.manifest",
-        "label": "Pack 2",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2054974",
-        "manifest": "570957168529914683",
-        "mf": "2054974_570957168529914683.manifest",
-        "label": "Pack 3",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2581000",
-        "manifest": "3326500289311024291",
-        "mf": "2581000_3326500289311024291.manifest",
-        "label": "Pack 4",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2593170",
-        "manifest": "6723973524008089229",
-        "mf": "2593170_6723973524008089229.manifest",
-        "label": "Pack 5",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2593180",
-        "manifest": "2634842059355884280",
-        "mf": "2593180_2634842059355884280.manifest",
-        "label": "Pack 6",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2593190",
-        "manifest": "7277756736244661036",
-        "mf": "2593190_7277756736244661036.manifest",
-        "label": "Pack 7",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2593200",
-        "manifest": "3869936518091417960",
-        "mf": "2593200_3869936518091417960.manifest",
-        "label": "Pack 8",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2593210",
-        "manifest": "5414532205501697728",
-        "mf": "2593210_5414532205501697728.manifest",
-        "label": "Pack 9",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2593220",
-        "manifest": "7455982328362794134",
-        "mf": "2593220_7455982328362794134.manifest",
-        "label": "Pack 10",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2593230",
-        "manifest": "7251928774923524569",
-        "mf": "2593230_7251928774923524569.manifest",
-        "label": "Pack 11",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2593240",
-        "manifest": "315069544162243504",
-        "mf": "2593240_315069544162243504.manifest",
-        "label": "Pack 12",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2593250",
-        "manifest": "967135362921279442",
-        "mf": "2593250_967135362921279442.manifest",
-        "label": "Pack 13",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2593260",
-        "manifest": "69183187290100698",
-        "mf": "2593260_69183187290100698.manifest",
-        "label": "Pack 14",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2593270",
-        "manifest": "2207132955792828001",
-        "mf": "2593270_2207132955792828001.manifest",
-        "label": "Pack 15",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2694820",
-        "manifest": "5885578699773604089",
-        "mf": "2694820_5885578699773604089.manifest",
-        "label": "Pack 16",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2694830",
-        "manifest": "1601933322779527921",
-        "mf": "2694830_1601933322779527921.manifest",
-        "label": "Pack 17",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2694840",
-        "manifest": "211900286292596559",
-        "mf": "2694840_211900286292596559.manifest",
-        "label": "Pack 18",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2694850",
-        "manifest": "8403226506099305605",
-        "mf": "2694850_8403226506099305605.manifest",
-        "label": "Pack 19",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2757060",
-        "manifest": "760063107766921264",
-        "mf": "2757060_760063107766921264.manifest",
-        "label": "Pack 20",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2757080",
-        "manifest": "5169243754881054003",
-        "mf": "2757080_5169243754881054003.manifest",
-        "label": "Pack 21",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2757090",
-        "manifest": "3444076000364683673",
-        "mf": "2757090_3444076000364683673.manifest",
-        "label": "Pack 22",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2757100",
-        "manifest": "3589438684669064439",
-        "mf": "2757100_3589438684669064439.manifest",
-        "label": "Pack 23",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2757110",
-        "manifest": "6993325223339298221",
-        "mf": "2757110_6993325223339298221.manifest",
-        "label": "Pack 24",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2757120",
-        "manifest": "1463489043546813420",
-        "mf": "2757120_1463489043546813420.manifest",
-        "label": "Pack 25",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2757130",
-        "manifest": "771876390790049210",
-        "mf": "2757130_771876390790049210.manifest",
-        "label": "Pack 26",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2757140",
-        "manifest": "1033236542373376685",
-        "mf": "2757140_1033236542373376685.manifest",
-        "label": "Pack 27",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2757150",
-        "manifest": "4434377146123567945",
-        "mf": "2757150_4434377146123567945.manifest",
-        "label": "Pack 28",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2757160",
-        "manifest": "3279848405850203304",
-        "mf": "2757160_3279848405850203304.manifest",
-        "label": "Pack 29",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2757170",
-        "manifest": "3459631589371686775",
-        "mf": "2757170_3459631589371686775.manifest",
-        "label": "Pack 30",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2757180",
-        "manifest": "5271075382477428458",
-        "mf": "2757180_5271075382477428458.manifest",
-        "label": "Pack 31",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2757190",
-        "manifest": "7353387220959454102",
-        "mf": "2757190_7353387220959454102.manifest",
-        "label": "Pack 32",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2757200",
-        "manifest": "7794411242485950378",
-        "mf": "2757200_7794411242485950378.manifest",
-        "label": "Pack 33",
-        "key": "2054970.key"
-      },
-      {
-        "app": "2054970",
-        "depot": "2757210",
-        "manifest": "6663042780467633977",
-        "mf": "2757210_6663042780467633977.manifest",
-        "label": "Pack 34",
-        "key": "2054970.key"
-      }
-    ]
-  },
-  "Football Manager 26": {
-    "game": "Football Manager 26",
-    "manifest_folder": "Manifests/3551340",
-    "key_file": "3551340.key",
-    "depots": [
-      {
-        "app": "3551340",
-        "depot": "3551341",
-        "manifest": "7759922098115499616",
-        "mf": "3551341_7759922098115499616.manifest",
-        "label": "Base Game",
-        "key": "3551340.key"
-      },
-      {
-        "app": "3551340",
-        "depot": "3551342",
-        "manifest": "4286155556537576831",
-        "mf": "3551342_4286155556537576831.manifest",
-        "label": "Pack 1",
-        "key": "3551340.key"
-      },
-      {
-        "app": "3551340",
-        "depot": "3551343",
-        "manifest": "6975117889499650380",
-        "mf": "3551343_6975117889499650380.manifest",
-        "label": "Pack 2",
-        "key": "3551340.key"
-      }
-    ]
-  },
-  "Hogwarts Legacy": {
-    "game": "Hogwarts Legacy",
-    "manifest_folder": "Manifests/990080",
-    "key_file": "990080.key",
-    "depots": [
-      {
-        "app": "990080",
-        "depot": "990081",
-        "manifest": "5198899101792588169",
-        "mf": "990081_5198899101792588169.manifest",
-        "label": "Base Game",
-        "key": "990080.key"
-      },
-      {
-        "app": "990080",
-        "depot": "990082",
-        "manifest": "7167310505439807086",
-        "mf": "990082_7167310505439807086.manifest",
-        "label": "Pack 1",
-        "key": "990080.key"
-      },
-      {
-        "app": "990080",
-        "depot": "990083",
-        "manifest": "6256883361539505915",
-        "mf": "990083_6256883361539505915.manifest",
-        "label": "Pack 2",
-        "key": "990080.key"
-      },
-      {
-        "app": "990080",
-        "depot": "990084",
-        "manifest": "4878463996609114776",
-        "mf": "990084_4878463996609114776.manifest",
-        "label": "Pack 3",
-        "key": "990080.key"
-      },
-      {
-        "app": "990080",
-        "depot": "990085",
-        "manifest": "109909038347739340",
-        "mf": "990085_109909038347739340.manifest",
-        "label": "Pack 4",
-        "key": "990080.key"
-      },
-      {
-        "app": "990080",
-        "depot": "990086",
-        "manifest": "7173744932268868207",
-        "mf": "990086_7173744932268868207.manifest",
-        "label": "Pack 5",
-        "key": "990080.key"
-      },
-      {
-        "app": "990080",
-        "depot": "990087",
-        "manifest": "4408608444924365738",
-        "mf": "990087_4408608444924365738.manifest",
-        "label": "Pack 6",
-        "key": "990080.key"
-      },
-      {
-        "app": "990080",
-        "depot": "990088",
-        "manifest": "4209668305361446309",
-        "mf": "990088_4209668305361446309.manifest",
-        "label": "Pack 7",
-        "key": "990080.key"
-      },
-      {
-        "app": "990080",
-        "depot": "990089",
-        "manifest": "7833413172600852139",
-        "mf": "990089_7833413172600852139.manifest",
-        "label": "Pack 8",
-        "key": "990080.key"
-      }
-    ]
-  },
-  "Jurassic World Evolution 2": {
-    "game": "Jurassic World Evolution 2",
-    "manifest_folder": "Manifests/1244460",
-    "key_file": "1244460.key",
-    "depots": [
-      {
-        "app": "1244460",
-        "depot": "1244461",
-        "manifest": "3466130684209996467",
-        "mf": "1244461_3466130684209996467.manifest",
-        "label": "Base Game",
-        "key": "1244460.key"
-      }
-    ]
-  },
-  "Like a Dragon: Infinite Wealth": {
-    "game": "Like a Dragon: Infinite Wealth",
-    "manifest_folder": "Manifests/2072450",
-    "key_file": "2072450.key",
-    "depots": [
-      {
-        "app": "2072450",
-        "depot": "2072451",
-        "manifest": "4882956135694037628",
-        "mf": "2072451_4882956135694037628.manifest",
-        "label": "Base Game",
-        "key": "2072450.key"
-      }
-    ]
-  },
-  "Mafia The Old Country": {
-    "game": "Mafia The Old Country",
-    "manifest_folder": "Manifests/1941540",
-    "key_file": "1941540.key",
-    "depots": [
-      {
-        "app": "1941540",
-        "depot": "1941541",
-        "manifest": "3121778726057603637",
-        "mf": "1941541_3121778726057603637.manifest",
-        "label": "Base Game",
-        "key": "1941540.key"
-      }
-    ]
-  },
-  "Monster Hunter Wilds": {
-    "game": "Monster Hunter Wilds",
-    "manifest_folder": "Manifests/2246340",
-    "key_file": "2246340.key",
-    "depots": [
-      {
-        "app": "2246340",
-        "depot": "2246341",
-        "manifest": "4276490724741861191",
-        "mf": "2246341_4276490724741861191.manifest",
-        "label": "Base Game",
-        "key": "2246340.key"
-      },
-      {
-        "app": "2246340",
-        "depot": "3308900",
-        "manifest": "5891069512660502042",
-        "mf": "3308900_5891069512660502042.manifest",
-        "label": "Pack 1",
-        "key": "2246340.key"
-      }
-    ]
-  },
-  "Mortal Kombat 1": {
-    "game": "Mortal Kombat 1",
-    "manifest_folder": "Manifests/1971870",
-    "key_file": "1971870.key",
-    "depots": [
-      {
-        "app": "1971870",
-        "depot": "1971872",
-        "manifest": "8552604172369068290",
-        "mf": "1971872_8552604172369068290.manifest",
-        "label": "Base Game",
-        "key": "1971870.key"
-      },
-      {
-        "app": "1971870",
-        "depot": "1971873",
-        "manifest": "5676539294652549514",
-        "mf": "1971873_5676539294652549514.manifest",
-        "label": "Pack 1",
-        "key": "1971870.key"
-      },
-      {
-        "app": "1971870",
-        "depot": "1971874",
-        "manifest": "512005367846038723",
-        "mf": "1971874_512005367846038723.manifest",
-        "label": "Pack 2",
-        "key": "1971870.key"
-      },
-      {
-        "app": "1971870",
-        "depot": "1971875",
-        "manifest": "2741683106529194428",
-        "mf": "1971875_2741683106529194428.manifest",
-        "label": "Pack 3",
-        "key": "1971870.key"
-      },
-      {
-        "app": "1971870",
-        "depot": "2615191",
-        "manifest": "4363176120155839027",
-        "mf": "2615191_4363176120155839027.manifest",
-        "label": "Pack 4",
-        "key": "1971870.key"
-      },
-      {
-        "app": "1971870",
-        "depot": "3168021",
-        "manifest": "9095445288428088123",
-        "mf": "3168021_9095445288428088123.manifest",
-        "label": "Pack 5",
-        "key": "1971870.key"
-      },
-      {
-        "app": "1971870",
-        "depot": "3233541",
-        "manifest": "9120506324946519517",
-        "mf": "3233541_9120506324946519517.manifest",
-        "label": "Pack 6",
-        "key": "1971870.key"
-      }
-    ]
-  },
-  "Persona 3 Reload Premium": {
-    "game": "Persona 3 Reload Premium",
-    "manifest_folder": "Manifests/2161700",
-    "key_file": "2161700.key",
-    "depots": [
-      {
-        "app": "2161700",
-        "depot": "2161701",
-        "manifest": "8534679793765499772",
-        "mf": "2161701_8534679793765499772.manifest",
-        "label": "Base Game",
-        "key": "2161700.key"
-      }
-    ]
-  },
-  "Persona 5 Royal": {
-    "game": "Persona 5 Royal",
-    "manifest_folder": "Manifests/1687950",
-    "key_file": "1687950.key",
-    "depots": [
-      {
-        "app": "1687950",
-        "depot": "1687951",
-        "manifest": "179949564195054526",
-        "mf": "1687951_179949564195054526.manifest",
-        "label": "Base Game",
-        "key": "1687950.key"
-      },
-      {
-        "app": "1687950",
-        "depot": "1687952",
-        "manifest": "3167861682612256520",
-        "mf": "1687952_3167861682612256520.manifest",
-        "label": "Pack 1",
-        "key": "1687950.key"
-      },
-      {
-        "app": "1687950",
-        "depot": "1687953",
-        "manifest": "676724932591096292",
-        "mf": "1687953_676724932591096292.manifest",
-        "label": "Pack 2",
-        "key": "1687950.key"
-      },
-      {
-        "app": "1687950",
-        "depot": "1687954",
-        "manifest": "4383202142358403441",
-        "mf": "1687954_4383202142358403441.manifest",
-        "label": "Pack 3",
-        "key": "1687950.key"
-      },
-      {
-        "app": "1687950",
-        "depot": "1687955",
-        "manifest": "1440355225172460061",
-        "mf": "1687955_1440355225172460061.manifest",
-        "label": "Pack 4",
-        "key": "1687950.key"
-      },
-      {
-        "app": "1687950",
-        "depot": "1687956",
-        "manifest": "7521686342464165318",
-        "mf": "1687956_7521686342464165318.manifest",
-        "label": "Pack 5",
-        "key": "1687950.key"
-      },
-      {
-        "app": "1687950",
-        "depot": "1687957",
-        "manifest": "748315061441883037",
-        "mf": "1687957_748315061441883037.manifest",
-        "label": "Pack 6",
-        "key": "1687950.key"
-      },
-      {
-        "app": "1687950",
-        "depot": "1687958",
-        "manifest": "4651383591850403589",
-        "mf": "1687958_4651383591850403589.manifest",
-        "label": "Pack 7",
-        "key": "1687950.key"
-      },
-      {
-        "app": "1687950",
-        "depot": "1687959",
-        "manifest": "223453434450812259",
-        "mf": "1687959_223453434450812259.manifest",
-        "label": "Pack 8",
-        "key": "1687950.key"
-      },
-      {
-        "app": "1687950",
-        "depot": "1753980",
-        "manifest": "3263965511551036653",
-        "mf": "1753980_3263965511551036653.manifest",
-        "label": "Pack 9",
-        "key": "1687950.key"
-      }
-    ]
-  },
-  "Planet Coaster 2": {
-    "game": "Planet Coaster 2",
-    "manifest_folder": "Manifests/2688950",
-    "key_file": "2688950.key",
-    "depots": [
-      {
-        "app": "2688950",
-        "depot": "2688951",
-        "manifest": "702010445531950067",
-        "mf": "2688951_702010445531950067.manifest",
-        "label": "Base Game",
-        "key": "2688950.key"
-      }
-    ]
-  },
-  "Planet Zoo": {
-    "game": "Planet Zoo",
-    "manifest_folder": "Manifests/703080",
-    "key_file": "703080.key",
-    "depots": [
-      {
-        "app": "703080",
-        "depot": "703081",
-        "manifest": "6607940512589780813",
-        "mf": "703081_6607940512589780813.manifest",
-        "label": "Base Game",
-        "key": "703080.key"
-      },
-      {
-        "app": "703080",
-        "depot": "1098120",
-        "manifest": "10163085496252241",
-        "mf": "1098120_10163085496252241.manifest",
-        "label": "Pack 1",
-        "key": "703080.key"
-      }
-    ]
-  },
-  "Sniper Elite: Resistance": {
-    "game": "Sniper Elite: Resistance",
-    "manifest_folder": "Manifests/2169200",
-    "key_file": "2169200.key",
-    "depots": [
-      {
-        "app": "2169200",
-        "depot": "2169201",
-        "manifest": "7391481385941074802",
-        "mf": "2169201_7391481385941074802.manifest",
-        "label": "Base Game",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2169202",
-        "manifest": "1865254937317479303",
-        "mf": "2169202_1865254937317479303.manifest",
-        "label": "Pack 1",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2169203",
-        "manifest": "7139550291347173555",
-        "mf": "2169203_7139550291347173555.manifest",
-        "label": "Pack 2",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2169204",
-        "manifest": "372530551937361395",
-        "mf": "2169204_372530551937361395.manifest",
-        "label": "Pack 3",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2169205",
-        "manifest": "4461957118771003967",
-        "mf": "2169205_4461957118771003967.manifest",
-        "label": "Pack 4",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2169206",
-        "manifest": "1047435328961232841",
-        "mf": "2169206_1047435328961232841.manifest",
-        "label": "Pack 5",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2169207",
-        "manifest": "3300678429426280478",
-        "mf": "2169207_3300678429426280478.manifest",
-        "label": "Pack 6",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2169208",
-        "manifest": "5843923210413641436",
-        "mf": "2169208_5843923210413641436.manifest",
-        "label": "Pack 7",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2169209",
-        "manifest": "3901507899860555469",
-        "mf": "2169209_3901507899860555469.manifest",
-        "label": "Pack 8",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2561510",
-        "manifest": "6975774250123687764",
-        "mf": "2561510_6975774250123687764.manifest",
-        "label": "Pack 9",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2561511",
-        "manifest": "3740802027707569957",
-        "mf": "2561511_3740802027707569957.manifest",
-        "label": "Pack 10",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2561512",
-        "manifest": "6751910486874420582",
-        "mf": "2561512_6751910486874420582.manifest",
-        "label": "Pack 11",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2561513",
-        "manifest": "2873633407686130884",
-        "mf": "2561513_2873633407686130884.manifest",
-        "label": "Pack 12",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2561514",
-        "manifest": "6889488596835225992",
-        "mf": "2561514_6889488596835225992.manifest",
-        "label": "Pack 13",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2561515",
-        "manifest": "3195328302612406793",
-        "mf": "2561515_3195328302612406793.manifest",
-        "label": "Pack 14",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2561516",
-        "manifest": "1189735114395280860",
-        "mf": "2561516_1189735114395280860.manifest",
-        "label": "Pack 15",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2561517",
-        "manifest": "6263522995165149636",
-        "mf": "2561517_6263522995165149636.manifest",
-        "label": "Pack 16",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2561518",
-        "manifest": "3608856189875224965",
-        "mf": "2561518_3608856189875224965.manifest",
-        "label": "Pack 17",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2561519",
-        "manifest": "1191642172033623765",
-        "mf": "2561519_1191642172033623765.manifest",
-        "label": "Pack 18",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2561520",
-        "manifest": "4740185705261078409",
-        "mf": "2561520_4740185705261078409.manifest",
-        "label": "Pack 19",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2561521",
-        "manifest": "622305630631083236",
-        "mf": "2561521_622305630631083236.manifest",
-        "label": "Pack 20",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2729150",
-        "manifest": "7327088656667926825",
-        "mf": "2729150_7327088656667926825.manifest",
-        "label": "Pack 21",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2800240",
-        "manifest": "3684063861755512692",
-        "mf": "2800240_3684063861755512692.manifest",
-        "label": "Pack 22",
-        "key": "2169200.key"
-      },
-      {
-        "app": "2169200",
-        "depot": "2800250",
-        "manifest": "1513378400177448501",
-        "mf": "2800250_1513378400177448501.manifest",
-        "label": "Pack 23",
-        "key": "2169200.key"
-      }
-    ]
-  },
-  "Sonic Frontiers": {
-    "game": "Sonic Frontiers",
-    "manifest_folder": "Manifests/1237320",
-    "key_file": "1237320.key",
-    "depots": [
-      {
-        "app": "1237320",
-        "depot": "1237321",
-        "manifest": "2773324310090316887",
-        "mf": "1237321_2773324310090316887.manifest",
-        "label": "Base Game",
-        "key": "1237320.key"
-      }
-    ]
-  },
-  "Stellar Blade": {
-    "game": "Stellar Blade",
-    "manifest_folder": "Manifests/3489700",
-    "key_file": "3489700.key",
-    "depots": [
-      {
-        "app": "3489700",
-        "depot": "3489701",
-        "manifest": "2747626496734343426",
-        "mf": "3489701_2747626496734343426.manifest",
-        "label": "Base Game",
-        "key": "3489700.key"
-      },
-      {
-        "app": "3489700",
-        "depot": "3596180",
-        "manifest": "8344797041293440177",
-        "mf": "3596180_8344797041293440177.manifest",
-        "label": "Pack 1",
-        "key": "3489700.key"
-      },
-      {
-        "app": "3489700",
-        "depot": "3596190",
-        "manifest": "6588499701851943951",
-        "mf": "3596190_6588499701851943951.manifest",
-        "label": "Pack 2",
-        "key": "3489700.key"
-      }
-    ]
-  },
-  "Street Fighter 6": {
-    "game": "Street Fighter 6",
-    "manifest_folder": "Manifests/1364780",
-    "key_file": "1364780.key",
-    "depots": [
-      {
-        "app": "1364780",
-        "depot": "1364781",
-        "manifest": "4741141599989541719",
-        "mf": "1364781_4741141599989541719.manifest",
-        "label": "Base Game",
-        "key": "1364780.key"
-      }
-    ]
-  },
-  "The First Berserker: Khazan": {
-    "game": "The First Berserker: Khazan",
-    "manifest_folder": "Manifests/2680010",
-    "key_file": "2680010.key",
-    "depots": [
-      {
-        "app": "2680010",
-        "depot": "2680011",
-        "manifest": "6765731590953570327",
-        "mf": "2680011_6765731590953570327.manifest",
-        "label": "Base Game",
-        "key": "2680010.key"
-      }
-    ]
-  },
-  "Two Point Campus": {
-    "game": "Two Point Campus",
-    "manifest_folder": "Manifests/1649080",
-    "key_file": "1649080.key",
-    "depots": [
-      {
-        "app": "1649080",
-        "depot": "1649081",
-        "manifest": "289369811377342695",
-        "mf": "1649081_289369811377342695.manifest",
-        "label": "Base Game",
-        "key": "1649080.key"
-      },
-      {
-        "app": "1649080",
-        "depot": "1649082",
-        "manifest": "1754188831985123451",
-        "mf": "1649082_1754188831985123451.manifest",
-        "label": "Pack 1",
-        "key": "1649080.key"
-      },
-      {
-        "app": "1649080",
-        "depot": "1649083",
-        "manifest": "8695487200066453694",
-        "mf": "1649083_8695487200066453694.manifest",
-        "label": "Pack 2",
-        "key": "1649080.key"
-      },
-      {
-        "app": "1649080",
-        "depot": "1884561",
-        "manifest": "6004916305044431883",
-        "mf": "1884561_6004916305044431883.manifest",
-        "label": "Pack 3",
-        "key": "1649080.key"
-      },
-      {
-        "app": "1649080",
-        "depot": "1884562",
-        "manifest": "9045960502572329709",
-        "mf": "1884562_9045960502572329709.manifest",
-        "label": "Pack 4",
-        "key": "1649080.key"
-      },
-      {
-        "app": "1649080",
-        "depot": "1884563",
-        "manifest": "1389814531585742770",
-        "mf": "1884563_1389814531585742770.manifest",
-        "label": "Pack 5",
-        "key": "1649080.key"
-      },
-      {
-        "app": "1649080",
-        "depot": "1907451",
-        "manifest": "3622833373893779274",
-        "mf": "1907451_3622833373893779274.manifest",
-        "label": "Pack 6",
-        "key": "1649080.key"
-      },
-      {
-        "app": "1649080",
-        "depot": "1907452",
-        "manifest": "6718436180628629852",
-        "mf": "1907452_6718436180628629852.manifest",
-        "label": "Pack 7",
-        "key": "1649080.key"
-      },
-      {
-        "app": "1649080",
-        "depot": "1907453",
-        "manifest": "563266121619746797",
-        "mf": "1907453_563266121619746797.manifest",
-        "label": "Pack 8",
-        "key": "1649080.key"
-      },
-      {
-        "app": "1649080",
-        "depot": "2088831",
-        "manifest": "449155889513379090",
-        "mf": "2088831_449155889513379090.manifest",
-        "label": "Pack 9",
-        "key": "1649080.key"
-      },
-      {
-        "app": "1649080",
-        "depot": "2088832",
-        "manifest": "6192079104131336443",
-        "mf": "2088832_6192079104131336443.manifest",
-        "label": "Pack 10",
-        "key": "1649080.key"
-      },
-      {
-        "app": "1649080",
-        "depot": "2088833",
-        "manifest": "3077891501920478862",
-        "mf": "2088833_3077891501920478862.manifest",
-        "label": "Pack 11",
-        "key": "1649080.key"
-      },
-      {
-        "app": "1649080",
-        "depot": "2195431",
-        "manifest": "4533314956374088213",
-        "mf": "2195431_4533314956374088213.manifest",
-        "label": "Pack 12",
-        "key": "1649080.key"
-      },
-      {
-        "app": "1649080",
-        "depot": "2195432",
-        "manifest": "6218544159999663681",
-        "mf": "2195432_6218544159999663681.manifest",
-        "label": "Pack 13",
-        "key": "1649080.key"
-      },
-      {
-        "app": "1649080",
-        "depot": "2195433",
-        "manifest": "8941840391531308089",
-        "mf": "2195433_8941840391531308089.manifest",
-        "label": "Pack 14",
-        "key": "1649080.key"
-      }
-    ]
-  },
-  "Yakuza Kiwami 3 & Dark Ties": {
-    "game": "Yakuza Kiwami 3 & Dark Ties",
-    "manifest_folder": "Manifests/3937550",
-    "key_file": "3937550.key",
-    "depots": [
-      {
-        "app": "3937550",
-        "depot": "3937551",
-        "manifest": "663491988918308505",
-        "mf": "3937551_663491988918308505.manifest",
-        "label": "Base Game",
-        "key": "3937550.key"
-      }
-    ]
-  },
-  "F1 Manager 2024": {
-    "game": "F1 Manager 2024",
-    "manifest_folder": "Manifests/2591280",
-    "key_file": "2591280.key",
-    "depots": [
-      {
-        "app": "2591280",
-        "depot": "2591281",
-        "manifest": "5180313629266358202",
-        "mf": "2591281_5180313629266358202.manifest",
-        "label": "Base Game",
-        "key": "2591280.key"
-      }
-    ]
-  },
-  "Assassin's Creed Shadows": {
-    "game": "Assassin's Creed Shadows",
-    "manifest_folder": "Manifests/3159330",
-    "key_file": "3159330.key",
-    "depots": [
-      {
-        "app": "3159330",
-        "depot": "1716751",
-        "manifest": "8936186649444731600",
-        "mf": "1716751_8936186649444731600.manifest",
-        "label": "Base Game",
-        "key": "3159330.key"
-      },
-      {
-        "app": "3159330",
-        "depot": "3159331",
-        "manifest": "4595780502794590393",
-        "mf": "3159331_4595780502794590393.manifest",
-        "label": "Pack 1",
-        "key": "3159330.key"
-      },
-      {
-        "app": "3159330",
-        "depot": "3159333",
-        "manifest": "8283686636322166472",
-        "mf": "3159333_8283686636322166472.manifest",
-        "label": "Pack 2",
-        "key": "3159330.key"
-      },
-      {
-        "app": "3159330",
-        "depot": "3159334",
-        "manifest": "7350092371372350439",
-        "mf": "3159334_7350092371372350439.manifest",
-        "label": "Pack 3",
-        "key": "3159330.key"
-      },
-      {
-        "app": "3159330",
-        "depot": "3159335",
-        "manifest": "1102932231740758169",
-        "mf": "3159335_1102932231740758169.manifest",
-        "label": "Pack 4",
-        "key": "3159330.key"
-      },
-      {
-        "app": "3159330",
-        "depot": "3159336",
-        "manifest": "4931157239490777827",
-        "mf": "3159336_4931157239490777827.manifest",
-        "label": "Pack 5",
-        "key": "3159330.key"
-      },
-      {
-        "app": "3159330",
-        "depot": "3159337",
-        "manifest": "175917902438003276",
-        "mf": "3159337_175917902438003276.manifest",
-        "label": "Pack 6",
-        "key": "3159330.key"
-      },
-      {
-        "app": "3159330",
-        "depot": "3159339",
-        "manifest": "1250764753963549068",
-        "mf": "3159339_1250764753963549068.manifest",
-        "label": "Pack 7",
-        "key": "3159330.key"
-      }
-    ]
-  },
-  "Avatar: Frontiers of Pandora": {
-    "game": "Avatar: Frontiers of Pandora",
-    "manifest_folder": "Manifests/2840770",
-    "key_file": "2840770.key",
-    "depots": [
-      {
-        "app": "2840770",
-        "depot": "1716751",
-        "manifest": "8936186649444731600",
-        "mf": "1716751_8936186649444731600.manifest",
-        "label": "Base Game",
-        "key": "2840770.key"
-      },
-      {
-        "app": "2840770",
-        "depot": "2840771",
-        "manifest": "1313257464760795001",
-        "mf": "2840771_1313257464760795001.manifest",
-        "label": "Pack 1",
-        "key": "2840770.key"
-      },
-      {
-        "app": "2840770",
-        "depot": "2840772",
-        "manifest": "591329598511062425",
-        "mf": "2840772_591329598511062425.manifest",
-        "label": "Pack 2",
-        "key": "2840770.key"
-      },
-      {
-        "app": "2840770",
-        "depot": "2840773",
-        "manifest": "1685669709126676964",
-        "mf": "2840773_1685669709126676964.manifest",
-        "label": "Pack 3",
-        "key": "2840770.key"
-      },
-      {
-        "app": "2840770",
-        "depot": "2840774",
-        "manifest": "6925198600522292954",
-        "mf": "2840774_6925198600522292954.manifest",
-        "label": "Pack 4",
-        "key": "2840770.key"
-      },
-      {
-        "app": "2840770",
-        "depot": "2840775",
-        "manifest": "4119199569999406077",
-        "mf": "2840775_4119199569999406077.manifest",
-        "label": "Pack 5",
-        "key": "2840770.key"
-      },
-      {
-        "app": "2840770",
-        "depot": "3005000",
-        "manifest": "8047920361918511067",
-        "mf": "3005000_8047920361918511067.manifest",
-        "label": "Pack 6",
-        "key": "2840770.key"
-      },
-      {
-        "app": "2840770",
-        "depot": "3005010",
-        "manifest": "7571111406504859758",
-        "mf": "3005010_7571111406504859758.manifest",
-        "label": "Pack 7",
-        "key": "2840770.key"
-      },
-      {
-        "app": "2840770",
-        "depot": "3823590",
-        "manifest": "7216827091719275431",
-        "mf": "3823590_7216827091719275431.manifest",
-        "label": "Pack 8",
-        "key": "2840770.key"
-      }
-    ]
-  },
-  "Prince of Persia The Lost Crown": {
-    "game": "Prince of Persia The Lost Crown",
-    "manifest_folder": "Manifests/2751000",
-    "key_file": "2751000.key",
-    "depots": [
-      {
-        "app": "2751000",
-        "depot": "1716751",
-        "manifest": "8936186649444731600",
-        "mf": "1716751_8936186649444731600.manifest",
-        "label": "Base Game",
-        "key": "2751000.key"
-      },
-      {
-        "app": "2751000",
-        "depot": "2751001",
-        "manifest": "4409492711677428505",
-        "mf": "2751001_4409492711677428505.manifest",
-        "label": "Pack 1",
-        "key": "2751000.key"
-      }
-    ]
-  },
-  "Star Wars Outlaws": {
-    "game": "Star Wars Outlaws",
-    "manifest_folder": "Manifests/2842040",
-    "key_file": "2842040.key",
-    "depots": [
-      {
-        "app": "2842040",
-        "depot": "1716751",
-        "manifest": "8936186649444731600",
-        "mf": "1716751_8936186649444731600.manifest",
-        "label": "Base Game",
-        "key": "2842040.key"
-      },
-      {
-        "app": "2842040",
-        "depot": "2842041",
-        "manifest": "5039899775321241999",
-        "mf": "2842041_5039899775321241999.manifest",
-        "label": "Pack 1",
-        "key": "2842040.key"
-      },
-      {
-        "app": "2842040",
-        "depot": "2842042",
-        "manifest": "8023630815732376815",
-        "mf": "2842042_8023630815732376815.manifest",
-        "label": "Pack 2",
-        "key": "2842040.key"
-      },
-      {
-        "app": "2842040",
-        "depot": "2842043",
-        "manifest": "4839953097128885780",
-        "mf": "2842043_4839953097128885780.manifest",
-        "label": "Pack 3",
-        "key": "2842040.key"
-      },
-      {
-        "app": "2842040",
-        "depot": "2842044",
-        "manifest": "7424665147348076845",
-        "mf": "2842044_7424665147348076845.manifest",
-        "label": "Pack 4",
-        "key": "2842040.key"
-      },
-      {
-        "app": "2842040",
-        "depot": "2842045",
-        "manifest": "6353372299728446551",
-        "mf": "2842045_6353372299728446551.manifest",
-        "label": "Pack 5",
-        "key": "2842040.key"
-      },
-      {
-        "app": "2842040",
-        "depot": "2842046",
-        "manifest": "7478173584789464744",
-        "mf": "2842046_7478173584789464744.manifest",
-        "label": "Pack 6",
-        "key": "2842040.key"
-      },
-      {
-        "app": "2842040",
-        "depot": "3271130",
-        "manifest": "3969923851033101926",
-        "mf": "3271130_3969923851033101926.manifest",
-        "label": "Pack 7",
-        "key": "2842040.key"
-      },
-      {
-        "app": "2842040",
-        "depot": "3541390",
-        "manifest": "6063451016620732592",
-        "mf": "3541390_6063451016620732592.manifest",
-        "label": "Pack 8",
-        "key": "2842040.key"
-      }
-    ]
-  },
-  "LEGO Batman: Legacy of the Dark Knight": {
-    "game": "LEGO Batman: Legacy of the Dark Knight",
-    "manifest_folder": "Manifests/2215200",
-    "key_file": "2215200.key",
-    "depots": [
-      {
-        "app": "2215200",
-        "depot": "2215201",
-        "manifest": "3113168277119028025",
-        "mf": "2215201_3113168277119028025.manifest",
-        "label": "Base Game",
-        "key": "2215200.key"
-      }
-    ]
+    ],
+    "game": "007 First Light",
+    "key_file": "3768760.key",
+    "manifest_folder": "Manifests/3768760"
   },
   "Assassin's Creed Black Flag Resynced": {
-    "game": "Assassin's Creed Black Flag Resynced",
-    "manifest_folder": "Manifests/3751950",
-    "key_file": "3751950.key",
+    "appid": "3751950",
+    "build_id": "24326718",
+    "build_id_exact": true,
+    "build_id_source": "steamcmd:public",
+    "build_name": "B_24326718",
+    "buildid": "24326718",
     "depots": [
       {
         "app": "3751950",
+        "buildid": "24326718",
         "depot": "1716751",
-        "manifest": "8936186649444731600",
-        "mf": "1716751_8936186649444731600.manifest",
+        "key": "3751950.key",
         "label": "Base Game",
-        "key": "3751950.key"
+        "manifest": "8936186649444731600",
+        "max_size": "264933784",
+        "mf": "1716751_8936186649444731600.manifest",
+        "size": "264933784",
+        "size_bytes": "264933784",
+        "steam_manifest_size": "264933784",
+        "target_buildid": "24326718"
       },
       {
         "app": "3751950",
         "depot": "3751951",
-        "manifest": "5192742731648272066",
-        "mf": "3751951_5192742731648272066.manifest",
-        "label": "Pack 1",
-        "key": "3751950.key"
+        "key": "3751950.key",
+        "label": "Base Game",
+        "manifest": "4397710407098141927",
+        "max_size": "70717920141",
+        "mf": "3751951_4397710407098141927.manifest",
+        "size": "70717920141",
+        "size_bytes": "70717920141"
       },
       {
         "app": "3751950",
         "depot": "3751953",
+        "key": "3751950.key",
+        "label": "Base Game",
         "manifest": "3022415893432196011",
+        "max_size": "258441216",
         "mf": "3751953_3022415893432196011.manifest",
-        "label": "Pack 2",
-        "key": "3751950.key"
+        "size": "258441216",
+        "size_bytes": "258441216"
       },
       {
         "app": "3751950",
         "depot": "3751954",
+        "key": "3751950.key",
+        "label": "Base Game",
         "manifest": "6892818699399123643",
+        "max_size": "267354112",
         "mf": "3751954_6892818699399123643.manifest",
-        "label": "Pack 3",
-        "key": "3751950.key"
+        "size": "267354112",
+        "size_bytes": "267354112"
       },
       {
         "app": "3751950",
         "depot": "3751955",
+        "key": "3751950.key",
+        "label": "Base Game",
         "manifest": "4309823939662694323",
+        "max_size": "264699904",
         "mf": "3751955_4309823939662694323.manifest",
-        "label": "Pack 4",
-        "key": "3751950.key"
+        "size": "264699904",
+        "size_bytes": "264699904"
       },
       {
         "app": "3751950",
         "depot": "3751956",
+        "key": "3751950.key",
+        "label": "Base Game",
         "manifest": "6870137386025150758",
+        "max_size": "263028736",
         "mf": "3751956_6870137386025150758.manifest",
-        "label": "Pack 5",
-        "key": "3751950.key"
+        "size": "263028736",
+        "size_bytes": "263028736"
       },
       {
         "app": "3751950",
         "depot": "3751957",
+        "key": "3751950.key",
+        "label": "Base Game",
         "manifest": "4086000294114352953",
+        "max_size": "263913472",
         "mf": "3751957_4086000294114352953.manifest",
-        "label": "Pack 6",
-        "key": "3751950.key"
+        "size": "263913472",
+        "size_bytes": "263913472"
       },
       {
         "app": "3751950",
         "depot": "3751958",
+        "key": "3751950.key",
+        "label": "Base Game",
         "manifest": "5424793249443767029",
+        "max_size": "262701056",
         "mf": "3751958_5424793249443767029.manifest",
-        "label": "Pack 7",
-        "key": "3751950.key"
+        "size": "262701056",
+        "size_bytes": "262701056"
       },
       {
         "app": "3751950",
         "depot": "3751959",
+        "key": "3751950.key",
+        "label": "Base Game",
         "manifest": "6456623308878089663",
+        "max_size": "261947392",
         "mf": "3751959_6456623308878089663.manifest",
-        "label": "Pack 8",
-        "key": "3751950.key"
+        "size": "261947392",
+        "size_bytes": "261947392"
       }
-    ]
+    ],
+    "game": "Assassin's Creed Black Flag Resynced",
+    "key_file": "3751950.key",
+    "manifest_folder": "Manifests/3751950",
+    "size_bytes": "264933784",
+    "size_gb": 0.26
+  },
+  "Assassin's Creed Shadows": {
+    "depots": [
+      {
+        "app": "3159330",
+        "depot": "1716751",
+        "key": "3159330.key",
+        "label": "Base Game",
+        "manifest": "8936186649444731600",
+        "mf": "1716751_8936186649444731600.manifest"
+      },
+      {
+        "app": "3159330",
+        "depot": "3159331",
+        "key": "3159330.key",
+        "label": "Pack 1",
+        "manifest": "4595780502794590393",
+        "mf": "3159331_4595780502794590393.manifest"
+      },
+      {
+        "app": "3159330",
+        "depot": "3159333",
+        "key": "3159330.key",
+        "label": "Pack 2",
+        "manifest": "8283686636322166472",
+        "mf": "3159333_8283686636322166472.manifest"
+      },
+      {
+        "app": "3159330",
+        "depot": "3159334",
+        "key": "3159330.key",
+        "label": "Pack 3",
+        "manifest": "7350092371372350439",
+        "mf": "3159334_7350092371372350439.manifest"
+      },
+      {
+        "app": "3159330",
+        "depot": "3159335",
+        "key": "3159330.key",
+        "label": "Pack 4",
+        "manifest": "1102932231740758169",
+        "mf": "3159335_1102932231740758169.manifest"
+      },
+      {
+        "app": "3159330",
+        "depot": "3159336",
+        "key": "3159330.key",
+        "label": "Pack 5",
+        "manifest": "4931157239490777827",
+        "mf": "3159336_4931157239490777827.manifest"
+      },
+      {
+        "app": "3159330",
+        "depot": "3159337",
+        "key": "3159330.key",
+        "label": "Pack 6",
+        "manifest": "175917902438003276",
+        "mf": "3159337_175917902438003276.manifest"
+      },
+      {
+        "app": "3159330",
+        "depot": "3159339",
+        "key": "3159330.key",
+        "label": "Pack 7",
+        "manifest": "1250764753963549068",
+        "mf": "3159339_1250764753963549068.manifest"
+      }
+    ],
+    "game": "Assassin's Creed Shadows",
+    "key_file": "3159330.key",
+    "manifest_folder": "Manifests/3159330"
+  },
+  "Atomic Heart": {
+    "appid": "668580",
+    "build_id": "23005793",
+    "buildid": "23005793",
+    "depots": [
+      {
+        "app": "668580",
+        "depot": "668581",
+        "key": "668580.key",
+        "label": "Base Game",
+        "manifest": "1879284477080962633",
+        "max_size": "168991463636",
+        "mf": "668581_1879284477080962633.manifest",
+        "size": "168991463636",
+        "size_bytes": "168991463636"
+      }
+    ],
+    "game": "Atomic Heart",
+    "key_file": "668580.key",
+    "manifest_folder": "Manifests/668580"
+  },
+  "Avatar: Frontiers of Pandora": {
+    "appid": "2840770",
+    "build_id": "22429549",
+    "buildid": "22429549",
+    "depots": [
+      {
+        "app": "2840770",
+        "depot": "1716751",
+        "key": "2840770.key",
+        "label": "Base Game",
+        "manifest": "8936186649444731600",
+        "mf": "1716751_8936186649444731600.manifest"
+      },
+      {
+        "app": "2840770",
+        "depot": "2840771",
+        "key": "2840770.key",
+        "label": "Pack 1",
+        "manifest": "1313257464760795001",
+        "mf": "2840771_1313257464760795001.manifest"
+      },
+      {
+        "app": "2840770",
+        "depot": "2840772",
+        "key": "2840770.key",
+        "label": "Pack 2",
+        "manifest": "591329598511062425",
+        "mf": "2840772_591329598511062425.manifest"
+      },
+      {
+        "app": "2840770",
+        "depot": "2840773",
+        "key": "2840770.key",
+        "label": "Pack 3",
+        "manifest": "1685669709126676964",
+        "mf": "2840773_1685669709126676964.manifest"
+      },
+      {
+        "app": "2840770",
+        "depot": "2840774",
+        "key": "2840770.key",
+        "label": "Pack 4",
+        "manifest": "6925198600522292954",
+        "mf": "2840774_6925198600522292954.manifest"
+      },
+      {
+        "app": "2840770",
+        "depot": "2840775",
+        "key": "2840770.key",
+        "label": "Pack 5",
+        "manifest": "4119199569999406077",
+        "mf": "2840775_4119199569999406077.manifest"
+      },
+      {
+        "app": "2840770",
+        "depot": "3005000",
+        "key": "2840770.key",
+        "label": "Pack 6",
+        "manifest": "8047920361918511067",
+        "mf": "3005000_8047920361918511067.manifest"
+      },
+      {
+        "app": "2840770",
+        "depot": "3005010",
+        "key": "2840770.key",
+        "label": "Pack 7",
+        "manifest": "7571111406504859758",
+        "mf": "3005010_7571111406504859758.manifest"
+      },
+      {
+        "app": "2840770",
+        "depot": "3823590",
+        "key": "2840770.key",
+        "label": "Pack 8",
+        "manifest": "7216827091719275431",
+        "mf": "3823590_7216827091719275431.manifest"
+      }
+    ],
+    "game": "Avatar: Frontiers of Pandora",
+    "key_file": "2840770.key",
+    "manifest_folder": "Manifests/2840770"
+  },
+  "Black Myth: Wukong": {
+    "depots": [
+      {
+        "app": "2358720",
+        "depot": "2358721",
+        "key": "2358720.key",
+        "label": "Base Game",
+        "manifest": "8329114521995004621",
+        "mf": "2358721_8329114521995004621.manifest"
+      }
+    ],
+    "game": "Black Myth: Wukong",
+    "key_file": "2358720.key",
+    "manifest_folder": "Manifests/2358720"
+  },
+  "Borderlands 4 Super Deluxe": {
+    "appid": "1285190",
+    "build_id": "24475729",
+    "buildid": "24475729",
+    "depots": [
+      {
+        "app": "1285190",
+        "depot": "1285191",
+        "key": "1285190.key",
+        "label": "Base Game",
+        "manifest": "8463128240834064140",
+        "mf": "1285191_8463128240834064140.manifest"
+      },
+      {
+        "app": "1285190",
+        "depot": "1285192",
+        "key": "1285190.key",
+        "label": "Pack 1",
+        "manifest": "5558974000206017761",
+        "mf": "1285192_5558974000206017761.manifest"
+      },
+      {
+        "app": "1285190",
+        "depot": "1285193",
+        "key": "1285190.key",
+        "label": "Pack 2",
+        "manifest": "1587472964084640951",
+        "mf": "1285193_1587472964084640951.manifest"
+      },
+      {
+        "app": "1285190",
+        "depot": "1285195",
+        "key": "1285190.key",
+        "label": "Pack 3",
+        "manifest": "218636985744352584",
+        "mf": "1285195_218636985744352584.manifest"
+      }
+    ],
+    "game": "Borderlands 4 Super Deluxe",
+    "key_file": "1285190.key",
+    "manifest_folder": "Manifests/1285190"
+  },
+  "CODE VEIN II": {
+    "appid": "2362060",
+    "depots": [
+      {
+        "app": "2362060",
+        "depot": "2362061",
+        "key": "2362060.key",
+        "label": "Base Game",
+        "manifest": "4899963882725517925",
+        "max_size": "67449284101",
+        "mf": "2362061_4899963882725517925.manifest",
+        "size": "67449284101",
+        "size_bytes": "67449284101"
+      }
+    ],
+    "game": "CODE VEIN II",
+    "key_file": "2362060.key",
+    "manifest_folder": "Manifests/2362060"
+  },
+  "Construction Simulator": {
+    "appid": "1273400",
+    "depots": [
+      {
+        "app": "1273400",
+        "depot": "1273401",
+        "key": "1273400.key",
+        "label": "Base Game",
+        "manifest": "3537032707906149374",
+        "mf": "1273401_3537032707906149374.manifest"
+      },
+      {
+        "app": "1273400",
+        "depot": "1944340",
+        "key": "1273400.key",
+        "label": "Pack 1",
+        "manifest": "322555549106022213",
+        "mf": "1944340_322555549106022213.manifest"
+      },
+      {
+        "app": "1273400",
+        "depot": "1944341",
+        "key": "1273400.key",
+        "label": "Pack 2",
+        "manifest": "8807678063382063768",
+        "mf": "1944341_8807678063382063768.manifest"
+      },
+      {
+        "app": "1273400",
+        "depot": "2203420",
+        "key": "1273400.key",
+        "label": "Pack 3",
+        "manifest": "8739100311331388793",
+        "mf": "2203420_8739100311331388793.manifest"
+      },
+      {
+        "app": "1273400",
+        "depot": "2291424",
+        "key": "1273400.key",
+        "label": "Pack 4",
+        "manifest": "8453066766368453847",
+        "mf": "2291424_8453066766368453847.manifest"
+      },
+      {
+        "app": "1273400",
+        "depot": "2295781",
+        "key": "1273400.key",
+        "label": "Pack 5",
+        "manifest": "685349866155445181",
+        "mf": "2295781_685349866155445181.manifest"
+      },
+      {
+        "app": "1273400",
+        "depot": "2295811",
+        "key": "1273400.key",
+        "label": "Pack 6",
+        "manifest": "3383914678723808175",
+        "mf": "2295811_3383914678723808175.manifest"
+      },
+      {
+        "app": "1273400",
+        "depot": "2295821",
+        "key": "1273400.key",
+        "label": "Pack 7",
+        "manifest": "8580441773329478911",
+        "mf": "2295821_8580441773329478911.manifest"
+      },
+      {
+        "app": "1273400",
+        "depot": "2322971",
+        "key": "1273400.key",
+        "label": "Pack 8",
+        "manifest": "320280581201002583",
+        "mf": "2322971_320280581201002583.manifest"
+      },
+      {
+        "app": "1273400",
+        "depot": "2322981",
+        "key": "1273400.key",
+        "label": "Pack 9",
+        "manifest": "5743210225651998743",
+        "mf": "2322981_5743210225651998743.manifest"
+      },
+      {
+        "app": "1273400",
+        "depot": "2322991",
+        "key": "1273400.key",
+        "label": "Pack 10",
+        "manifest": "7520794540910599885",
+        "mf": "2322991_7520794540910599885.manifest"
+      },
+      {
+        "app": "1273400",
+        "depot": "2657381",
+        "key": "1273400.key",
+        "label": "Pack 11",
+        "manifest": "6016383179637761921",
+        "mf": "2657381_6016383179637761921.manifest"
+      },
+      {
+        "app": "1273400",
+        "depot": "2657391",
+        "key": "1273400.key",
+        "label": "Pack 12",
+        "manifest": "3197796519729678759",
+        "mf": "2657391_3197796519729678759.manifest"
+      },
+      {
+        "app": "1273400",
+        "depot": "2657401",
+        "key": "1273400.key",
+        "label": "Pack 13",
+        "manifest": "8114831874000182204",
+        "mf": "2657401_8114831874000182204.manifest"
+      },
+      {
+        "app": "1273400",
+        "depot": "2657411",
+        "key": "1273400.key",
+        "label": "Pack 14",
+        "manifest": "3557864438957203195",
+        "mf": "2657411_3557864438957203195.manifest"
+      },
+      {
+        "app": "1273400",
+        "depot": "2657421",
+        "key": "1273400.key",
+        "label": "Pack 15",
+        "manifest": "8791015684642513912",
+        "mf": "2657421_8791015684642513912.manifest"
+      },
+      {
+        "app": "1273400",
+        "depot": "2800781",
+        "key": "1273400.key",
+        "label": "Pack 16",
+        "manifest": "5044123825545457794",
+        "mf": "2800781_5044123825545457794.manifest"
+      }
+    ],
+    "game": "Construction Simulator",
+    "key_file": "1273400.key",
+    "manifest_folder": "Manifests/1273400"
+  },
+  "Crimson Desert": {
+    "appid": "3321460",
+    "depots": [
+      {
+        "app": "3321460",
+        "depot": "3321461",
+        "key": "3321460.key",
+        "label": "Base Game",
+        "manifest": "6007020007238756320",
+        "max_size": "142073883816",
+        "mf": "3321461_6007020007238756320.manifest",
+        "size": "142073883816",
+        "size_bytes": "142073883816"
+      },
+      {
+        "app": "3321460",
+        "depot": "3321462",
+        "key": "3321460.key",
+        "label": "Pack 1",
+        "manifest": "1077404035119368270",
+        "mf": "3321462_1077404035119368270.manifest"
+      }
+    ],
+    "game": "Crimson Desert",
+    "key_file": "3321460.key",
+    "manifest_folder": "Manifests/3321460"
+  },
+  "DOOM: The Dark Ages": {
+    "appid": "3017860",
+    "depots": [
+      {
+        "app": "3017860",
+        "depot": "3017862",
+        "key": "3017860.key",
+        "label": "Base Game",
+        "manifest": "7466449196753546769",
+        "max_size": "382498195",
+        "mf": "3017862_7466449196753546769.manifest",
+        "size": "382498195",
+        "size_bytes": "382498195"
+      },
+      {
+        "app": "3017860",
+        "depot": "3017863",
+        "key": "3017860.key",
+        "label": "Base Game",
+        "manifest": "3860369781994465240",
+        "max_size": "411",
+        "mf": "3017863_3860369781994465240.manifest",
+        "size": "411",
+        "size_bytes": "411"
+      },
+      {
+        "app": "3017860",
+        "depot": "3017864",
+        "key": "3017860.key",
+        "label": "Base Game",
+        "manifest": "7054043744589518599",
+        "max_size": "12269058989",
+        "mf": "3017864_7054043744589518599.manifest",
+        "size": "12269058989",
+        "size_bytes": "12269058989"
+      },
+      {
+        "app": "3017860",
+        "depot": "3017865",
+        "key": "3017860.key",
+        "label": "Base Game",
+        "manifest": "6508691013012284956",
+        "max_size": "0",
+        "mf": "3017865_6508691013012284956.manifest",
+        "size": "0",
+        "size_bytes": "0"
+      },
+      {
+        "app": "3017860",
+        "depot": "3017866",
+        "key": "3017860.key",
+        "label": "Base Game",
+        "manifest": "51450828051076476",
+        "max_size": "232",
+        "mf": "3017866_51450828051076476.manifest",
+        "size": "232",
+        "size_bytes": "232"
+      },
+      {
+        "app": "3017860",
+        "depot": "3017867",
+        "key": "3017860.key",
+        "label": "Base Game",
+        "manifest": "7998384974670192918",
+        "max_size": "93380296968",
+        "mf": "3017867_7998384974670192918.manifest",
+        "size": "93380296968",
+        "size_bytes": "93380296968"
+      },
+      {
+        "app": "3017860",
+        "depot": "3017868",
+        "key": "3017860.key",
+        "label": "Base Game",
+        "manifest": "8320539347038966589",
+        "max_size": "79790938",
+        "mf": "3017868_8320539347038966589.manifest",
+        "size": "79790938",
+        "size_bytes": "79790938"
+      }
+    ],
+    "game": "DOOM: The Dark Ages",
+    "key_file": "3017860.key",
+    "manifest_folder": "Manifests/3017860"
+  },
+  "Demon Slayer Chronicles 2": {
+    "depots": [
+      {
+        "app": "2928600",
+        "depot": "2928601",
+        "key": "2928600.key",
+        "label": "Base Game",
+        "manifest": "4274774716817922142",
+        "mf": "2928601_4274774716817922142.manifest"
+      },
+      {
+        "app": "2928600",
+        "depot": "2928602",
+        "key": "2928600.key",
+        "label": "Pack 1",
+        "manifest": "3542335913785273323",
+        "mf": "2928602_3542335913785273323.manifest"
+      },
+      {
+        "app": "2928600",
+        "depot": "3653840",
+        "key": "2928600.key",
+        "label": "Pack 2",
+        "manifest": "5802061408931620269",
+        "mf": "3653840_5802061408931620269.manifest"
+      }
+    ],
+    "game": "Demon Slayer Chronicles 2",
+    "key_file": "2928600.key",
+    "manifest_folder": "Manifests/2928600"
+  },
+  "Dragon's Dogma 2": {
+    "depots": [
+      {
+        "app": "2054970",
+        "depot": "2054971",
+        "key": "2054970.key",
+        "label": "Base Game",
+        "manifest": "8462395231943270878",
+        "mf": "2054971_8462395231943270878.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2054972",
+        "key": "2054970.key",
+        "label": "Pack 1",
+        "manifest": "7689270644606926785",
+        "mf": "2054972_7689270644606926785.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2054973",
+        "key": "2054970.key",
+        "label": "Pack 2",
+        "manifest": "7636835853827378901",
+        "mf": "2054973_7636835853827378901.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2054974",
+        "key": "2054970.key",
+        "label": "Pack 3",
+        "manifest": "570957168529914683",
+        "mf": "2054974_570957168529914683.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2581000",
+        "key": "2054970.key",
+        "label": "Pack 4",
+        "manifest": "3326500289311024291",
+        "mf": "2581000_3326500289311024291.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2593170",
+        "key": "2054970.key",
+        "label": "Pack 5",
+        "manifest": "6723973524008089229",
+        "mf": "2593170_6723973524008089229.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2593180",
+        "key": "2054970.key",
+        "label": "Pack 6",
+        "manifest": "2634842059355884280",
+        "mf": "2593180_2634842059355884280.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2593190",
+        "key": "2054970.key",
+        "label": "Pack 7",
+        "manifest": "7277756736244661036",
+        "mf": "2593190_7277756736244661036.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2593200",
+        "key": "2054970.key",
+        "label": "Pack 8",
+        "manifest": "3869936518091417960",
+        "mf": "2593200_3869936518091417960.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2593210",
+        "key": "2054970.key",
+        "label": "Pack 9",
+        "manifest": "5414532205501697728",
+        "mf": "2593210_5414532205501697728.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2593220",
+        "key": "2054970.key",
+        "label": "Pack 10",
+        "manifest": "7455982328362794134",
+        "mf": "2593220_7455982328362794134.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2593230",
+        "key": "2054970.key",
+        "label": "Pack 11",
+        "manifest": "7251928774923524569",
+        "mf": "2593230_7251928774923524569.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2593240",
+        "key": "2054970.key",
+        "label": "Pack 12",
+        "manifest": "315069544162243504",
+        "mf": "2593240_315069544162243504.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2593250",
+        "key": "2054970.key",
+        "label": "Pack 13",
+        "manifest": "967135362921279442",
+        "mf": "2593250_967135362921279442.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2593260",
+        "key": "2054970.key",
+        "label": "Pack 14",
+        "manifest": "69183187290100698",
+        "mf": "2593260_69183187290100698.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2593270",
+        "key": "2054970.key",
+        "label": "Pack 15",
+        "manifest": "2207132955792828001",
+        "mf": "2593270_2207132955792828001.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2694820",
+        "key": "2054970.key",
+        "label": "Pack 16",
+        "manifest": "5885578699773604089",
+        "mf": "2694820_5885578699773604089.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2694830",
+        "key": "2054970.key",
+        "label": "Pack 17",
+        "manifest": "1601933322779527921",
+        "mf": "2694830_1601933322779527921.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2694840",
+        "key": "2054970.key",
+        "label": "Pack 18",
+        "manifest": "211900286292596559",
+        "mf": "2694840_211900286292596559.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2694850",
+        "key": "2054970.key",
+        "label": "Pack 19",
+        "manifest": "8403226506099305605",
+        "mf": "2694850_8403226506099305605.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757060",
+        "key": "2054970.key",
+        "label": "Pack 20",
+        "manifest": "760063107766921264",
+        "mf": "2757060_760063107766921264.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757080",
+        "key": "2054970.key",
+        "label": "Pack 21",
+        "manifest": "5169243754881054003",
+        "mf": "2757080_5169243754881054003.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757090",
+        "key": "2054970.key",
+        "label": "Pack 22",
+        "manifest": "3444076000364683673",
+        "mf": "2757090_3444076000364683673.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757100",
+        "key": "2054970.key",
+        "label": "Pack 23",
+        "manifest": "3589438684669064439",
+        "mf": "2757100_3589438684669064439.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757110",
+        "key": "2054970.key",
+        "label": "Pack 24",
+        "manifest": "6993325223339298221",
+        "mf": "2757110_6993325223339298221.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757120",
+        "key": "2054970.key",
+        "label": "Pack 25",
+        "manifest": "1463489043546813420",
+        "mf": "2757120_1463489043546813420.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757130",
+        "key": "2054970.key",
+        "label": "Pack 26",
+        "manifest": "771876390790049210",
+        "mf": "2757130_771876390790049210.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757140",
+        "key": "2054970.key",
+        "label": "Pack 27",
+        "manifest": "1033236542373376685",
+        "mf": "2757140_1033236542373376685.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757150",
+        "key": "2054970.key",
+        "label": "Pack 28",
+        "manifest": "4434377146123567945",
+        "mf": "2757150_4434377146123567945.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757160",
+        "key": "2054970.key",
+        "label": "Pack 29",
+        "manifest": "3279848405850203304",
+        "mf": "2757160_3279848405850203304.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757170",
+        "key": "2054970.key",
+        "label": "Pack 30",
+        "manifest": "3459631589371686775",
+        "mf": "2757170_3459631589371686775.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757180",
+        "key": "2054970.key",
+        "label": "Pack 31",
+        "manifest": "5271075382477428458",
+        "mf": "2757180_5271075382477428458.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757190",
+        "key": "2054970.key",
+        "label": "Pack 32",
+        "manifest": "7353387220959454102",
+        "mf": "2757190_7353387220959454102.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757200",
+        "key": "2054970.key",
+        "label": "Pack 33",
+        "manifest": "7794411242485950378",
+        "mf": "2757200_7794411242485950378.manifest"
+      },
+      {
+        "app": "2054970",
+        "depot": "2757210",
+        "key": "2054970.key",
+        "label": "Pack 34",
+        "manifest": "6663042780467633977",
+        "mf": "2757210_6663042780467633977.manifest"
+      }
+    ],
+    "game": "Dragon's Dogma 2",
+    "key_file": "2054970.key",
+    "manifest_folder": "Manifests/2054970"
+  },
+  "EA SPORTS FC 24": {
+    "appid": "2195250",
+    "build_id": "17639013",
+    "buildid": "17639013",
+    "depots": [
+      {
+        "app": "2195250",
+        "depot": "2195251",
+        "key": "2195250.key",
+        "label": "Base Game",
+        "manifest": "7672999823056687052",
+        "mf": "2195251_7672999823056687052.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195252",
+        "key": "2195250.key",
+        "label": "Pack 1",
+        "manifest": "6083654604081128551",
+        "mf": "2195252_6083654604081128551.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195253",
+        "key": "2195250.key",
+        "label": "Pack 2",
+        "manifest": "6094148585544173744",
+        "mf": "2195253_6094148585544173744.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195254",
+        "key": "2195250.key",
+        "label": "Pack 3",
+        "manifest": "7344535039234877652",
+        "mf": "2195254_7344535039234877652.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195255",
+        "key": "2195250.key",
+        "label": "Pack 4",
+        "manifest": "5244360507398075617",
+        "mf": "2195255_5244360507398075617.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195256",
+        "key": "2195250.key",
+        "label": "Pack 5",
+        "manifest": "8528604553957941022",
+        "mf": "2195256_8528604553957941022.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195257",
+        "key": "2195250.key",
+        "label": "Pack 6",
+        "manifest": "8438942418215566453",
+        "mf": "2195257_8438942418215566453.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195258",
+        "key": "2195250.key",
+        "label": "Pack 7",
+        "manifest": "8030570588454823983",
+        "mf": "2195258_8030570588454823983.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195259",
+        "key": "2195250.key",
+        "label": "Pack 8",
+        "manifest": "8134537974176079517",
+        "mf": "2195259_8134537974176079517.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195261",
+        "key": "2195250.key",
+        "label": "Pack 9",
+        "manifest": "4119361506380638029",
+        "mf": "2195261_4119361506380638029.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195262",
+        "key": "2195250.key",
+        "label": "Pack 10",
+        "manifest": "4340316173116628039",
+        "mf": "2195262_4340316173116628039.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195263",
+        "key": "2195250.key",
+        "label": "Pack 11",
+        "manifest": "1069830801541967861",
+        "mf": "2195263_1069830801541967861.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195264",
+        "key": "2195250.key",
+        "label": "Pack 12",
+        "manifest": "8408396513563688094",
+        "mf": "2195264_8408396513563688094.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195265",
+        "key": "2195250.key",
+        "label": "Pack 13",
+        "manifest": "8738284959829421455",
+        "mf": "2195265_8738284959829421455.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195266",
+        "key": "2195250.key",
+        "label": "Pack 14",
+        "manifest": "3090738039087397089",
+        "mf": "2195266_3090738039087397089.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195267",
+        "key": "2195250.key",
+        "label": "Pack 15",
+        "manifest": "3444972824702607822",
+        "mf": "2195267_3444972824702607822.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195268",
+        "key": "2195250.key",
+        "label": "Pack 16",
+        "manifest": "6874302241456915297",
+        "mf": "2195268_6874302241456915297.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2195269",
+        "key": "2195250.key",
+        "label": "Pack 17",
+        "manifest": "4671975196246909993",
+        "mf": "2195269_4671975196246909993.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2290730",
+        "key": "2195250.key",
+        "label": "Pack 18",
+        "manifest": "1888142871724331463",
+        "mf": "2290730_1888142871724331463.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2290731",
+        "key": "2195250.key",
+        "label": "Pack 19",
+        "manifest": "8764455488340796665",
+        "mf": "2290731_8764455488340796665.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2290732",
+        "key": "2195250.key",
+        "label": "Pack 20",
+        "manifest": "8116001033448005482",
+        "mf": "2290732_8116001033448005482.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "2290733",
+        "key": "2195250.key",
+        "label": "Pack 21",
+        "manifest": "3337924621954580139",
+        "mf": "2290733_3337924621954580139.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "3340991",
+        "key": "2195250.key",
+        "label": "Pack 22",
+        "manifest": "6717304605949129056",
+        "mf": "3340991_6717304605949129056.manifest"
+      },
+      {
+        "app": "2195250",
+        "depot": "3893181",
+        "key": "2195250.key",
+        "label": "Pack 23",
+        "manifest": "1558442456104985494",
+        "mf": "3893181_1558442456104985494.manifest"
+      }
+    ],
+    "game": "EA SPORTS FC 24",
+    "key_file": "2195250.key",
+    "manifest_folder": "Manifests/2195250"
+  },
+  "F1\u00ae Manager 2024": {
+    "appid": "2591280",
+    "depots": [
+      {
+        "app": "2591280",
+        "depot": "2591281",
+        "key": "2591280.key",
+        "label": "Base Game",
+        "manifest": "5180313629266358202",
+        "max_size": "18776311184",
+        "mf": "2591281_5180313629266358202.manifest",
+        "size": "18776311184",
+        "size_bytes": "18776311184"
+      }
+    ],
+    "game": "F1\u00ae Manager 2024",
+    "key_file": "2591280.key",
+    "manifest_folder": "Manifests/2591280"
+  },
+  "FINAL FANTASY XV WINDOWS EDITION": {
+    "depots": [
+      {
+        "app": "637650",
+        "depot": "637651",
+        "key": "637650.key",
+        "label": "Base Game",
+        "manifest": "4290656803638294445",
+        "mf": "637651_4290656803638294445.manifest"
+      }
+    ],
+    "game": "FINAL FANTASY XV WINDOWS EDITION",
+    "key_file": "637650.key",
+    "manifest_folder": "Manifests/637650"
+  },
+  "Football Manager 26": {
+    "depots": [
+      {
+        "app": "3551340",
+        "depot": "3551341",
+        "key": "3551340.key",
+        "label": "Base Game",
+        "manifest": "7759922098115499616",
+        "mf": "3551341_7759922098115499616.manifest"
+      },
+      {
+        "app": "3551340",
+        "depot": "3551342",
+        "key": "3551340.key",
+        "label": "Pack 1",
+        "manifest": "4286155556537576831",
+        "mf": "3551342_4286155556537576831.manifest"
+      },
+      {
+        "app": "3551340",
+        "depot": "3551343",
+        "key": "3551340.key",
+        "label": "Pack 2",
+        "manifest": "6975117889499650380",
+        "mf": "3551343_6975117889499650380.manifest"
+      }
+    ],
+    "game": "Football Manager 26",
+    "key_file": "3551340.key",
+    "manifest_folder": "Manifests/3551340"
+  },
+  "Hogwarts Legacy": {
+    "depots": [
+      {
+        "app": "990080",
+        "depot": "990081",
+        "key": "990080.key",
+        "label": "Base Game",
+        "manifest": "5198899101792588169",
+        "mf": "990081_5198899101792588169.manifest"
+      },
+      {
+        "app": "990080",
+        "depot": "990082",
+        "key": "990080.key",
+        "label": "Pack 1",
+        "manifest": "7167310505439807086",
+        "mf": "990082_7167310505439807086.manifest"
+      },
+      {
+        "app": "990080",
+        "depot": "990083",
+        "key": "990080.key",
+        "label": "Pack 2",
+        "manifest": "6256883361539505915",
+        "mf": "990083_6256883361539505915.manifest"
+      },
+      {
+        "app": "990080",
+        "depot": "990084",
+        "key": "990080.key",
+        "label": "Pack 3",
+        "manifest": "4878463996609114776",
+        "mf": "990084_4878463996609114776.manifest"
+      },
+      {
+        "app": "990080",
+        "depot": "990085",
+        "key": "990080.key",
+        "label": "Pack 4",
+        "manifest": "109909038347739340",
+        "mf": "990085_109909038347739340.manifest"
+      },
+      {
+        "app": "990080",
+        "depot": "990086",
+        "key": "990080.key",
+        "label": "Pack 5",
+        "manifest": "7173744932268868207",
+        "mf": "990086_7173744932268868207.manifest"
+      },
+      {
+        "app": "990080",
+        "depot": "990087",
+        "key": "990080.key",
+        "label": "Pack 6",
+        "manifest": "4408608444924365738",
+        "mf": "990087_4408608444924365738.manifest"
+      },
+      {
+        "app": "990080",
+        "depot": "990088",
+        "key": "990080.key",
+        "label": "Pack 7",
+        "manifest": "4209668305361446309",
+        "mf": "990088_4209668305361446309.manifest"
+      },
+      {
+        "app": "990080",
+        "depot": "990089",
+        "key": "990080.key",
+        "label": "Pack 8",
+        "manifest": "7833413172600852139",
+        "mf": "990089_7833413172600852139.manifest"
+      }
+    ],
+    "game": "Hogwarts Legacy",
+    "key_file": "990080.key",
+    "manifest_folder": "Manifests/990080"
+  },
+  "Jurassic World Evolution 2": {
+    "depots": [
+      {
+        "app": "1244460",
+        "depot": "1244461",
+        "key": "1244460.key",
+        "label": "Base Game",
+        "manifest": "3466130684209996467",
+        "mf": "1244461_3466130684209996467.manifest"
+      }
+    ],
+    "game": "Jurassic World Evolution 2",
+    "key_file": "1244460.key",
+    "manifest_folder": "Manifests/1244460"
+  },
+  "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight": {
+    "depots": [
+      {
+        "app": "2215200",
+        "depot": "2215201",
+        "key": "2215200.key",
+        "label": "Base Game",
+        "manifest": "3113168277119028025",
+        "mf": "2215201_3113168277119028025.manifest"
+      }
+    ],
+    "game": "LEGO\u00ae Batman\u2122: Legacy of the Dark Knight",
+    "key_file": "2215200.key",
+    "manifest_folder": "Manifests/2215200"
+  },
+  "Life is Strange: Reunion": {
+    "depots": [
+      {
+        "app": "2624870",
+        "depot": "2624871",
+        "key": "2624870.key",
+        "label": "Base Game",
+        "manifest": "4844659092145754092",
+        "mf": "2624871_4844659092145754092.manifest"
+      },
+      {
+        "app": "2624870",
+        "depot": "3977740",
+        "key": "2624870.key",
+        "label": "Pack 1",
+        "manifest": "7067755487449646506",
+        "mf": "3977740_7067755487449646506.manifest"
+      }
+    ],
+    "game": "Life is Strange: Reunion",
+    "key_file": "2624870.key",
+    "manifest_folder": "Manifests/2624870"
+  },
+  "Like a Dragon: Infinite Wealth": {
+    "depots": [
+      {
+        "app": "2072450",
+        "depot": "2072451",
+        "key": "2072450.key",
+        "label": "Base Game",
+        "manifest": "4882956135694037628",
+        "mf": "2072451_4882956135694037628.manifest"
+      }
+    ],
+    "game": "Like a Dragon: Infinite Wealth",
+    "key_file": "2072450.key",
+    "manifest_folder": "Manifests/2072450"
+  },
+  "Mafia The Old Country": {
+    "appid": "1941540",
+    "depots": [
+      {
+        "app": "1941540",
+        "depot": "1941541",
+        "key": "1941540.key",
+        "label": "Base Game",
+        "manifest": "3121778726057603637",
+        "max_size": "48903291303",
+        "mf": "1941541_3121778726057603637.manifest",
+        "size": "48903291303",
+        "size_bytes": "48903291303"
+      }
+    ],
+    "game": "Mafia The Old Country",
+    "key_file": "1941540.key",
+    "manifest_folder": "Manifests/1941540"
+  },
+  "Monster Hunter Wilds": {
+    "appid": "2246340",
+    "depots": [
+      {
+        "app": "2246340",
+        "depot": "2246341",
+        "key": "2246340.key",
+        "label": "Base Game",
+        "manifest": "4809375751636709689",
+        "max_size": "130990131838",
+        "mf": "2246341_4809375751636709689.manifest",
+        "size": "130990131838",
+        "size_bytes": "130990131838"
+      },
+      {
+        "app": "2246340",
+        "depot": "3308900",
+        "key": "2246340.key",
+        "label": "Pack 1",
+        "manifest": "2311240512518968412",
+        "max_size": "31921562456",
+        "mf": "3308900_2311240512518968412.manifest",
+        "size": "31921562456",
+        "size_bytes": "31921562456"
+      }
+    ],
+    "game": "Monster Hunter Wilds",
+    "key_file": "2246340.key",
+    "manifest_folder": "Manifests/2246340"
+  },
+  "Mortal Kombat 1": {
+    "depots": [
+      {
+        "app": "1971870",
+        "depot": "1971872",
+        "key": "1971870.key",
+        "label": "Base Game",
+        "manifest": "8552604172369068290",
+        "mf": "1971872_8552604172369068290.manifest"
+      },
+      {
+        "app": "1971870",
+        "depot": "1971873",
+        "key": "1971870.key",
+        "label": "Pack 1",
+        "manifest": "5676539294652549514",
+        "mf": "1971873_5676539294652549514.manifest"
+      },
+      {
+        "app": "1971870",
+        "depot": "1971874",
+        "key": "1971870.key",
+        "label": "Pack 2",
+        "manifest": "512005367846038723",
+        "mf": "1971874_512005367846038723.manifest"
+      },
+      {
+        "app": "1971870",
+        "depot": "1971875",
+        "key": "1971870.key",
+        "label": "Pack 3",
+        "manifest": "2741683106529194428",
+        "mf": "1971875_2741683106529194428.manifest"
+      },
+      {
+        "app": "1971870",
+        "depot": "2615191",
+        "key": "1971870.key",
+        "label": "Pack 4",
+        "manifest": "4363176120155839027",
+        "mf": "2615191_4363176120155839027.manifest"
+      },
+      {
+        "app": "1971870",
+        "depot": "3168021",
+        "key": "1971870.key",
+        "label": "Pack 5",
+        "manifest": "9095445288428088123",
+        "mf": "3168021_9095445288428088123.manifest"
+      },
+      {
+        "app": "1971870",
+        "depot": "3233541",
+        "key": "1971870.key",
+        "label": "Pack 6",
+        "manifest": "9120506324946519517",
+        "mf": "3233541_9120506324946519517.manifest"
+      }
+    ],
+    "game": "Mortal Kombat 1",
+    "key_file": "1971870.key",
+    "manifest_folder": "Manifests/1971870"
+  },
+  "PRAGMATA": {
+    "depots": [
+      {
+        "app": "3357650",
+        "depot": "3357651",
+        "key": "3357650.key",
+        "label": "Base Game",
+        "manifest": "6330832861176696160",
+        "mf": "3357651_6330832861176696160.manifest"
+      },
+      {
+        "app": "3357650",
+        "depot": "3357652",
+        "key": "3357650.key",
+        "label": "Pack 1",
+        "manifest": "5639705324720691310",
+        "mf": "3357652_5639705324720691310.manifest"
+      },
+      {
+        "app": "3357650",
+        "depot": "3859920",
+        "key": "3357650.key",
+        "label": "Pack 2",
+        "manifest": "4731286747379700304",
+        "mf": "3859920_4731286747379700304.manifest"
+      },
+      {
+        "app": "3357650",
+        "depot": "3859930",
+        "key": "3357650.key",
+        "label": "Pack 3",
+        "manifest": "6714427611547107917",
+        "mf": "3859930_6714427611547107917.manifest"
+      }
+    ],
+    "game": "PRAGMATA",
+    "key_file": "3357650.key",
+    "manifest_folder": "Manifests/3357650"
+  },
+  "Persona 3 Reload": {
+    "appid": "2161700",
+    "depots": [
+      {
+        "app": "2161700",
+        "depot": "2161701",
+        "key": "2161700.key",
+        "label": "Base Game",
+        "manifest": "8534679793765499772",
+        "max_size": "20251230243",
+        "mf": "2161701_8534679793765499772.manifest",
+        "size": "20251230243",
+        "size_bytes": "20251230243"
+      }
+    ],
+    "game": "Persona 3 Reload",
+    "key_file": "2161700.key",
+    "manifest_folder": "Manifests/2161700"
+  },
+  "Persona 5 Royal": {
+    "depots": [
+      {
+        "app": "1687950",
+        "depot": "1687951",
+        "key": "1687950.key",
+        "label": "Base Game",
+        "manifest": "179949564195054526",
+        "mf": "1687951_179949564195054526.manifest"
+      },
+      {
+        "app": "1687950",
+        "depot": "1687952",
+        "key": "1687950.key",
+        "label": "Pack 1",
+        "manifest": "3167861682612256520",
+        "mf": "1687952_3167861682612256520.manifest"
+      },
+      {
+        "app": "1687950",
+        "depot": "1687953",
+        "key": "1687950.key",
+        "label": "Pack 2",
+        "manifest": "676724932591096292",
+        "mf": "1687953_676724932591096292.manifest"
+      },
+      {
+        "app": "1687950",
+        "depot": "1687954",
+        "key": "1687950.key",
+        "label": "Pack 3",
+        "manifest": "4383202142358403441",
+        "mf": "1687954_4383202142358403441.manifest"
+      },
+      {
+        "app": "1687950",
+        "depot": "1687955",
+        "key": "1687950.key",
+        "label": "Pack 4",
+        "manifest": "1440355225172460061",
+        "mf": "1687955_1440355225172460061.manifest"
+      },
+      {
+        "app": "1687950",
+        "depot": "1687956",
+        "key": "1687950.key",
+        "label": "Pack 5",
+        "manifest": "7521686342464165318",
+        "mf": "1687956_7521686342464165318.manifest"
+      },
+      {
+        "app": "1687950",
+        "depot": "1687957",
+        "key": "1687950.key",
+        "label": "Pack 6",
+        "manifest": "748315061441883037",
+        "mf": "1687957_748315061441883037.manifest"
+      },
+      {
+        "app": "1687950",
+        "depot": "1687958",
+        "key": "1687950.key",
+        "label": "Pack 7",
+        "manifest": "4651383591850403589",
+        "mf": "1687958_4651383591850403589.manifest"
+      },
+      {
+        "app": "1687950",
+        "depot": "1687959",
+        "key": "1687950.key",
+        "label": "Pack 8",
+        "manifest": "223453434450812259",
+        "mf": "1687959_223453434450812259.manifest"
+      },
+      {
+        "app": "1687950",
+        "depot": "1753980",
+        "key": "1687950.key",
+        "label": "Pack 9",
+        "manifest": "3263965511551036653",
+        "mf": "1753980_3263965511551036653.manifest"
+      }
+    ],
+    "game": "Persona 5 Royal",
+    "key_file": "1687950.key",
+    "manifest_folder": "Manifests/1687950"
+  },
+  "Planet Coaster 2": {
+    "depots": [
+      {
+        "app": "2688950",
+        "depot": "2688951",
+        "key": "2688950.key",
+        "label": "Base Game",
+        "manifest": "702010445531950067",
+        "mf": "2688951_702010445531950067.manifest"
+      }
+    ],
+    "game": "Planet Coaster 2",
+    "key_file": "2688950.key",
+    "manifest_folder": "Manifests/2688950"
+  },
+  "Planet Zoo": {
+    "depots": [
+      {
+        "app": "703080",
+        "depot": "703081",
+        "key": "703080.key",
+        "label": "Base Game",
+        "manifest": "6607940512589780813",
+        "mf": "703081_6607940512589780813.manifest"
+      },
+      {
+        "app": "703080",
+        "depot": "1098120",
+        "key": "703080.key",
+        "label": "Pack 1",
+        "manifest": "10163085496252241",
+        "mf": "1098120_10163085496252241.manifest"
+      }
+    ],
+    "game": "Planet Zoo",
+    "key_file": "703080.key",
+    "manifest_folder": "Manifests/703080"
+  },
+  "Prince of Persia The Lost Crown": {
+    "appid": "2751000",
+    "depots": [
+      {
+        "app": "2751000",
+        "depot": "1716751",
+        "key": "2751000.key",
+        "label": "Base Game",
+        "manifest": "8936186649444731600",
+        "mf": "1716751_8936186649444731600.manifest"
+      },
+      {
+        "app": "2751000",
+        "depot": "2751001",
+        "key": "2751000.key",
+        "label": "Pack 1",
+        "manifest": "4409492711677428505",
+        "mf": "2751001_4409492711677428505.manifest"
+      }
+    ],
+    "game": "Prince of Persia The Lost Crown",
+    "key_file": "2751000.key",
+    "manifest_folder": "Manifests/2751000"
+  },
+  "Resident Evil Requiem": {
+    "depots": [
+      {
+        "app": "3764200",
+        "depot": "3764201",
+        "key": "3764200.key",
+        "label": "Base Game",
+        "manifest": "2990234554016452841",
+        "mf": "3764201_2990234554016452841.manifest"
+      },
+      {
+        "app": "3764200",
+        "depot": "3764202",
+        "key": "3764200.key",
+        "label": "Pack 1",
+        "manifest": "1782915813675562857",
+        "mf": "3764202_1782915813675562857.manifest"
+      },
+      {
+        "app": "3764200",
+        "depot": "3764203",
+        "key": "3764200.key",
+        "label": "Pack 2",
+        "manifest": "1507402407513694495",
+        "mf": "3764203_1507402407513694495.manifest"
+      },
+      {
+        "app": "3764200",
+        "depot": "3764204",
+        "key": "3764200.key",
+        "label": "Pack 3",
+        "manifest": "49224221358980643",
+        "mf": "3764204_49224221358980643.manifest"
+      },
+      {
+        "app": "3764200",
+        "depot": "3764205",
+        "key": "3764200.key",
+        "label": "Pack 4",
+        "manifest": "4436866528626191669",
+        "mf": "3764205_4436866528626191669.manifest"
+      },
+      {
+        "app": "3764200",
+        "depot": "3764206",
+        "key": "3764200.key",
+        "label": "Pack 5",
+        "manifest": "136565968785594279",
+        "mf": "3764206_136565968785594279.manifest"
+      },
+      {
+        "app": "3764200",
+        "depot": "3990800",
+        "key": "3764200.key",
+        "label": "Pack 6",
+        "manifest": "9181787779883827112",
+        "mf": "3990800_9181787779883827112.manifest"
+      },
+      {
+        "app": "3764200",
+        "depot": "3990820",
+        "key": "3764200.key",
+        "label": "Pack 7",
+        "manifest": "509708311968316285",
+        "mf": "3990820_509708311968316285.manifest"
+      }
+    ],
+    "game": "Resident Evil Requiem",
+    "key_file": "3764200.key",
+    "manifest_folder": "Manifests/3764200"
+  },
+  "SONIC X SHADOW GENERATIONS": {
+    "depots": [
+      {
+        "app": "2513280",
+        "depot": "2513281",
+        "key": "2513280.key",
+        "label": "Base Game",
+        "manifest": "1703635842257284304",
+        "mf": "2513281_1703635842257284304.manifest"
+      }
+    ],
+    "game": "SONIC X SHADOW GENERATIONS",
+    "key_file": "2513280.key",
+    "manifest_folder": "Manifests/2513280"
+  },
+  "Sniper Elite: Resistance": {
+    "depots": [
+      {
+        "app": "2169200",
+        "depot": "2169201",
+        "key": "2169200.key",
+        "label": "Base Game",
+        "manifest": "7391481385941074802",
+        "mf": "2169201_7391481385941074802.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2169202",
+        "key": "2169200.key",
+        "label": "Pack 1",
+        "manifest": "1865254937317479303",
+        "mf": "2169202_1865254937317479303.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2169203",
+        "key": "2169200.key",
+        "label": "Pack 2",
+        "manifest": "7139550291347173555",
+        "mf": "2169203_7139550291347173555.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2169204",
+        "key": "2169200.key",
+        "label": "Pack 3",
+        "manifest": "372530551937361395",
+        "mf": "2169204_372530551937361395.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2169205",
+        "key": "2169200.key",
+        "label": "Pack 4",
+        "manifest": "4461957118771003967",
+        "mf": "2169205_4461957118771003967.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2169206",
+        "key": "2169200.key",
+        "label": "Pack 5",
+        "manifest": "1047435328961232841",
+        "mf": "2169206_1047435328961232841.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2169207",
+        "key": "2169200.key",
+        "label": "Pack 6",
+        "manifest": "3300678429426280478",
+        "mf": "2169207_3300678429426280478.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2169208",
+        "key": "2169200.key",
+        "label": "Pack 7",
+        "manifest": "5843923210413641436",
+        "mf": "2169208_5843923210413641436.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2169209",
+        "key": "2169200.key",
+        "label": "Pack 8",
+        "manifest": "3901507899860555469",
+        "mf": "2169209_3901507899860555469.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2561510",
+        "key": "2169200.key",
+        "label": "Pack 9",
+        "manifest": "6975774250123687764",
+        "mf": "2561510_6975774250123687764.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2561511",
+        "key": "2169200.key",
+        "label": "Pack 10",
+        "manifest": "3740802027707569957",
+        "mf": "2561511_3740802027707569957.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2561512",
+        "key": "2169200.key",
+        "label": "Pack 11",
+        "manifest": "6751910486874420582",
+        "mf": "2561512_6751910486874420582.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2561513",
+        "key": "2169200.key",
+        "label": "Pack 12",
+        "manifest": "2873633407686130884",
+        "mf": "2561513_2873633407686130884.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2561514",
+        "key": "2169200.key",
+        "label": "Pack 13",
+        "manifest": "6889488596835225992",
+        "mf": "2561514_6889488596835225992.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2561515",
+        "key": "2169200.key",
+        "label": "Pack 14",
+        "manifest": "3195328302612406793",
+        "mf": "2561515_3195328302612406793.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2561516",
+        "key": "2169200.key",
+        "label": "Pack 15",
+        "manifest": "1189735114395280860",
+        "mf": "2561516_1189735114395280860.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2561517",
+        "key": "2169200.key",
+        "label": "Pack 16",
+        "manifest": "6263522995165149636",
+        "mf": "2561517_6263522995165149636.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2561518",
+        "key": "2169200.key",
+        "label": "Pack 17",
+        "manifest": "3608856189875224965",
+        "mf": "2561518_3608856189875224965.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2561519",
+        "key": "2169200.key",
+        "label": "Pack 18",
+        "manifest": "1191642172033623765",
+        "mf": "2561519_1191642172033623765.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2561520",
+        "key": "2169200.key",
+        "label": "Pack 19",
+        "manifest": "4740185705261078409",
+        "mf": "2561520_4740185705261078409.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2561521",
+        "key": "2169200.key",
+        "label": "Pack 20",
+        "manifest": "622305630631083236",
+        "mf": "2561521_622305630631083236.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2729150",
+        "key": "2169200.key",
+        "label": "Pack 21",
+        "manifest": "7327088656667926825",
+        "mf": "2729150_7327088656667926825.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2800240",
+        "key": "2169200.key",
+        "label": "Pack 22",
+        "manifest": "3684063861755512692",
+        "mf": "2800240_3684063861755512692.manifest"
+      },
+      {
+        "app": "2169200",
+        "depot": "2800250",
+        "key": "2169200.key",
+        "label": "Pack 23",
+        "manifest": "1513378400177448501",
+        "mf": "2800250_1513378400177448501.manifest"
+      }
+    ],
+    "game": "Sniper Elite: Resistance",
+    "key_file": "2169200.key",
+    "manifest_folder": "Manifests/2169200"
+  },
+  "Sonic Frontiers": {
+    "depots": [
+      {
+        "app": "1237320",
+        "depot": "1237321",
+        "key": "1237320.key",
+        "label": "Base Game",
+        "manifest": "2773324310090316887",
+        "mf": "1237321_2773324310090316887.manifest"
+      }
+    ],
+    "game": "Sonic Frontiers",
+    "key_file": "1237320.key",
+    "manifest_folder": "Manifests/1237320"
+  },
+  "Star Wars Outlaws": {
+    "depots": [
+      {
+        "app": "2842040",
+        "depot": "1716751",
+        "key": "2842040.key",
+        "label": "Base Game",
+        "manifest": "8936186649444731600",
+        "mf": "1716751_8936186649444731600.manifest"
+      },
+      {
+        "app": "2842040",
+        "depot": "2842041",
+        "key": "2842040.key",
+        "label": "Pack 1",
+        "manifest": "5039899775321241999",
+        "mf": "2842041_5039899775321241999.manifest"
+      },
+      {
+        "app": "2842040",
+        "depot": "2842042",
+        "key": "2842040.key",
+        "label": "Pack 2",
+        "manifest": "8023630815732376815",
+        "mf": "2842042_8023630815732376815.manifest"
+      },
+      {
+        "app": "2842040",
+        "depot": "2842043",
+        "key": "2842040.key",
+        "label": "Pack 3",
+        "manifest": "4839953097128885780",
+        "mf": "2842043_4839953097128885780.manifest"
+      },
+      {
+        "app": "2842040",
+        "depot": "2842044",
+        "key": "2842040.key",
+        "label": "Pack 4",
+        "manifest": "7424665147348076845",
+        "mf": "2842044_7424665147348076845.manifest"
+      },
+      {
+        "app": "2842040",
+        "depot": "2842045",
+        "key": "2842040.key",
+        "label": "Pack 5",
+        "manifest": "6353372299728446551",
+        "mf": "2842045_6353372299728446551.manifest"
+      },
+      {
+        "app": "2842040",
+        "depot": "2842046",
+        "key": "2842040.key",
+        "label": "Pack 6",
+        "manifest": "7478173584789464744",
+        "mf": "2842046_7478173584789464744.manifest"
+      },
+      {
+        "app": "2842040",
+        "depot": "3271130",
+        "key": "2842040.key",
+        "label": "Pack 7",
+        "manifest": "3969923851033101926",
+        "mf": "3271130_3969923851033101926.manifest"
+      },
+      {
+        "app": "2842040",
+        "depot": "3541390",
+        "key": "2842040.key",
+        "label": "Pack 8",
+        "manifest": "6063451016620732592",
+        "mf": "3541390_6063451016620732592.manifest"
+      }
+    ],
+    "game": "Star Wars Outlaws",
+    "key_file": "2842040.key",
+    "manifest_folder": "Manifests/2842040"
+  },
+  "Stellar Blade": {
+    "appid": "3489700",
+    "depots": [
+      {
+        "app": "3489700",
+        "depot": "3489701",
+        "key": "3489700.key",
+        "label": "Base Game",
+        "manifest": "2747626496734343426",
+        "max_size": "64682924788",
+        "mf": "3489701_2747626496734343426.manifest",
+        "size": "64682924788",
+        "size_bytes": "64682924788"
+      },
+      {
+        "app": "3489700",
+        "depot": "3596180",
+        "key": "3489700.key",
+        "label": "Base Game",
+        "manifest": "8344797041293440177",
+        "max_size": "267945998",
+        "mf": "3596180_8344797041293440177.manifest",
+        "size": "267945998",
+        "size_bytes": "267945998"
+      },
+      {
+        "app": "3489700",
+        "depot": "3596190",
+        "key": "3489700.key",
+        "label": "Base Game",
+        "manifest": "6588499701851943951",
+        "max_size": "25546789",
+        "mf": "3596190_6588499701851943951.manifest",
+        "size": "25546789",
+        "size_bytes": "25546789"
+      }
+    ],
+    "game": "Stellar Blade",
+    "key_file": "3489700.key",
+    "manifest_folder": "Manifests/3489700"
+  },
+  "Street Fighter 6": {
+    "appid": "1364780",
+    "depots": [
+      {
+        "app": "1364780",
+        "depot": "1364781",
+        "key": "1364780.key",
+        "label": "Base Game",
+        "manifest": "8283574983479128249",
+        "max_size": "88921163006",
+        "mf": "1364781_8283574983479128249.manifest",
+        "size": "88921163006",
+        "size_bytes": "88921163006"
+      }
+    ],
+    "game": "Street Fighter 6",
+    "key_file": "1364780.key",
+    "manifest_folder": "Manifests/1364780"
+  },
+  "The First Berserker: Khazan": {
+    "appid": "2680010",
+    "depots": [
+      {
+        "app": "2680010",
+        "depot": "2680011",
+        "key": "2680010.key",
+        "label": "Base Game",
+        "manifest": "1428956032304461996",
+        "max_size": "56620645037",
+        "mf": "2680011_1428956032304461996.manifest",
+        "size": "56620645037",
+        "size_bytes": "56620645037"
+      }
+    ],
+    "game": "The First Berserker: Khazan",
+    "key_file": "2680010.key",
+    "manifest_folder": "Manifests/2680010"
+  },
+  "Two Point Campus": {
+    "depots": [
+      {
+        "app": "1649080",
+        "depot": "1649081",
+        "key": "1649080.key",
+        "label": "Base Game",
+        "manifest": "289369811377342695",
+        "mf": "1649081_289369811377342695.manifest"
+      },
+      {
+        "app": "1649080",
+        "depot": "1649082",
+        "key": "1649080.key",
+        "label": "Pack 1",
+        "manifest": "1754188831985123451",
+        "mf": "1649082_1754188831985123451.manifest"
+      },
+      {
+        "app": "1649080",
+        "depot": "1649083",
+        "key": "1649080.key",
+        "label": "Pack 2",
+        "manifest": "8695487200066453694",
+        "mf": "1649083_8695487200066453694.manifest"
+      },
+      {
+        "app": "1649080",
+        "depot": "1884561",
+        "key": "1649080.key",
+        "label": "Pack 3",
+        "manifest": "6004916305044431883",
+        "mf": "1884561_6004916305044431883.manifest"
+      },
+      {
+        "app": "1649080",
+        "depot": "1884562",
+        "key": "1649080.key",
+        "label": "Pack 4",
+        "manifest": "9045960502572329709",
+        "mf": "1884562_9045960502572329709.manifest"
+      },
+      {
+        "app": "1649080",
+        "depot": "1884563",
+        "key": "1649080.key",
+        "label": "Pack 5",
+        "manifest": "1389814531585742770",
+        "mf": "1884563_1389814531585742770.manifest"
+      },
+      {
+        "app": "1649080",
+        "depot": "1907451",
+        "key": "1649080.key",
+        "label": "Pack 6",
+        "manifest": "3622833373893779274",
+        "mf": "1907451_3622833373893779274.manifest"
+      },
+      {
+        "app": "1649080",
+        "depot": "1907452",
+        "key": "1649080.key",
+        "label": "Pack 7",
+        "manifest": "6718436180628629852",
+        "mf": "1907452_6718436180628629852.manifest"
+      },
+      {
+        "app": "1649080",
+        "depot": "1907453",
+        "key": "1649080.key",
+        "label": "Pack 8",
+        "manifest": "563266121619746797",
+        "mf": "1907453_563266121619746797.manifest"
+      },
+      {
+        "app": "1649080",
+        "depot": "2088831",
+        "key": "1649080.key",
+        "label": "Pack 9",
+        "manifest": "449155889513379090",
+        "mf": "2088831_449155889513379090.manifest"
+      },
+      {
+        "app": "1649080",
+        "depot": "2088832",
+        "key": "1649080.key",
+        "label": "Pack 10",
+        "manifest": "6192079104131336443",
+        "mf": "2088832_6192079104131336443.manifest"
+      },
+      {
+        "app": "1649080",
+        "depot": "2088833",
+        "key": "1649080.key",
+        "label": "Pack 11",
+        "manifest": "3077891501920478862",
+        "mf": "2088833_3077891501920478862.manifest"
+      },
+      {
+        "app": "1649080",
+        "depot": "2195431",
+        "key": "1649080.key",
+        "label": "Pack 12",
+        "manifest": "4533314956374088213",
+        "mf": "2195431_4533314956374088213.manifest"
+      },
+      {
+        "app": "1649080",
+        "depot": "2195432",
+        "key": "1649080.key",
+        "label": "Pack 13",
+        "manifest": "6218544159999663681",
+        "mf": "2195432_6218544159999663681.manifest"
+      },
+      {
+        "app": "1649080",
+        "depot": "2195433",
+        "key": "1649080.key",
+        "label": "Pack 14",
+        "manifest": "8941840391531308089",
+        "mf": "2195433_8941840391531308089.manifest"
+      }
+    ],
+    "game": "Two Point Campus",
+    "key_file": "1649080.key",
+    "manifest_folder": "Manifests/1649080"
+  },
+  "Warhammer 40,000: Chaos Gate - Daemonhunters": {
+    "depots": [
+      {
+        "app": "1611910",
+        "depot": "1611911",
+        "key": "1611910.key",
+        "label": "Base Game",
+        "manifest": "7150054391983782129",
+        "mf": "1611911_7150054391983782129.manifest"
+      }
+    ],
+    "game": "Warhammer 40,000: Chaos Gate - Daemonhunters",
+    "key_file": "1611910.key",
+    "manifest_folder": "Manifests/1611910"
+  },
+  "Yakuza Kiwami 3 & Dark Ties": {
+    "depots": [
+      {
+        "app": "3937550",
+        "depot": "3937551",
+        "key": "3937550.key",
+        "label": "Base Game",
+        "manifest": "663491988918308505",
+        "mf": "3937551_663491988918308505.manifest"
+      }
+    ],
+    "game": "Yakuza Kiwami 3 & Dark Ties",
+    "key_file": "3937550.key",
+    "manifest_folder": "Manifests/3937550"
   }
 }
