@@ -2,9 +2,9 @@
   "version": "2.0.0",
   "name": "Gamers Unlimited.exe",
   "url": "https://raw.githubusercontent.com/ZazaJr24/Game-Files-UpdateR/main/launcher/Gamers%20Unlimited.exe",
-  "sha256": "",
-  "size": 0,
+  "sha256": "c720866a2b237f9b1475664677384c361fb308a3aa5cb7c10de66b9089822434",
+  "size": 135874147,
   "channel": "stable",
-  "updated_at": "2026-08-11T00:00:00Z",
+  "updated_at": "2026-08-11T19:03:00Z",
   "changelog": "Complete rewrite: .NET 9 WPF with native SteamKit2 integration. Download queue system, dark Mica UI, direct library references instead of external process spawning."
 }
